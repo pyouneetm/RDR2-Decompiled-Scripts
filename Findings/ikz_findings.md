@@ -1,8 +1,7 @@
 # Search Results for: IKZ, Isabeau, Zinsmeister, CS_Princess, CS_PrincessIsabeau
+> *Note: File paths have been omitted for privacy.*
 
 ## Match in `abigail2_1.c` at Line 83007
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\abigail2_1.c`
-
 **Context (approx. Line 82977):**
 ```c
 bool func_2484(int iParam0, int iParam1, var uParam2)
@@ -69,8 +68,6 @@ bool func_2486(int iParam0)
 ---
 
 ## Match in `abigail2_1_intro.c` at Line 9970
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\abigail2_1_intro.c`
-
 **Context (approx. Line 9940):**
 ```c
 void func_455(int iParam0)
@@ -138,8 +135,6 @@ bool func_456(int iParam0)
 ---
 
 ## Match in `act_bankrobbery01.c` at Line 60745
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\act_bankrobbery01.c`
-
 **Context (approx. Line 60715):**
 ```c
 case joaat("P_CS_NEWSPAPER_01X"):
@@ -207,8 +202,6 @@ bool func_1956(int iParam0)
 ---
 
 ## Match in `act_cajav_homerob1.c` at Line 45830
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\act_cajav_homerob1.c`
-
 **Context (approx. Line 45800):**
 ```c
 {
@@ -276,8 +269,6 @@ bool func_1504(int iParam0)
 ---
 
 ## Match in `act_caunc_rustling.c` at Line 57210
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\act_caunc_rustling.c`
-
 **Context (approx. Line 57180):**
 ```c
 FLOCK::_0xC95611869E14F8AF(*uParam0, 0, 23, 2.5f);
@@ -345,8 +336,6 @@ bool func_1557(int iParam0)
 ---
 
 ## Match in `act_caunc_rustling_invite.c` at Line 28624
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\act_caunc_rustling_invite.c`
-
 **Context (approx. Line 28594):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -414,8 +403,6 @@ bool func_994(int iParam0)
 ---
 
 ## Match in `act_fishing01.c` at Line 53835
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\act_fishing01.c`
-
 **Context (approx. Line 53805):**
 ```c
 }
@@ -483,8 +470,6 @@ bool func_1706(int iParam0)
 ---
 
 ## Match in `act_fishing03.c` at Line 45538
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\act_fishing03.c`
-
 **Context (approx. Line 45508):**
 ```c
 bool func_1383(int iParam0, int iParam1)
@@ -552,8 +537,6 @@ bool func_1384(int iParam0)
 ---
 
 ## Match in `act_fishing06.c` at Line 49246
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\act_fishing06.c`
-
 **Context (approx. Line 49216):**
 ```c
 return -1;
@@ -621,8 +604,6 @@ bool func_1458(int iParam0)
 ---
 
 ## Match in `act_hunting_2.c` at Line 43671
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\act_hunting_2.c`
-
 **Context (approx. Line 43641):**
 ```c
 void func_1227(int iParam0, int iParam1)
@@ -689,8 +670,6 @@ bool func_1230(int iParam0)
 ---
 
 ## Match in `ambush_bnd_cliff1.c` at Line 9733
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_bnd_cliff1.c`
-
 **Context (approx. Line 9703):**
 ```c
 default:
@@ -758,8 +737,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `ambush_bnd_ridge_ambush.c` at Line 10358
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_bnd_ridge_ambush.c`
-
 **Context (approx. Line 10328):**
 ```c
 {
@@ -827,8 +804,6 @@ bool func_389(int iParam0)
 ---
 
 ## Match in `ambush_bnd_sniper_attack.c` at Line 9773
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_bnd_sniper_attack.c`
-
 **Context (approx. Line 9743):**
 ```c
 {
@@ -896,8 +871,6 @@ bool func_384(int iParam0)
 ---
 
 ## Match in `ambush_exc_bridge_trap.c` at Line 10338
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_exc_bridge_trap.c`
-
 **Context (approx. Line 10308):**
 ```c
 return func_479(1, 14);
@@ -965,8 +938,6 @@ bool func_384(int iParam0)
 ---
 
 ## Match in `ambush_exc_hide_cover.c` at Line 9475
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_exc_hide_cover.c`
-
 **Context (approx. Line 9445):**
 ```c
 default:
@@ -1034,8 +1005,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `ambush_exc_lookout_attack.c` at Line 9830
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_exc_lookout_attack.c`
-
 **Context (approx. Line 9800):**
 ```c
 }
@@ -1103,8 +1072,6 @@ bool func_376(int iParam0)
 ---
 
 ## Match in `ambush_exc_road_robbery.c` at Line 13068
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_exc_road_robbery.c`
-
 **Context (approx. Line 13038):**
 ```c
 }
@@ -1172,8 +1139,6 @@ bool func_463(int iParam0)
 ---
 
 ## Match in `ambush_exc_scm_prec.c` at Line 10605
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_exc_scm_prec.c`
-
 **Context (approx. Line 10575):**
 ```c
 }
@@ -1241,8 +1206,6 @@ bool func_404(int iParam0)
 ---
 
 ## Match in `ambush_exc_wagon_bomb.c` at Line 10483
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_exc_wagon_bomb.c`
-
 **Context (approx. Line 10453):**
 ```c
 return 5;
@@ -1310,8 +1273,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `ambush_exc_wagon_turret.c` at Line 11274
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_exc_wagon_turret.c`
-
 **Context (approx. Line 11244):**
 ```c
 {
@@ -1379,8 +1340,6 @@ bool func_385(int iParam0)
 ---
 
 ## Match in `ambush_gen_night_rob.c` at Line 10842
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_gen_night_rob.c`
-
 **Context (approx. Line 10812):**
 ```c
 default:
@@ -1448,8 +1407,6 @@ bool func_395(int iParam0)
 ---
 
 ## Match in `ambush_inb_bridge_ambush.c` at Line 9918
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_inb_bridge_ambush.c`
-
 **Context (approx. Line 9888):**
 ```c
 }
@@ -1517,8 +1474,6 @@ bool func_387(int iParam0)
 ---
 
 ## Match in `ambush_inb_forest.c` at Line 12893
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_inb_forest.c`
-
 **Context (approx. Line 12863):**
 ```c
 }
@@ -1586,8 +1541,6 @@ bool func_461(int iParam0)
 ---
 
 ## Match in `ambush_inb_forest_attack.c` at Line 9947
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_inb_forest_attack.c`
-
 **Context (approx. Line 9917):**
 ```c
 }
@@ -1655,8 +1608,6 @@ bool func_379(int iParam0)
 ---
 
 ## Match in `ambush_inb_harass.c` at Line 11382
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_inb_harass.c`
-
 **Context (approx. Line 11352):**
 ```c
 }
@@ -1724,8 +1675,6 @@ bool func_420(int iParam0)
 ---
 
 ## Match in `ambush_inb_road_attack.c` at Line 9598
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_inb_road_attack.c`
-
 **Context (approx. Line 9568):**
 ```c
 {
@@ -1793,8 +1742,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `ambush_odr_bridge_ambush.c` at Line 10589
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_odr_bridge_ambush.c`
-
 **Context (approx. Line 10559):**
 ```c
 {
@@ -1862,8 +1809,6 @@ bool func_404(int iParam0)
 ---
 
 ## Match in `ambush_odr_bridge_prevent.c` at Line 12107
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_odr_bridge_prevent.c`
-
 **Context (approx. Line 12077):**
 ```c
 return 5;
@@ -1931,8 +1876,6 @@ bool func_427(int iParam0)
 ---
 
 ## Match in `ambush_odr_bridge_trap.c` at Line 13088
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_odr_bridge_trap.c`
-
 **Context (approx. Line 13058):**
 ```c
 }
@@ -2000,8 +1943,6 @@ bool func_479(int iParam0)
 ---
 
 ## Match in `ambush_odr_hso.c` at Line 12903
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_odr_hso.c`
-
 **Context (approx. Line 12873):**
 ```c
 }
@@ -2069,8 +2010,6 @@ bool func_458(int iParam0)
 ---
 
 ## Match in `ambush_odr_lookout_attack.c` at Line 9613
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_odr_lookout_attack.c`
-
 **Context (approx. Line 9583):**
 ```c
 return func_416(2, 12);
@@ -2138,8 +2077,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `ambush_odr_ride_out.c` at Line 10483
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_odr_ride_out.c`
-
 **Context (approx. Line 10453):**
 ```c
 return func_412(7, 10);
@@ -2207,8 +2144,6 @@ bool func_401(int iParam0)
 ---
 
 ## Match in `ambush_odr_road_prec.c` at Line 11083
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_odr_road_prec.c`
-
 **Context (approx. Line 11053):**
 ```c
 {
@@ -2276,8 +2211,6 @@ bool func_422(int iParam0)
 ---
 
 ## Match in `ambush_odr_road_robbery.c` at Line 10633
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_odr_road_robbery.c`
-
 **Context (approx. Line 10603):**
 ```c
 {
@@ -2345,8 +2278,6 @@ bool func_408(int iParam0)
 ---
 
 ## Match in `ambush_pnk_type1.c` at Line 10654
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_pnk_type1.c`
-
 **Context (approx. Line 10624):**
 ```c
 return 4;
@@ -2414,8 +2345,6 @@ bool func_394(int iParam0)
 ---
 
 ## Match in `ambush_rnc_type1.c` at Line 11310
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_rnc_type1.c`
-
 **Context (approx. Line 11280):**
 ```c
 {
@@ -2483,8 +2412,6 @@ bool func_413(int iParam0)
 ---
 
 ## Match in `ambush_sav_corner.c` at Line 10165
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_sav_corner.c`
-
 **Context (approx. Line 10135):**
 ```c
 }
@@ -2552,8 +2479,6 @@ bool func_394(int iParam0)
 ---
 
 ## Match in `ambush_sav_forest_attack.c` at Line 10481
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_sav_forest_attack.c`
-
 **Context (approx. Line 10451):**
 ```c
 }
@@ -2621,8 +2546,6 @@ bool func_398(int iParam0)
 ---
 
 ## Match in `ambush_sav_lookout_attack.c` at Line 9350
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_sav_lookout_attack.c`
-
 **Context (approx. Line 9320):**
 ```c
 return func_271(1, 11);
@@ -2690,8 +2613,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `ambush_sav_river_ambush.c` at Line 10238
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_sav_river_ambush.c`
-
 **Context (approx. Line 10208):**
 ```c
 }
@@ -2759,8 +2680,6 @@ bool func_393(int iParam0)
 ---
 
 ## Match in `ambush_sav_tree_line.c` at Line 10398
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\ambush_sav_tree_line.c`
-
 **Context (approx. Line 10368):**
 ```c
 return func_446(1, 11);
@@ -2828,8 +2747,6 @@ bool func_401(int iParam0)
 ---
 
 ## Match in `armadillo.c` at Line 9100
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\armadillo.c`
-
 **Context (approx. Line 9070):**
 ```c
 return 0;
@@ -2897,8 +2814,6 @@ bool func_324(int iParam0)
 ---
 
 ## Match in `av_alligator_boar_leg.c` at Line 4153
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_alligator_boar_leg.c`
-
 **Context (approx. Line 4123):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -2966,8 +2881,6 @@ bool func_133(int iParam0)
 ---
 
 ## Match in `av_alligator_boar_neck.c` at Line 4157
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_alligator_boar_neck.c`
-
 **Context (approx. Line 4127):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3035,8 +2948,6 @@ bool func_133(int iParam0)
 ---
 
 ## Match in `av_alligator_eat_dead_bird.c` at Line 3633
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_alligator_eat_dead_bird.c`
-
 **Context (approx. Line 3603):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3104,8 +3015,6 @@ bool func_121(int iParam0)
 ---
 
 ## Match in `av_amb_camp_robbery.c` at Line 4911
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_amb_camp_robbery.c`
-
 **Context (approx. Line 4881):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3173,8 +3082,6 @@ bool func_143(int iParam0)
 ---
 
 ## Match in `av_animal_attack.c` at Line 4258
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_animal_attack.c`
-
 **Context (approx. Line 4228):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3242,8 +3149,6 @@ bool func_130(int iParam0)
 ---
 
 ## Match in `av_animal_carry_ride.c` at Line 4900
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_animal_carry_ride.c`
-
 **Context (approx. Line 4870):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3311,8 +3216,6 @@ bool func_146(int iParam0)
 ---
 
 ## Match in `av_animal_scavenger.c` at Line 3908
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_animal_scavenger.c`
-
 **Context (approx. Line 3878):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3380,8 +3283,6 @@ bool func_120(int iParam0)
 ---
 
 ## Match in `av_barber_shaving.c` at Line 5683
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_barber_shaving.c`
-
 **Context (approx. Line 5653):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3449,8 +3350,6 @@ bool func_185(int iParam0)
 ---
 
 ## Match in `av_bearblack_intimidate_bearblack.c` at Line 4179
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bearblack_intimidate_bearblack.c`
-
 **Context (approx. Line 4149):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3518,8 +3417,6 @@ bool func_133(int iParam0)
 ---
 
 ## Match in `av_bear_intimidate_wolf.c` at Line 4381
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bear_intimidate_wolf.c`
-
 **Context (approx. Line 4351):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3587,8 +3484,6 @@ bool func_133(int iParam0)
 ---
 
 ## Match in `av_bear_run_catch_fish.c` at Line 4122
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bear_run_catch_fish.c`
-
 **Context (approx. Line 4092):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3656,8 +3551,6 @@ bool func_131(int iParam0)
 ---
 
 ## Match in `av_bear_scratch_back.c` at Line 4099
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bear_scratch_back.c`
-
 **Context (approx. Line 4069):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3725,8 +3618,6 @@ bool func_132(int iParam0)
 ---
 
 ## Match in `av_bear_vs_wolves.c` at Line 4277
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bear_vs_wolves.c`
-
 **Context (approx. Line 4247):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3794,8 +3685,6 @@ bool func_135(int iParam0)
 ---
 
 ## Match in `av_beaver_swim_with_branch.c` at Line 4102
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_beaver_swim_with_branch.c`
-
 **Context (approx. Line 4072):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3863,8 +3752,6 @@ bool func_131(int iParam0)
 ---
 
 ## Match in `av_big_cat_ambush_deer.c` at Line 4301
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_big_cat_ambush_deer.c`
-
 **Context (approx. Line 4271):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -3932,8 +3819,6 @@ bool func_137(int iParam0)
 ---
 
 ## Match in `av_big_cat_kill_raccoon.c` at Line 4237
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_big_cat_kill_raccoon.c`
-
 **Context (approx. Line 4207):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4001,8 +3886,6 @@ bool func_134(int iParam0)
 ---
 
 ## Match in `av_birds_in_tree.c` at Line 4000
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_birds_in_tree.c`
-
 **Context (approx. Line 3970):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4070,8 +3953,6 @@ bool func_123(int iParam0)
 ---
 
 ## Match in `av_bird_fence_swarm.c` at Line 3825
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bird_fence_swarm.c`
-
 **Context (approx. Line 3795):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4139,8 +4020,6 @@ bool func_106(int iParam0)
 ---
 
 ## Match in `av_bird_flee_swarm.c` at Line 3591
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bird_flee_swarm.c`
-
 **Context (approx. Line 3561):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4208,8 +4087,6 @@ bool func_105(int iParam0)
 ---
 
 ## Match in `av_bird_land.c` at Line 4129
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bird_land.c`
-
 **Context (approx. Line 4099):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4277,8 +4154,6 @@ bool func_127(int iParam0)
 ---
 
 ## Match in `av_bird_land_swarm.c` at Line 4022
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bird_land_swarm.c`
-
 **Context (approx. Line 3992):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4346,8 +4221,6 @@ bool func_124(int iParam0)
 ---
 
 ## Match in `av_bird_on_animal.c` at Line 5268
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bird_on_animal.c`
-
 **Context (approx. Line 5238):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4415,8 +4288,6 @@ bool func_157(int iParam0)
 ---
 
 ## Match in `av_bird_swarm.c` at Line 3321
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bird_swarm.c`
-
 **Context (approx. Line 3291):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4484,8 +4355,6 @@ bool func_101(int iParam0)
 ---
 
 ## Match in `av_boat_placement.c` at Line 2967
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_boat_placement.c`
-
 **Context (approx. Line 2937):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4553,8 +4422,6 @@ bool func_87(int iParam0)
 ---
 
 ## Match in `av_body_toss.c` at Line 5170
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_body_toss.c`
-
 **Context (approx. Line 5140):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4622,8 +4489,6 @@ bool func_155(int iParam0)
 ---
 
 ## Match in `av_bucks_fighting.c` at Line 4117
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_bucks_fighting.c`
-
 **Context (approx. Line 4087):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4691,8 +4556,6 @@ bool func_132(int iParam0)
 ---
 
 ## Match in `av_buck_and_doe.c` at Line 4040
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_buck_and_doe.c`
-
 **Context (approx. Line 4010):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4760,8 +4623,6 @@ bool func_124(int iParam0)
 ---
 
 ## Match in `av_buffalo_vs_buffalo.c` at Line 4101
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_buffalo_vs_buffalo.c`
-
 **Context (approx. Line 4071):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4829,8 +4690,6 @@ bool func_131(int iParam0)
 ---
 
 ## Match in `av_butcher_shared.c` at Line 4790
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_butcher_shared.c`
-
 **Context (approx. Line 4760):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4898,8 +4757,6 @@ bool func_160(int iParam0)
 ---
 
 ## Match in `av_cat_carry_rat.c` at Line 4259
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_cat_carry_rat.c`
-
 **Context (approx. Line 4229):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -4967,8 +4824,6 @@ bool func_135(int iParam0)
 ---
 
 ## Match in `av_cat_catch_bird.c` at Line 4238
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_cat_catch_bird.c`
-
 **Context (approx. Line 4208):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5036,8 +4891,6 @@ bool func_133(int iParam0)
 ---
 
 ## Match in `av_chamberpot_toss.c` at Line 4047
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_chamberpot_toss.c`
-
 **Context (approx. Line 4017):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5105,8 +4958,6 @@ bool func_127(int iParam0)
 ---
 
 ## Match in `av_coyote_catch_squirrel.c` at Line 4191
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_coyote_catch_squirrel.c`
-
 **Context (approx. Line 4161):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5174,8 +5025,6 @@ bool func_131(int iParam0)
 ---
 
 ## Match in `av_cross_road.c` at Line 3455
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_cross_road.c`
-
 **Context (approx. Line 3425):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5243,8 +5092,6 @@ bool func_104(int iParam0)
 ---
 
 ## Match in `av_crows_and_eagles_eat_deer.c` at Line 4102
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_crows_and_eagles_eat_deer.c`
-
 **Context (approx. Line 4072):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5312,8 +5159,6 @@ bool func_131(int iParam0)
 ---
 
 ## Match in `av_crows_and_vultures_eat_deer.c` at Line 4165
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_crows_and_vultures_eat_deer.c`
-
 **Context (approx. Line 4135):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5381,8 +5226,6 @@ bool func_132(int iParam0)
 ---
 
 ## Match in `av_dead_animal.c` at Line 4136
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_dead_animal.c`
-
 **Context (approx. Line 4106):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5450,8 +5293,6 @@ bool func_128(int iParam0)
 ---
 
 ## Match in `av_dead_horse.c` at Line 3980
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_dead_horse.c`
-
 **Context (approx. Line 3950):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5519,8 +5360,6 @@ bool func_123(int iParam0)
 ---
 
 ## Match in `av_deer_antlers_stuck.c` at Line 4135
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_deer_antlers_stuck.c`
-
 **Context (approx. Line 4105):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5588,8 +5427,6 @@ bool func_131(int iParam0)
 ---
 
 ## Match in `av_deer_tree_rub.c` at Line 3863
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_deer_tree_rub.c`
-
 **Context (approx. Line 3833):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5657,8 +5494,6 @@ bool func_120(int iParam0)
 ---
 
 ## Match in `av_discoverable_parakeet.c` at Line 3516
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_discoverable_parakeet.c`
-
 **Context (approx. Line 3486):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5726,8 +5561,6 @@ bool func_111(int iParam0)
 ---
 
 ## Match in `av_dogs_playing.c` at Line 4135
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_dogs_playing.c`
-
 **Context (approx. Line 4105):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5795,8 +5628,6 @@ bool func_130(int iParam0)
 ---
 
 ## Match in `av_dog_chase_cat.c` at Line 4002
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_dog_chase_cat.c`
-
 **Context (approx. Line 3972):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5864,8 +5695,6 @@ bool func_126(int iParam0)
 ---
 
 ## Match in `av_dog_chase_tail.c` at Line 4006
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_dog_chase_tail.c`
-
 **Context (approx. Line 3976):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -5933,8 +5762,6 @@ bool func_124(int iParam0)
 ---
 
 ## Match in `av_dog_in_wagon.c` at Line 4203
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_dog_in_wagon.c`
-
 **Context (approx. Line 4173):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6002,8 +5829,6 @@ bool func_132(int iParam0)
 ---
 
 ## Match in `av_drop_rabbit_table.c` at Line 5259
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_drop_rabbit_table.c`
-
 **Context (approx. Line 5229):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6071,8 +5896,6 @@ bool func_160(int iParam0)
 ---
 
 ## Match in `av_eagle_catch_fish.c` at Line 4148
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_eagle_catch_fish.c`
-
 **Context (approx. Line 4118):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6140,8 +5963,6 @@ bool func_130(int iParam0)
 ---
 
 ## Match in `av_eagle_catch_rabbit.c` at Line 4184
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_eagle_catch_rabbit.c`
-
 **Context (approx. Line 4154):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6209,8 +6030,6 @@ bool func_130(int iParam0)
 ---
 
 ## Match in `av_eagle_catch_seasnake.c` at Line 4128
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_eagle_catch_seasnake.c`
-
 **Context (approx. Line 4098):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6278,8 +6097,6 @@ bool func_129(int iParam0)
 ---
 
 ## Match in `av_eagle_dive_catch_fish.c` at Line 4160
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_eagle_dive_catch_fish.c`
-
 **Context (approx. Line 4130):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6347,8 +6164,6 @@ bool func_130(int iParam0)
 ---
 
 ## Match in `av_female_rider_male_walker.c` at Line 4795
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_female_rider_male_walker.c`
-
 **Context (approx. Line 4765):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6416,8 +6231,6 @@ bool func_146(int iParam0)
 ---
 
 ## Match in `av_fishing_river.c` at Line 4929
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_fishing_river.c`
-
 **Context (approx. Line 4899):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6485,8 +6298,6 @@ bool func_147(int iParam0)
 ---
 
 ## Match in `av_fox_catch_rodent.c` at Line 4002
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_fox_catch_rodent.c`
-
 **Context (approx. Line 3972):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6554,8 +6365,6 @@ bool func_125(int iParam0)
 ---
 
 ## Match in `av_fox_hunt_in_snow.c` at Line 4039
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_fox_hunt_in_snow.c`
-
 **Context (approx. Line 4009):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6623,8 +6432,6 @@ bool func_127(int iParam0)
 ---
 
 ## Match in `av_fox_sit.c` at Line 4193
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_fox_sit.c`
-
 **Context (approx. Line 4163):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6692,8 +6499,6 @@ bool func_126(int iParam0)
 ---
 
 ## Match in `av_get_directions.c` at Line 4108
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_get_directions.c`
-
 **Context (approx. Line 4078):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6761,8 +6566,6 @@ bool func_129(int iParam0)
 ---
 
 ## Match in `av_hawk_catch_snake.c` at Line 4182
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_hawk_catch_snake.c`
-
 **Context (approx. Line 4152):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6830,8 +6633,6 @@ bool func_130(int iParam0)
 ---
 
 ## Match in `av_hobo_train_hop.c` at Line 4142
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_hobo_train_hop.c`
-
 **Context (approx. Line 4112):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6899,8 +6700,6 @@ bool func_145(int iParam0)
 ---
 
 ## Match in `av_light_smoke.c` at Line 4088
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_light_smoke.c`
-
 **Context (approx. Line 4058):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -6968,8 +6767,6 @@ bool func_128(int iParam0)
 ---
 
 ## Match in `av_lumber_pass.c` at Line 4070
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_lumber_pass.c`
-
 **Context (approx. Line 4040):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7037,8 +6834,6 @@ bool func_126(int iParam0)
 ---
 
 ## Match in `av_macfarlane_farmer.c` at Line 4806
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_macfarlane_farmer.c`
-
 **Context (approx. Line 4776):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7106,8 +6901,6 @@ bool func_163(int iParam0)
 ---
 
 ## Match in `av_mangy_dog_and_vultures.c` at Line 4066
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_mangy_dog_and_vultures.c`
-
 **Context (approx. Line 4036):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7175,8 +6968,6 @@ bool func_129(int iParam0)
 ---
 
 ## Match in `av_man_jump_fence.c` at Line 3968
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_man_jump_fence.c`
-
 **Context (approx. Line 3938):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7244,8 +7035,6 @@ bool func_125(int iParam0)
 ---
 
 ## Match in `av_man_sit_read.c` at Line 4283
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_man_sit_read.c`
-
 **Context (approx. Line 4253):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7313,8 +7102,6 @@ bool func_131(int iParam0)
 ---
 
 ## Match in `av_man_stand_at_wagon.c` at Line 3983
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_man_stand_at_wagon.c`
-
 **Context (approx. Line 3953):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7382,8 +7169,6 @@ bool func_121(int iParam0)
 ---
 
 ## Match in `av_man_with_lantern.c` at Line 4156
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_man_with_lantern.c`
-
 **Context (approx. Line 4126):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7451,8 +7236,6 @@ bool func_129(int iParam0)
 ---
 
 ## Match in `av_moose_slipping.c` at Line 4097
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_moose_slipping.c`
-
 **Context (approx. Line 4067):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7520,8 +7303,6 @@ bool func_131(int iParam0)
 ---
 
 ## Match in `av_owl_catch_rat.c` at Line 4129
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_owl_catch_rat.c`
-
 **Context (approx. Line 4099):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7589,8 +7370,6 @@ bool func_129(int iParam0)
 ---
 
 ## Match in `av_pelican_dive.c` at Line 4034
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_pelican_dive.c`
-
 **Context (approx. Line 4004):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7658,8 +7437,6 @@ bool func_128(int iParam0)
 ---
 
 ## Match in `av_pump_cart.c` at Line 3206
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_pump_cart.c`
-
 **Context (approx. Line 3176):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7727,8 +7504,6 @@ bool func_98(int iParam0)
 ---
 
 ## Match in `av_rams_headbutt.c` at Line 4118
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_rams_headbutt.c`
-
 **Context (approx. Line 4088):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7796,8 +7571,6 @@ bool func_132(int iParam0)
 ---
 
 ## Match in `av_rats_eating_group.c` at Line 5066
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_rats_eating_group.c`
-
 **Context (approx. Line 5036):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7865,8 +7638,6 @@ bool func_150(int iParam0)
 ---
 
 ## Match in `av_rats_eat_deer.c` at Line 5133
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_rats_eat_deer.c`
-
 **Context (approx. Line 5103):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -7934,8 +7705,6 @@ bool func_152(int iParam0)
 ---
 
 ## Match in `av_rider_gallop.c` at Line 3701
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_rider_gallop.c`
-
 **Context (approx. Line 3671):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8003,8 +7772,6 @@ bool func_114(int iParam0)
 ---
 
 ## Match in `av_ridgeline_animal.c` at Line 4020
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_ridgeline_animal.c`
-
 **Context (approx. Line 3990):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8072,8 +7839,6 @@ bool func_124(int iParam0)
 ---
 
 ## Match in `av_ridgeline_native.c` at Line 4162
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_ridgeline_native.c`
-
 **Context (approx. Line 4132):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8141,8 +7906,6 @@ bool func_128(int iParam0)
 ---
 
 ## Match in `av_ridgeline_rider.c` at Line 4157
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_ridgeline_rider.c`
-
 **Context (approx. Line 4127):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8210,8 +7973,6 @@ bool func_127(int iParam0)
 ---
 
 ## Match in `av_roving_herd.c` at Line 4871
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_roving_herd.c`
-
 **Context (approx. Line 4841):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8279,8 +8040,6 @@ bool func_148(int iParam0)
 ---
 
 ## Match in `av_scavenger_on_animal.c` at Line 3917
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_scavenger_on_animal.c`
-
 **Context (approx. Line 3887):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8348,8 +8107,6 @@ bool func_123(int iParam0)
 ---
 
 ## Match in `av_seagull_catch_fish.c` at Line 4034
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_seagull_catch_fish.c`
-
 **Context (approx. Line 4004):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8417,8 +8174,6 @@ bool func_128(int iParam0)
 ---
 
 ## Match in `av_sheep_grazing.c` at Line 6124
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_sheep_grazing.c`
-
 **Context (approx. Line 6094):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8486,8 +8241,6 @@ bool func_178(int iParam0)
 ---
 
 ## Match in `av_shopkeeper_restock.c` at Line 5385
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_shopkeeper_restock.c`
-
 **Context (approx. Line 5355):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8555,8 +8308,6 @@ bool func_163(int iParam0)
 ---
 
 ## Match in `av_slow_rider.c` at Line 4787
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_slow_rider.c`
-
 **Context (approx. Line 4757):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8624,8 +8375,6 @@ bool func_144(int iParam0)
 ---
 
 ## Match in `av_squirrel_chase_squirrel.c` at Line 3433
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_squirrel_chase_squirrel.c`
-
 **Context (approx. Line 3403):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8693,8 +8442,6 @@ bool func_106(int iParam0)
 ---
 
 ## Match in `av_stage_coach.c` at Line 4119
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_stage_coach.c`
-
 **Context (approx. Line 4089):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8762,8 +8509,6 @@ bool func_132(int iParam0)
 ---
 
 ## Match in `av_starting_to_rain.c` at Line 4119
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_starting_to_rain.c`
-
 **Context (approx. Line 4089):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8831,8 +8576,6 @@ bool func_128(int iParam0)
 ---
 
 ## Match in `av_swimming_animal.c` at Line 3924
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_swimming_animal.c`
-
 **Context (approx. Line 3894):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8900,8 +8643,6 @@ bool func_122(int iParam0)
 ---
 
 ## Match in `av_swim_wolf_chase_moose.c` at Line 3902
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_swim_wolf_chase_moose.c`
-
 **Context (approx. Line 3872):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -8969,8 +8710,6 @@ bool func_121(int iParam0)
 ---
 
 ## Match in `av_traveller_gallop_past.c` at Line 4464
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_traveller_gallop_past.c`
-
 **Context (approx. Line 4434):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9038,8 +8777,6 @@ bool func_135(int iParam0)
 ---
 
 ## Match in `av_vultures_eat_carcass.c` at Line 4205
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_vultures_eat_carcass.c`
-
 **Context (approx. Line 4175):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9107,8 +8844,6 @@ bool func_133(int iParam0)
 ---
 
 ## Match in `av_wagon_back_passenger.c` at Line 4279
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wagon_back_passenger.c`
-
 **Context (approx. Line 4249):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9176,8 +8911,6 @@ bool func_126(int iParam0)
 ---
 
 ## Match in `av_wagon_barrel.c` at Line 5212
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wagon_barrel.c`
-
 **Context (approx. Line 5182):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9245,8 +8978,6 @@ bool func_157(int iParam0)
 ---
 
 ## Match in `av_wagon_music.c` at Line 4005
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wagon_music.c`
-
 **Context (approx. Line 3975):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9314,8 +9045,6 @@ bool func_120(int iParam0)
 ---
 
 ## Match in `av_wagon_sweeper.c` at Line 4178
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wagon_sweeper.c`
-
 **Context (approx. Line 4148):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9383,8 +9112,6 @@ bool func_129(int iParam0)
 ---
 
 ## Match in `av_walk_horse_carry_deer.c` at Line 5781
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_walk_horse_carry_deer.c`
-
 **Context (approx. Line 5751):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9452,8 +9179,6 @@ bool func_172(int iParam0)
 ---
 
 ## Match in `av_walk_with_dog.c` at Line 4398
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_walk_with_dog.c`
-
 **Context (approx. Line 4368):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9521,8 +9246,6 @@ bool func_130(int iParam0)
 ---
 
 ## Match in `av_walk_with_horse.c` at Line 4121
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_walk_with_horse.c`
-
 **Context (approx. Line 4091):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9590,8 +9313,6 @@ bool func_127(int iParam0)
 ---
 
 ## Match in `av_wall_vomit.c` at Line 4295
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wall_vomit.c`
-
 **Context (approx. Line 4265):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9659,8 +9380,6 @@ bool func_135(int iParam0)
 ---
 
 ## Match in `av_water_horse.c` at Line 5548
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_water_horse.c`
-
 **Context (approx. Line 5518):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9728,8 +9447,6 @@ bool func_165(int iParam0)
 ---
 
 ## Match in `av_whisper_sit.c` at Line 4052
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_whisper_sit.c`
-
 **Context (approx. Line 4022):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9797,8 +9514,6 @@ bool func_129(int iParam0)
 ---
 
 ## Match in `av_whore_give_money.c` at Line 5200
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_whore_give_money.c`
-
 **Context (approx. Line 5170):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9866,8 +9581,6 @@ bool func_159(int iParam0)
 ---
 
 ## Match in `av_wild_animal.c` at Line 4002
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wild_animal.c`
-
 **Context (approx. Line 3972):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -9935,8 +9648,6 @@ bool func_125(int iParam0)
 ---
 
 ## Match in `av_wolf_ambush_deer.c` at Line 4207
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wolf_ambush_deer.c`
-
 **Context (approx. Line 4177):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -10004,8 +9715,6 @@ bool func_134(int iParam0)
 ---
 
 ## Match in `av_wolf_flee_wolves.c` at Line 4235
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wolf_flee_wolves.c`
-
 **Context (approx. Line 4205):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -10073,8 +9782,6 @@ bool func_134(int iParam0)
 ---
 
 ## Match in `av_wolf_takedown_miss.c` at Line 4166
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wolf_takedown_miss.c`
-
 **Context (approx. Line 4136):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -10142,8 +9849,6 @@ bool func_131(int iParam0)
 ---
 
 ## Match in `av_wolves_alarmed.c` at Line 3972
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wolves_alarmed.c`
-
 **Context (approx. Line 3942):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -10211,8 +9916,6 @@ bool func_124(int iParam0)
 ---
 
 ## Match in `av_wolves_eat_deer.c` at Line 4001
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wolves_eat_deer.c`
-
 **Context (approx. Line 3971):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -10280,8 +9983,6 @@ bool func_122(int iParam0)
 ---
 
 ## Match in `av_wolves_howling.c` at Line 3986
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wolves_howling.c`
-
 **Context (approx. Line 3956):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -10349,8 +10050,6 @@ bool func_126(int iParam0)
 ---
 
 ## Match in `av_wolves_playing.c` at Line 4188
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\av_wolves_playing.c`
-
 **Context (approx. Line 4158):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -10418,8 +10117,6 @@ bool func_133(int iParam0)
 ---
 
 ## Match in `bankrob01_invite.c` at Line 29553
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\bankrob01_invite.c`
-
 **Context (approx. Line 29523):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -10487,8 +10184,6 @@ bool func_1028(int iParam0)
 ---
 
 ## Match in `bathing.c` at Line 10696
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\bathing.c`
-
 **Context (approx. Line 10666):**
 ```c
 if (iParam1 == 0)
@@ -10556,8 +10251,6 @@ bool func_355(int iParam0)
 ---
 
 ## Match in `beat_animal_attack.c` at Line 23374
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_animal_attack.c`
-
 **Context (approx. Line 23344):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -10625,8 +10318,6 @@ bool func_769(int iParam0)
 ---
 
 ## Match in `beat_animal_mauling.c` at Line 17453
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_animal_mauling.c`
-
 **Context (approx. Line 17423):**
 ```c
 if (func_670())
@@ -10694,8 +10385,6 @@ bool func_552(int iParam0)
 ---
 
 ## Match in `beat_approach.c` at Line 17194
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_approach.c`
-
 **Context (approx. Line 17164):**
 ```c
 {
@@ -10763,8 +10452,6 @@ bool func_551(int iParam0)
 ---
 
 ## Match in `beat_arms_deal.c` at Line 25448
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_arms_deal.c`
-
 **Context (approx. Line 25418):**
 ```c
 }
@@ -10832,8 +10519,6 @@ bool func_817(int iParam0)
 ---
 
 ## Match in `beat_bandito_breakout.c` at Line 21913
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_bandito_breakout.c`
-
 **Context (approx. Line 21883):**
 ```c
 bool func_673(int iParam0)
@@ -10900,8 +10585,6 @@ bool func_676(int iParam0)
 ---
 
 ## Match in `beat_bandito_execution.c` at Line 23069
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_bandito_execution.c`
-
 **Context (approx. Line 23039):**
 ```c
 }
@@ -10969,8 +10652,6 @@ bool func_765(int iParam0)
 ---
 
 ## Match in `beat_bear_trap.c` at Line 16464
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_bear_trap.c`
-
 **Context (approx. Line 16434):**
 ```c
 }
@@ -11038,8 +10719,6 @@ bool func_492(int iParam0)
 ---
 
 ## Match in `beat_boat_attack.c` at Line 20717
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_boat_attack.c`
-
 **Context (approx. Line 20687):**
 ```c
 {
@@ -11107,8 +10786,6 @@ bool func_606(int iParam0)
 ---
 
 ## Match in `beat_booby_trap.c` at Line 13267
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_booby_trap.c`
-
 **Context (approx. Line 13237):**
 ```c
 }
@@ -11176,8 +10853,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `beat_bounty_transport.c` at Line 25404
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_bounty_transport.c`
-
 **Context (approx. Line 25374):**
 ```c
 }
@@ -11245,8 +10920,6 @@ bool func_799(int iParam0)
 ---
 
 ## Match in `beat_brontes_town_encounter.c` at Line 16286
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_brontes_town_encounter.c`
-
 **Context (approx. Line 16256):**
 ```c
 {
@@ -11314,8 +10987,6 @@ bool func_520(int iParam0)
 ---
 
 ## Match in `beat_bronte_patrol.c` at Line 16764
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_bronte_patrol.c`
-
 **Context (approx. Line 16734):**
 ```c
 {
@@ -11383,8 +11054,6 @@ bool func_531(int iParam0)
 ---
 
 ## Match in `beat_burning_bodies.c` at Line 19632
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_burning_bodies.c`
-
 **Context (approx. Line 19602):**
 ```c
 bool func_657(int iParam0)
@@ -11451,8 +11120,6 @@ bool func_660(int iParam0)
 ---
 
 ## Match in `beat_campfire_ambush.c` at Line 23998
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_campfire_ambush.c`
-
 **Context (approx. Line 23968):**
 ```c
 {
@@ -11520,8 +11187,6 @@ bool func_787(int iParam0)
 ---
 
 ## Match in `beat_chain_gang.c` at Line 24628
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_chain_gang.c`
-
 **Context (approx. Line 24598):**
 ```c
 }
@@ -11589,8 +11254,6 @@ bool func_719(int iParam0)
 ---
 
 ## Match in `beat_checkpoint.c` at Line 23990
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_checkpoint.c`
-
 **Context (approx. Line 23960):**
 ```c
 return true;
@@ -11658,8 +11321,6 @@ bool func_725(int iParam0)
 ---
 
 ## Match in `beat_coach_robbery.c` at Line 24751
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_coach_robbery.c`
-
 **Context (approx. Line 24721):**
 ```c
 {
@@ -11727,8 +11388,6 @@ bool func_666(int iParam0)
 ---
 
 ## Match in `beat_consequence.c` at Line 21370
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_consequence.c`
-
 **Context (approx. Line 21340):**
 ```c
 {
@@ -11796,8 +11455,6 @@ bool func_693(int iParam0)
 ---
 
 ## Match in `beat_corpse_cart.c` at Line 20690
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_corpse_cart.c`
-
 **Context (approx. Line 20660):**
 ```c
 {
@@ -11865,8 +11522,6 @@ bool func_634(int iParam0)
 ---
 
 ## Match in `beat_crashed_wagon.c` at Line 25924
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_crashed_wagon.c`
-
 **Context (approx. Line 25894):**
 ```c
 }
@@ -11934,8 +11589,6 @@ bool func_821(int iParam0)
 ---
 
 ## Match in `beat_dark_alley_ambush.c` at Line 23785
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_dark_alley_ambush.c`
-
 **Context (approx. Line 23755):**
 ```c
 fVar3 = BUILTIN::SIN(vVar0.z);
@@ -12003,8 +11656,6 @@ bool func_732(int iParam0)
 ---
 
 ## Match in `beat_dark_alley_bum.c` at Line 32504
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_dark_alley_bum.c`
-
 **Context (approx. Line 32474):**
 ```c
 {
@@ -12072,8 +11723,6 @@ bool func_990(int iParam0)
 ---
 
 ## Match in `beat_dark_alley_stabber.c` at Line 23852
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_dark_alley_stabber.c`
-
 **Context (approx. Line 23822):**
 ```c
 {
@@ -12141,8 +11790,6 @@ bool func_723(int iParam0)
 ---
 
 ## Match in `beat_dead_bodies.c` at Line 22318
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_dead_bodies.c`
-
 **Context (approx. Line 22288):**
 ```c
 iVar1 = iVar2;
@@ -12210,8 +11857,6 @@ bool func_759(int iParam0)
 ---
 
 ## Match in `beat_dead_john.c` at Line 30704
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_dead_john.c`
-
 **Context (approx. Line 30674):**
 ```c
 break;
@@ -12279,8 +11924,6 @@ bool func_833(int iParam0)
 ---
 
 ## Match in `beat_del_lobo_posse.c` at Line 23678
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_del_lobo_posse.c`
-
 **Context (approx. Line 23648):**
 ```c
 }
@@ -12348,8 +11991,6 @@ bool func_633(int iParam0)
 ---
 
 ## Match in `beat_disabled_beggar.c` at Line 20847
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_disabled_beggar.c`
-
 **Context (approx. Line 20817):**
 ```c
 {
@@ -12417,8 +12058,6 @@ bool func_667(int iParam0)
 ---
 
 ## Match in `beat_domestic_dispute.c` at Line 21617
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_domestic_dispute.c`
-
 **Context (approx. Line 21587):**
 ```c
 {
@@ -12486,8 +12125,6 @@ bool func_667(int iParam0)
 ---
 
 ## Match in `beat_drown_murder.c` at Line 28823
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_drown_murder.c`
-
 **Context (approx. Line 28793):**
 ```c
 }
@@ -12555,8 +12192,6 @@ bool func_872(int iParam0)
 ---
 
 ## Match in `beat_drunk_camp.c` at Line 16596
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_drunk_camp.c`
-
 **Context (approx. Line 16566):**
 ```c
 if (func_679())
@@ -12624,8 +12259,6 @@ bool func_567(int iParam0)
 ---
 
 ## Match in `beat_drunk_dueler.c` at Line 42464
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_drunk_dueler.c`
-
 **Context (approx. Line 42434):**
 ```c
 {
@@ -12693,8 +12326,6 @@ bool func_1260(int iParam0)
 ---
 
 ## Match in `beat_duel_boaster.c` at Line 20618
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_duel_boaster.c`
-
 **Context (approx. Line 20588):**
 ```c
 if (func_827())
@@ -12762,8 +12393,6 @@ bool func_683(int iParam0)
 ---
 
 ## Match in `beat_duel_winner.c` at Line 25831
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_duel_winner.c`
-
 **Context (approx. Line 25801):**
 ```c
 {
@@ -12831,8 +12460,6 @@ bool func_821(int iParam0)
 ---
 
 ## Match in `beat_escort.c` at Line 22846
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_escort.c`
-
 **Context (approx. Line 22816):**
 ```c
 {
@@ -12900,8 +12527,6 @@ bool func_724(int iParam0)
 ---
 
 ## Match in `beat_executions.c` at Line 22589
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_executions.c`
-
 **Context (approx. Line 22559):**
 ```c
 }
@@ -12969,8 +12594,6 @@ bool func_707(int iParam0)
 ---
 
 ## Match in `beat_fleeing_family.c` at Line 20658
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_fleeing_family.c`
-
 **Context (approx. Line 20628):**
 ```c
 {
@@ -13038,8 +12661,6 @@ bool func_630(int iParam0)
 ---
 
 ## Match in `beat_fleeing_trespasser.c` at Line 20891
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_fleeing_trespasser.c`
-
 **Context (approx. Line 20861):**
 ```c
 }
@@ -13107,8 +12728,6 @@ bool func_606(int iParam0)
 ---
 
 ## Match in `beat_foot_robbery.c` at Line 26267
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_foot_robbery.c`
-
 **Context (approx. Line 26237):**
 ```c
 }
@@ -13176,8 +12795,6 @@ bool func_826(int iParam0)
 ---
 
 ## Match in `beat_friendly_outdoorsman.c` at Line 17221
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_friendly_outdoorsman.c`
-
 **Context (approx. Line 17191):**
 ```c
 {
@@ -13245,8 +12862,6 @@ bool func_566(int iParam0)
 ---
 
 ## Match in `beat_frozen_to_death.c` at Line 28405
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_frozen_to_death.c`
-
 **Context (approx. Line 28375):**
 ```c
 }
@@ -13314,8 +12929,6 @@ bool func_892(int iParam0)
 ---
 
 ## Match in `beat_fussar_chase.c` at Line 26120
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_fussar_chase.c`
-
 **Context (approx. Line 26090):**
 ```c
 }
@@ -13383,8 +12996,6 @@ bool func_739(int iParam0)
 ---
 
 ## Match in `beat_gang_camp_reminder.c` at Line 19829
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_gang_camp_reminder.c`
-
 **Context (approx. Line 19799):**
 ```c
 {
@@ -13452,8 +13063,6 @@ bool func_556(int iParam0)
 ---
 
 ## Match in `beat_gang_ped1_encounter.c` at Line 20051
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_gang_ped1_encounter.c`
-
 **Context (approx. Line 20021):**
 ```c
 void func_652(var uParam0, vector3 vParam1, float fParam4, int iParam5, int iParam6, int iParam7)
@@ -13521,8 +13130,6 @@ bool func_654(int iParam0)
 ---
 
 ## Match in `beat_gold_panner.c` at Line 20855
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_gold_panner.c`
-
 **Context (approx. Line 20825):**
 ```c
 return 1;
@@ -13590,8 +13197,6 @@ bool func_727(int iParam0)
 ---
 
 ## Match in `beat_herbalist_camp.c` at Line 24750
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_herbalist_camp.c`
-
 **Context (approx. Line 24720):**
 ```c
 (*uParam2)[iVar47] = Var0.f_36[iVar47];
@@ -13659,8 +13264,6 @@ bool func_763(int iParam0)
 ---
 
 ## Match in `beat_horse_race.c` at Line 23387
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_horse_race.c`
-
 **Context (approx. Line 23357):**
 ```c
 {
@@ -13728,8 +13331,6 @@ bool func_701(int iParam0)
 ---
 
 ## Match in `beat_hostage_rescue.c` at Line 21309
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_hostage_rescue.c`
-
 **Context (approx. Line 21279):**
 ```c
 {
@@ -13797,8 +13398,6 @@ bool func_653(int iParam0)
 ---
 
 ## Match in `beat_hunter.c` at Line 22532
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_hunter.c`
-
 **Context (approx. Line 22502):**
 ```c
 }
@@ -13866,8 +13465,6 @@ bool func_715(int iParam0)
 ---
 
 ## Match in `beat_inbred_kidnap.c` at Line 35083
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_inbred_kidnap.c`
-
 **Context (approx. Line 35053):**
 ```c
 {
@@ -13935,8 +13532,6 @@ bool func_990(int iParam0)
 ---
 
 ## Match in `beat_injured_rider.c` at Line 27704
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_injured_rider.c`
-
 **Context (approx. Line 27674):**
 ```c
 {
@@ -14004,8 +13599,6 @@ bool func_837(int iParam0)
 ---
 
 ## Match in `beat_intimidation_tactics.c` at Line 18150
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_intimidation_tactics.c`
-
 **Context (approx. Line 18120):**
 ```c
 }
@@ -14073,8 +13666,6 @@ bool func_592(int iParam0)
 ---
 
 ## Match in `beat_kidnap_victim.c` at Line 23212
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_kidnap_victim.c`
-
 **Context (approx. Line 23182):**
 ```c
 }
@@ -14142,8 +13733,6 @@ bool func_698(int iParam0)
 ---
 
 ## Match in `beat_laramie_gang_rustling.c` at Line 21508
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_laramie_gang_rustling.c`
-
 **Context (approx. Line 21478):**
 ```c
 {
@@ -14211,8 +13800,6 @@ bool func_632(int iParam0)
 ---
 
 ## Match in `beat_lemoyne_town_encounter.c` at Line 17531
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_lemoyne_town_encounter.c`
-
 **Context (approx. Line 17501):**
 ```c
 {
@@ -14280,8 +13867,6 @@ bool func_562(int iParam0)
 ---
 
 ## Match in `beat_locked_safe.c` at Line 21575
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_locked_safe.c`
-
 **Context (approx. Line 21545):**
 ```c
 }
@@ -14349,8 +13934,6 @@ bool func_672(int iParam0)
 ---
 
 ## Match in `beat_lone_prisoner.c` at Line 24013
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_lone_prisoner.c`
-
 **Context (approx. Line 23983):**
 ```c
 {
@@ -14418,8 +14001,6 @@ bool func_780(int iParam0)
 ---
 
 ## Match in `beat_lost_dog.c` at Line 19826
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_lost_dog.c`
-
 **Context (approx. Line 19796):**
 ```c
 {
@@ -14487,8 +14068,6 @@ bool func_618(int iParam0)
 ---
 
 ## Match in `beat_lost_drunk.c` at Line 17155
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_lost_drunk.c`
-
 **Context (approx. Line 17125):**
 ```c
 {
@@ -14556,8 +14135,6 @@ bool func_574(int iParam0)
 ---
 
 ## Match in `beat_lost_friend.c` at Line 22711
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_lost_friend.c`
-
 **Context (approx. Line 22681):**
 ```c
 return 1;
@@ -14625,8 +14202,6 @@ bool func_765(int iParam0)
 ---
 
 ## Match in `beat_lost_man.c` at Line 15619
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_lost_man.c`
-
 **Context (approx. Line 15589):**
 ```c
 {
@@ -14694,8 +14269,6 @@ bool func_518(int iParam0)
 ---
 
 ## Match in `beat_moonshine_camp.c` at Line 34708
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_moonshine_camp.c`
-
 **Context (approx. Line 34678):**
 ```c
 }
@@ -14763,8 +14336,6 @@ bool func_1008(int iParam0)
 ---
 
 ## Match in `beat_murder_campfire.c` at Line 15270
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_murder_campfire.c`
-
 **Context (approx. Line 15240):**
 ```c
 {
@@ -14832,8 +14403,6 @@ bool func_446(int iParam0)
 ---
 
 ## Match in `beat_naked_swimmer.c` at Line 14772
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_naked_swimmer.c`
-
 **Context (approx. Line 14742):**
 ```c
 {
@@ -14901,8 +14470,6 @@ bool func_482(int iParam0)
 ---
 
 ## Match in `beat_odriscoll_town_encounter.c` at Line 16899
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_odriscoll_town_encounter.c`
-
 **Context (approx. Line 16869):**
 ```c
 bool func_549(int iParam0)
@@ -14969,8 +14536,6 @@ bool func_552(int iParam0)
 ---
 
 ## Match in `beat_on_the_run.c` at Line 17449
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_on_the_run.c`
-
 **Context (approx. Line 17419):**
 ```c
 {
@@ -15038,8 +14603,6 @@ bool func_590(int iParam0)
 ---
 
 ## Match in `beat_outlaw_looter.c` at Line 15939
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_outlaw_looter.c`
-
 **Context (approx. Line 15909):**
 ```c
 }
@@ -15107,8 +14670,6 @@ bool func_511(int iParam0)
 ---
 
 ## Match in `beat_outlaw_transport.c` at Line 24318
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_outlaw_transport.c`
-
 **Context (approx. Line 24288):**
 ```c
 {
@@ -15176,8 +14737,6 @@ bool func_711(int iParam0)
 ---
 
 ## Match in `beat_parlor_ambush.c` at Line 17314
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_parlor_ambush.c`
-
 **Context (approx. Line 17284):**
 ```c
 if (!ENTITY::DOES_ENTITY_EXIST(iParam0))
@@ -15245,8 +14804,6 @@ bool func_607(int iParam0)
 ---
 
 ## Match in `beat_peeping_tom.c` at Line 19390
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_peeping_tom.c`
-
 **Context (approx. Line 19360):**
 ```c
 {
@@ -15314,8 +14871,6 @@ bool func_607(int iParam0)
 ---
 
 ## Match in `beat_people_in_need_snake_bite.c` at Line 23329
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_people_in_need_snake_bite.c`
-
 **Context (approx. Line 23299):**
 ```c
 }
@@ -15383,8 +14938,6 @@ bool func_740(int iParam0)
 ---
 
 ## Match in `beat_pickpocket.c` at Line 19093
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_pickpocket.c`
-
 **Context (approx. Line 19063):**
 ```c
 {
@@ -15452,8 +15005,6 @@ bool func_645(int iParam0)
 ---
 
 ## Match in `beat_piss_pot.c` at Line 16376
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_piss_pot.c`
-
 **Context (approx. Line 16346):**
 ```c
 {
@@ -15521,8 +15072,6 @@ bool func_543(int iParam0)
 ---
 
 ## Match in `beat_player_camp_attack.c` at Line 19018
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_player_camp_attack.c`
-
 **Context (approx. Line 18988):**
 ```c
 if (!(iParam0 >= 0 && iParam0 <= 150))
@@ -15590,8 +15139,6 @@ bool func_548(int iParam0)
 ---
 
 ## Match in `beat_player_camp_stranger.c` at Line 11931
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_player_camp_stranger.c`
-
 **Context (approx. Line 11901):**
 ```c
 }
@@ -15659,8 +15206,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `beat_poisoned.c` at Line 22396
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_poisoned.c`
-
 **Context (approx. Line 22366):**
 ```c
 }
@@ -15728,8 +15273,6 @@ bool func_772(int iParam0)
 ---
 
 ## Match in `beat_police_chase.c` at Line 17963
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_police_chase.c`
-
 **Context (approx. Line 17933):**
 ```c
 {
@@ -15797,8 +15340,6 @@ bool func_565(int iParam0)
 ---
 
 ## Match in `beat_posse_breakout.c` at Line 34112
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_posse_breakout.c`
-
 **Context (approx. Line 34082):**
 ```c
 }
@@ -15866,8 +15407,6 @@ bool func_1041(int iParam0)
 ---
 
 ## Match in `beat_prison_wagon.c` at Line 27109
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_prison_wagon.c`
-
 **Context (approx. Line 27079):**
 ```c
 {
@@ -15935,8 +15474,6 @@ bool func_835(int iParam0)
 ---
 
 ## Match in `beat_public_hanging.c` at Line 30492
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_public_hanging.c`
-
 **Context (approx. Line 30462):**
 ```c
 }
@@ -16004,8 +15541,6 @@ bool func_831(int iParam0)
 ---
 
 ## Match in `beat_rally.c` at Line 23155
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_rally.c`
-
 **Context (approx. Line 23125):**
 ```c
 }
@@ -16073,8 +15608,6 @@ bool func_715(int iParam0)
 ---
 
 ## Match in `beat_rally_dispute.c` at Line 20526
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_rally_dispute.c`
-
 **Context (approx. Line 20496):**
 ```c
 }
@@ -16142,8 +15675,6 @@ bool func_631(int iParam0)
 ---
 
 ## Match in `beat_rally_setup.c` at Line 22994
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_rally_setup.c`
-
 **Context (approx. Line 22964):**
 ```c
 }
@@ -16211,8 +15742,6 @@ bool func_738(int iParam0)
 ---
 
 ## Match in `beat_rat_infestation.c` at Line 35672
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_rat_infestation.c`
-
 **Context (approx. Line 35642):**
 ```c
 }
@@ -16280,8 +15809,6 @@ bool func_1114(int iParam0)
 ---
 
 ## Match in `beat_rifle_practice.c` at Line 21130
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_rifle_practice.c`
-
 **Context (approx. Line 21100):**
 ```c
 {
@@ -16349,8 +15876,6 @@ bool func_668(int iParam0)
 ---
 
 ## Match in `beat_rowdy_drunks.c` at Line 20333
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_rowdy_drunks.c`
-
 **Context (approx. Line 20303):**
 ```c
 {
@@ -16418,8 +15943,6 @@ bool func_624(int iParam0)
 ---
 
 ## Match in `beat_savage_aftermath.c` at Line 19314
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_savage_aftermath.c`
-
 **Context (approx. Line 19284):**
 ```c
 int iVar1;
@@ -16487,8 +16010,6 @@ bool func_628(int iParam0)
 ---
 
 ## Match in `beat_savage_fight.c` at Line 26868
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_savage_fight.c`
-
 **Context (approx. Line 26838):**
 ```c
 if (iParam0 < 0)
@@ -16556,8 +16077,6 @@ bool func_888(int iParam0)
 ---
 
 ## Match in `beat_savage_wagon.c` at Line 14113
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_savage_wagon.c`
-
 **Context (approx. Line 14083):**
 ```c
 }
@@ -16625,8 +16144,6 @@ bool func_439(int iParam0)
 ---
 
 ## Match in `beat_savage_warning.c` at Line 8714
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_savage_warning.c`
-
 **Context (approx. Line 8684):**
 ```c
 }
@@ -16694,8 +16211,6 @@ bool func_283(int iParam0)
 ---
 
 ## Match in `beat_sharp_shooter.c` at Line 25423
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_sharp_shooter.c`
-
 **Context (approx. Line 25393):**
 ```c
 bool func_706(int iParam0)
@@ -16762,8 +16277,6 @@ bool func_709(int iParam0)
 ---
 
 ## Match in `beat_show_off.c` at Line 18145
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_show_off.c`
-
 **Context (approx. Line 18115):**
 ```c
 {
@@ -16831,8 +16344,6 @@ bool func_609(int iParam0)
 ---
 
 ## Match in `beat_skipping_stones.c` at Line 20522
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_skipping_stones.c`
-
 **Context (approx. Line 20492):**
 ```c
 }
@@ -16900,8 +16411,6 @@ bool func_667(int iParam0)
 ---
 
 ## Match in `beat_slum_ambush.c` at Line 19181
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_slum_ambush.c`
-
 **Context (approx. Line 19151):**
 ```c
 {
@@ -16969,8 +16478,6 @@ bool func_644(int iParam0)
 ---
 
 ## Match in `beat_spooked_horse.c` at Line 15174
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_spooked_horse.c`
-
 **Context (approx. Line 15144):**
 ```c
 return iVar0;
@@ -17038,8 +16545,6 @@ bool func_464(int iParam0)
 ---
 
 ## Match in `beat_stalking_shadows.c` at Line 14502
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_stalking_shadows.c`
-
 **Context (approx. Line 14472):**
 ```c
 {
@@ -17107,8 +16612,6 @@ bool func_403(int iParam0)
 ---
 
 ## Match in `beat_stranded_rider.c` at Line 24449
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_stranded_rider.c`
-
 **Context (approx. Line 24419):**
 ```c
 {
@@ -17176,8 +16679,6 @@ bool func_730(int iParam0)
 ---
 
 ## Match in `beat_street_fight.c` at Line 31551
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_street_fight.c`
-
 **Context (approx. Line 31521):**
 ```c
 {
@@ -17245,8 +16746,6 @@ bool func_979(int iParam0)
 ---
 
 ## Match in `beat_taunting.c` at Line 23823
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_taunting.c`
-
 **Context (approx. Line 23793):**
 ```c
 }
@@ -17314,8 +16813,6 @@ bool func_812(int iParam0)
 ---
 
 ## Match in `beat_torch_procession.c` at Line 18204
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_torch_procession.c`
-
 **Context (approx. Line 18174):**
 ```c
 {
@@ -17383,8 +16880,6 @@ bool func_560(int iParam0)
 ---
 
 ## Match in `beat_torturing_captive.c` at Line 22110
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_torturing_captive.c`
-
 **Context (approx. Line 22080):**
 ```c
 }
@@ -17452,8 +16947,6 @@ bool func_696(int iParam0)
 ---
 
 ## Match in `beat_town_burial.c` at Line 20449
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_town_burial.c`
-
 **Context (approx. Line 20419):**
 ```c
 {
@@ -17521,8 +17014,6 @@ bool func_667(int iParam0)
 ---
 
 ## Match in `beat_town_confrontation.c` at Line 18064
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_town_confrontation.c`
-
 **Context (approx. Line 18034):**
 ```c
 {
@@ -17590,8 +17081,6 @@ bool func_572(int iParam0)
 ---
 
 ## Match in `beat_town_robbery.c` at Line 25635
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_town_robbery.c`
-
 **Context (approx. Line 25605):**
 ```c
 case 0:
@@ -17659,8 +17148,6 @@ bool func_775(int iParam0)
 ---
 
 ## Match in `beat_town_trouble.c` at Line 20800
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_town_trouble.c`
-
 **Context (approx. Line 20770):**
 ```c
 return (((1f - fParam2) * fParam0) + (fParam2 * fParam1));
@@ -17728,8 +17215,6 @@ bool func_642(int iParam0)
 ---
 
 ## Match in `beat_town_widow.c` at Line 19289
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_town_widow.c`
-
 **Context (approx. Line 19259):**
 ```c
 }
@@ -17797,8 +17282,6 @@ bool func_626(int iParam0)
 ---
 
 ## Match in `beat_traffic_attack.c` at Line 18735
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_traffic_attack.c`
-
 **Context (approx. Line 18705):**
 ```c
 {
@@ -17866,8 +17349,6 @@ bool func_582(int iParam0)
 ---
 
 ## Match in `beat_train_holdup.c` at Line 22201
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_train_holdup.c`
-
 **Context (approx. Line 22171):**
 ```c
 }
@@ -17935,8 +17416,6 @@ bool func_647(int iParam0)
 ---
 
 ## Match in `beat_trapped_woman.c` at Line 37651
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_trapped_woman.c`
-
 **Context (approx. Line 37621):**
 ```c
 }
@@ -18004,8 +17483,6 @@ bool func_1041(int iParam0)
 ---
 
 ## Match in `beat_treasure_hunter.c` at Line 32679
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_treasure_hunter.c`
-
 **Context (approx. Line 32649):**
 ```c
 }
@@ -18073,8 +17550,6 @@ bool func_1000(int iParam0)
 ---
 
 ## Match in `beat_voice.c` at Line 21650
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_voice.c`
-
 **Context (approx. Line 21620):**
 ```c
 }
@@ -18142,8 +17617,6 @@ bool func_663(int iParam0)
 ---
 
 ## Match in `beat_wagon_threat.c` at Line 23139
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_wagon_threat.c`
-
 **Context (approx. Line 23109):**
 ```c
 {
@@ -18211,8 +17684,6 @@ bool func_673(int iParam0)
 ---
 
 ## Match in `beat_washed_ashore.c` at Line 10282
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_washed_ashore.c`
-
 **Context (approx. Line 10252):**
 ```c
 if (func_389())
@@ -18280,8 +17751,6 @@ bool func_334(int iParam0)
 ---
 
 ## Match in `beat_wealthy_couple.c` at Line 21701
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_wealthy_couple.c`
-
 **Context (approx. Line 21671):**
 ```c
 {
@@ -18349,8 +17818,6 @@ bool func_724(int iParam0)
 ---
 
 ## Match in `beat_wilderness_hanging.c` at Line 10261
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_wilderness_hanging.c`
-
 **Context (approx. Line 10231):**
 ```c
 {
@@ -18418,8 +17885,6 @@ bool func_327(int iParam0)
 ---
 
 ## Match in `beat_wild_man.c` at Line 23747
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_wild_man.c`
-
 **Context (approx. Line 23717):**
 ```c
 bool func_723(int iParam0, int iParam1)
@@ -18486,8 +17951,6 @@ bool func_726(int iParam0)
 ---
 
 ## Match in `beat_wild_man_cave.c` at Line 14814
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beat_wild_man_cave.c`
-
 **Context (approx. Line 14784):**
 ```c
 return 2;
@@ -18555,8 +18018,6 @@ bool func_454(int iParam0)
 ---
 
 ## Match in `beechers2_2.c` at Line 71524
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beechers2_2.c`
-
 **Context (approx. Line 71494):**
 ```c
 if (func_1436(uParam0))
@@ -18624,8 +18085,6 @@ bool func_1847(int iParam0)
 ---
 
 ## Match in `beechers2_2_outro.c` at Line 2763
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beechers2_2_outro.c`
-
 **Context (approx. Line 2733):**
 ```c
 }
@@ -18693,8 +18152,6 @@ bool func_119(int iParam0)
 ---
 
 ## Match in `beechers_cow.c` at Line 877
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\beechers_cow.c`
-
 **Context (approx. Line 847):**
 ```c
 {
@@ -18762,8 +18219,6 @@ bool func_24(int iParam0)
 ---
 
 ## Match in `benchmark.c` at Line 15087
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\benchmark.c`
-
 **Context (approx. Line 15057):**
 ```c
 if (fParam0 < fParam1)
@@ -18831,8 +18286,6 @@ bool func_593(int iParam0)
 ---
 
 ## Match in `bigvalley_population.c` at Line 1972
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\bigvalley_population.c`
-
 **Context (approx. Line 1942):**
 ```c
 }
@@ -18900,8 +18353,6 @@ bool func_60(int iParam0)
 ---
 
 ## Match in `bjack_launch_sp.c` at Line 10596
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\bjack_launch_sp.c`
-
 **Context (approx. Line 10566):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -18969,8 +18420,6 @@ bool func_233(int iParam0)
 ---
 
 ## Match in `bjack_sp.c` at Line 36078
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\bjack_sp.c`
-
 **Context (approx. Line 36048):**
 ```c
 case 0:
@@ -19038,8 +18487,6 @@ bool func_1228(int iParam0)
 ---
 
 ## Match in `blackwater.c` at Line 15199
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\blackwater.c`
-
 **Context (approx. Line 15169):**
 ```c
 return 0;
@@ -19107,8 +18554,6 @@ bool func_525(int iParam0)
 ---
 
 ## Match in `bounty1.c` at Line 79982
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\bounty1.c`
-
 **Context (approx. Line 79952):**
 ```c
 vParam0.f_1 = (vParam0.y / fVar0);
@@ -19176,8 +18621,6 @@ bool func_2417(int iParam0)
 ---
 
 ## Match in `bounty1_intro.c` at Line 18610
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\bounty1_intro.c`
-
 **Context (approx. Line 18580):**
 ```c
 }
@@ -19245,8 +18688,6 @@ bool func_766(int iParam0)
 ---
 
 ## Match in `braithwaites1.c` at Line 94903
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\braithwaites1.c`
-
 **Context (approx. Line 94873):**
 ```c
 func_1934(uParam0, 0f, 0f, 0f);
@@ -19314,8 +18755,6 @@ bool func_2475(int iParam0)
 ---
 
 ## Match in `braithwaites2.c` at Line 84197
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\braithwaites2.c`
-
 **Context (approx. Line 84167):**
 ```c
 }
@@ -19383,8 +18822,6 @@ bool func_2355(int iParam0)
 ---
 
 ## Match in `braithwaites2_intro.c` at Line 17300
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\braithwaites2_intro.c`
-
 **Context (approx. Line 17270):**
 ```c
 }
@@ -19452,8 +18889,6 @@ bool func_713(int iParam0)
 ---
 
 ## Match in `braithwaites3.c` at Line 86470
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\braithwaites3.c`
-
 **Context (approx. Line 86440):**
 ```c
 void func_2467(var uParam0)
@@ -19521,8 +18956,6 @@ bool func_2469(int iParam0)
 ---
 
 ## Match in `braithwaites3_intro.c` at Line 27781
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\braithwaites3_intro.c`
-
 **Context (approx. Line 27751):**
 ```c
 }
@@ -19590,8 +19023,6 @@ bool func_1030(int iParam0)
 ---
 
 ## Match in `butchercreek.c` at Line 4592
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\butchercreek.c`
-
 **Context (approx. Line 4562):**
 ```c
 if (!func_90(iParam0))
@@ -19658,8 +19089,6 @@ bool func_174(int iParam0)
 ---
 
 ## Match in `campfire_always.c` at Line 26813
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\campfire_always.c`
-
 **Context (approx. Line 26783):**
 ```c
 break;
@@ -19727,8 +19156,6 @@ bool func_621(int iParam0)
 ---
 
 ## Match in `campfire_gang.c` at Line 37740
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\campfire_gang.c`
-
 **Context (approx. Line 37710):**
 ```c
 return "SCRIPT_COMMON@DEAD@FEMALE";
@@ -19796,8 +19223,6 @@ bool func_896(int iParam0)
 ---
 
 ## Match in `camp_beaverhollow.c` at Line 48528
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\camp_beaverhollow.c`
-
 **Context (approx. Line 48498):**
 ```c
 if (bParam1)
@@ -19865,8 +19290,6 @@ bool func_1557(int iParam0)
 ---
 
 ## Match in `camp_beechershope.c` at Line 63816
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\camp_beechershope.c`
-
 **Context (approx. Line 63786):**
 ```c
 if (func_918(Global_1347702[68 /*49*/].f_15))
@@ -19934,8 +19357,6 @@ bool func_1970(int iParam0)
 ---
 
 ## Match in `camp_clemenspoint.c` at Line 55147
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\camp_clemenspoint.c`
-
 **Context (approx. Line 55117):**
 ```c
 break;
@@ -20003,8 +19424,6 @@ bool func_1775(int iParam0)
 ---
 
 ## Match in `camp_colter.c` at Line 47430
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\camp_colter.c`
-
 **Context (approx. Line 47400):**
 ```c
 if (func_128(Global_1347702[68 /*49*/].f_15))
@@ -20072,8 +19491,6 @@ bool func_1519(int iParam0)
 ---
 
 ## Match in `camp_guarma.c` at Line 56857
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\camp_guarma.c`
-
 **Context (approx. Line 56827):**
 ```c
 if (func_928(Global_1347702[68 /*49*/].f_15))
@@ -20141,8 +19558,6 @@ bool func_1812(int iParam0)
 ---
 
 ## Match in `camp_horseshoeoverlook.c` at Line 54624
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\camp_horseshoeoverlook.c`
-
 **Context (approx. Line 54594):**
 ```c
 break;
@@ -20210,8 +19625,6 @@ bool func_1773(int iParam0)
 ---
 
 ## Match in `camp_lakay.c` at Line 47239
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\camp_lakay.c`
-
 **Context (approx. Line 47209):**
 ```c
 if (func_848(Global_1347702[68 /*49*/].f_15))
@@ -20279,8 +19692,6 @@ bool func_1511(int iParam0)
 ---
 
 ## Match in `camp_pronghornranch.c` at Line 50454
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\camp_pronghornranch.c`
-
 **Context (approx. Line 50424):**
 ```c
 if (func_895(Global_1347702[68 /*49*/].f_15))
@@ -20348,8 +19759,6 @@ bool func_1609(int iParam0)
 ---
 
 ## Match in `camp_shadybelle.c` at Line 54917
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\camp_shadybelle.c`
-
 **Context (approx. Line 54887):**
 ```c
 break;
@@ -20417,8 +19826,6 @@ bool func_1763(int iParam0)
 ---
 
 ## Match in `caravan_absence_scene.c` at Line 3127
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\caravan_absence_scene.c`
-
 **Context (approx. Line 3097):**
 ```c
 }
@@ -20486,8 +19893,6 @@ bool func_113(int iParam0)
 ---
 
 ## Match in `coachrobberies.c` at Line 50705
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\coachrobberies.c`
-
 **Context (approx. Line 50675):**
 ```c
 if (bParam1 && !func_240(iParam0))
@@ -20554,8 +19959,6 @@ bool func_1552(int iParam0)
 ---
 
 ## Match in `coachrobberies_gang1.c` at Line 52034
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\coachrobberies_gang1.c`
-
 **Context (approx. Line 52004):**
 ```c
 if (Global_1223212.f_1[iVar0 /*9*/] == iParam0)
@@ -20623,8 +20026,6 @@ bool func_1622(int iParam0)
 ---
 
 ## Match in `coachrobberies_gang1_invite.c` at Line 27657
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\coachrobberies_gang1_invite.c`
-
 **Context (approx. Line 27627):**
 ```c
 uParam0->f_3[3] = 0;
@@ -20692,8 +20093,6 @@ bool func_958(int iParam0)
 ---
 
 ## Match in `coachrobberies_gang2.c` at Line 50259
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\coachrobberies_gang2.c`
-
 **Context (approx. Line 50229):**
 ```c
 }
@@ -20761,8 +20160,6 @@ bool func_1579(int iParam0)
 ---
 
 ## Match in `coachrobberies_gang2_invite.c` at Line 27842
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\coachrobberies_gang2_invite.c`
-
 **Context (approx. Line 27812):**
 ```c
 uParam0->f_3[3] = 0;
@@ -20830,8 +20227,6 @@ bool func_964(int iParam0)
 ---
 
 ## Match in `coachrobberies_gang3.c` at Line 47000
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\coachrobberies_gang3.c`
-
 **Context (approx. Line 46970):**
 ```c
 case 5:
@@ -20899,8 +20294,6 @@ bool func_1440(int iParam0)
 ---
 
 ## Match in `coachrobberies_gang3_invite.c` at Line 27947
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\coachrobberies_gang3_invite.c`
-
 **Context (approx. Line 27917):**
 ```c
 uParam0->f_3[3] = 0;
@@ -20968,8 +20361,6 @@ bool func_961(int iParam0)
 ---
 
 ## Match in `coachrobberies_gang4.c` at Line 51766
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\coachrobberies_gang4.c`
-
 **Context (approx. Line 51736):**
 ```c
 if (Global_1223212.f_1[iVar0 /*9*/] == iParam0)
@@ -21037,8 +20428,6 @@ bool func_1626(int iParam0)
 ---
 
 ## Match in `coachrobberies_gang4_invite.c` at Line 24650
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\coachrobberies_gang4_invite.c`
-
 **Context (approx. Line 24620):**
 ```c
 uParam0->f_3[3] = 0;
@@ -21106,8 +20495,6 @@ bool func_828(int iParam0)
 ---
 
 ## Match in `cornwall1.c` at Line 97091
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cornwall1.c`
-
 **Context (approx. Line 97061):**
 ```c
 }
@@ -21175,8 +20562,6 @@ bool func_2699(int iParam0)
 ---
 
 ## Match in `cornwall1_intro.c` at Line 25678
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cornwall1_intro.c`
-
 **Context (approx. Line 25648):**
 ```c
 if (Global_1223212.f_1[iVar0 /*9*/] == iParam0)
@@ -21244,8 +20629,6 @@ bool func_1012(int iParam0)
 ---
 
 ## Match in `cornwall1_outro.c` at Line 3756
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cornwall1_outro.c`
-
 **Context (approx. Line 3726):**
 ```c
 return 0;
@@ -21313,8 +20696,6 @@ bool func_130(int iParam0)
 ---
 
 ## Match in `cv_amb_butcher_bleed_deer.c` at Line 10720
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_butcher_bleed_deer.c`
-
 **Context (approx. Line 10690):**
 ```c
 {
@@ -21382,8 +20763,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_amb_butcher_feed_dog.c` at Line 11510
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_butcher_feed_dog.c`
-
 **Context (approx. Line 11480):**
 ```c
 {
@@ -21451,8 +20830,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_amb_butcher_hang_carcass.c` at Line 10731
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_butcher_hang_carcass.c`
-
 **Context (approx. Line 10701):**
 ```c
 {
@@ -21520,8 +20897,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_amb_comp_donate.c` at Line 10860
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_comp_donate.c`
-
 **Context (approx. Line 10830):**
 ```c
 {
@@ -21589,8 +20964,6 @@ bool func_385(int iParam0)
 ---
 
 ## Match in `cv_amb_comp_donate_look.c` at Line 10643
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_comp_donate_look.c`
-
 **Context (approx. Line 10613):**
 ```c
 {
@@ -21658,8 +21031,6 @@ bool func_361(int iParam0)
 ---
 
 ## Match in `cv_amb_dog_jump_and_lick.c` at Line 9740
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_dog_jump_and_lick.c`
-
 **Context (approx. Line 9710):**
 ```c
 {
@@ -21727,8 +21098,6 @@ bool func_360(int iParam0)
 ---
 
 ## Match in `cv_amb_dog_jump_bed.c` at Line 9701
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_dog_jump_bed.c`
-
 **Context (approx. Line 9671):**
 ```c
 {
@@ -21796,8 +21165,6 @@ bool func_357(int iParam0)
 ---
 
 ## Match in `cv_amb_dog_lick_table.c` at Line 11504
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_dog_lick_table.c`
-
 **Context (approx. Line 11474):**
 ```c
 {
@@ -21865,8 +21232,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_amb_dog_pet_sitting.c` at Line 10638
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_dog_pet_sitting.c`
-
 **Context (approx. Line 10608):**
 ```c
 {
@@ -21934,8 +21299,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_amb_drop_rabbit_table.c` at Line 10732
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_drop_rabbit_table.c`
-
 **Context (approx. Line 10702):**
 ```c
 {
@@ -22003,8 +21366,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_amb_drunk_campfire.c` at Line 10594
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_drunk_campfire.c`
-
 **Context (approx. Line 10564):**
 ```c
 {
@@ -22072,8 +21433,6 @@ bool func_361(int iParam0)
 ---
 
 ## Match in `cv_amb_fire_starter.c` at Line 10690
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_fire_starter.c`
-
 **Context (approx. Line 10660):**
 ```c
 {
@@ -22141,8 +21500,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_amb_jack_look_pot.c` at Line 10576
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_jack_look_pot.c`
-
 **Context (approx. Line 10546):**
 ```c
 {
@@ -22210,8 +21567,6 @@ bool func_358(int iParam0)
 ---
 
 ## Match in `cv_amb_jack_poke_fire.c` at Line 10613
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_jack_poke_fire.c`
-
 **Context (approx. Line 10583):**
 ```c
 {
@@ -22279,8 +21634,6 @@ bool func_360(int iParam0)
 ---
 
 ## Match in `cv_amb_light_smoke.c` at Line 9749
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_light_smoke.c`
-
 **Context (approx. Line 9719):**
 ```c
 {
@@ -22348,8 +21701,6 @@ bool func_360(int iParam0)
 ---
 
 ## Match in `cv_amb_sack_wagon.c` at Line 10567
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_sack_wagon.c`
-
 **Context (approx. Line 10537):**
 ```c
 {
@@ -22417,8 +21768,6 @@ bool func_357(int iParam0)
 ---
 
 ## Match in `cv_amb_sore_joints.c` at Line 10630
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_sore_joints.c`
-
 **Context (approx. Line 10600):**
 ```c
 {
@@ -22486,8 +21835,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_amb_start_phonograph.c` at Line 10683
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_start_phonograph.c`
-
 **Context (approx. Line 10653):**
 ```c
 {
@@ -22555,8 +21902,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_amb_whisper_sit.c` at Line 10648
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_whisper_sit.c`
-
 **Context (approx. Line 10618):**
 ```c
 {
@@ -22624,8 +21969,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_amb_whisper_stand.c` at Line 10597
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_amb_whisper_stand.c`
-
 **Context (approx. Line 10567):**
 ```c
 {
@@ -22693,8 +22036,6 @@ bool func_361(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_01.c` at Line 10649
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_01.c`
-
 **Context (approx. Line 10619):**
 ```c
 {
@@ -22762,8 +22103,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_02.c` at Line 10558
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_02.c`
-
 **Context (approx. Line 10528):**
 ```c
 {
@@ -22831,8 +22170,6 @@ bool func_360(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_03.c` at Line 11825
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_03.c`
-
 **Context (approx. Line 11795):**
 ```c
 {
@@ -22900,8 +22237,6 @@ bool func_378(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_04.c` at Line 10635
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_04.c`
-
 **Context (approx. Line 10605):**
 ```c
 {
@@ -22969,8 +22304,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_05.c` at Line 11729
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_05.c`
-
 **Context (approx. Line 11699):**
 ```c
 {
@@ -23038,8 +22371,6 @@ bool func_376(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_06.c` at Line 10752
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_06.c`
-
 **Context (approx. Line 10722):**
 ```c
 {
@@ -23107,8 +22438,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_07.c` at Line 10835
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_07.c`
-
 **Context (approx. Line 10805):**
 ```c
 {
@@ -23176,8 +22505,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_08.c` at Line 10799
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_08.c`
-
 **Context (approx. Line 10769):**
 ```c
 {
@@ -23245,8 +22572,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_09.c` at Line 10888
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_09.c`
-
 **Context (approx. Line 10858):**
 ```c
 {
@@ -23314,8 +22639,6 @@ bool func_378(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_10.c` at Line 11061
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_10.c`
-
 **Context (approx. Line 11031):**
 ```c
 {
@@ -23383,8 +22706,6 @@ bool func_377(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_11.c` at Line 10798
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_11.c`
-
 **Context (approx. Line 10768):**
 ```c
 {
@@ -23452,8 +22773,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_12.c` at Line 10617
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_12.c`
-
 **Context (approx. Line 10587):**
 ```c
 {
@@ -23521,8 +22840,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_13.c` at Line 10796
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_13.c`
-
 **Context (approx. Line 10766):**
 ```c
 {
@@ -23590,8 +22907,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_14.c` at Line 9961
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_14.c`
-
 **Context (approx. Line 9931):**
 ```c
 {
@@ -23659,8 +22974,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_15.c` at Line 11992
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_15.c`
-
 **Context (approx. Line 11962):**
 ```c
 {
@@ -23728,8 +23041,6 @@ bool func_385(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_16.c` at Line 12443
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_16.c`
-
 **Context (approx. Line 12413):**
 ```c
 {
@@ -23797,8 +23108,6 @@ bool func_403(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_17.c` at Line 10815
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_17.c`
-
 **Context (approx. Line 10785):**
 ```c
 {
@@ -23866,8 +23175,6 @@ bool func_375(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_19.c` at Line 11464
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_19.c`
-
 **Context (approx. Line 11434):**
 ```c
 {
@@ -23935,8 +23242,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_20.c` at Line 11860
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_20.c`
-
 **Context (approx. Line 11830):**
 ```c
 {
@@ -24004,8 +23309,6 @@ bool func_380(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_21.c` at Line 10640
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_21.c`
-
 **Context (approx. Line 10610):**
 ```c
 {
@@ -24073,8 +23376,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_abi_23.c` at Line 11514
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_abi_23.c`
-
 **Context (approx. Line 11484):**
 ```c
 {
@@ -24142,8 +23443,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_am_cln_shared.c` at Line 12786
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_am_cln_shared.c`
-
 **Context (approx. Line 12756):**
 ```c
 if (!STREAMING::IS_MODEL_VALID(iVar1))
@@ -24211,8 +23510,6 @@ bool func_460(int iParam0)
 ---
 
 ## Match in `cv_cc_am_cnf_01.c` at Line 11933
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_am_cnf_01.c`
-
 **Context (approx. Line 11903):**
 ```c
 {
@@ -24280,8 +23577,6 @@ bool func_454(int iParam0)
 ---
 
 ## Match in `cv_cc_am_cnf_02.c` at Line 11923
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_am_cnf_02.c`
-
 **Context (approx. Line 11893):**
 ```c
 {
@@ -24349,8 +23644,6 @@ bool func_452(int iParam0)
 ---
 
 ## Match in `cv_cc_am_cnf_03.c` at Line 11833
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_am_cnf_03.c`
-
 **Context (approx. Line 11803):**
 ```c
 {
@@ -24418,8 +23711,6 @@ bool func_451(int iParam0)
 ---
 
 ## Match in `cv_cc_am_cnf_04.c` at Line 11823
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_am_cnf_04.c`
-
 **Context (approx. Line 11793):**
 ```c
 {
@@ -24487,8 +23778,6 @@ bool func_447(int iParam0)
 ---
 
 ## Match in `cv_cc_am_cnf_05.c` at Line 11739
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_am_cnf_05.c`
-
 **Context (approx. Line 11709):**
 ```c
 {
@@ -24556,8 +23845,6 @@ bool func_444(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_04.c` at Line 10821
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_04.c`
-
 **Context (approx. Line 10791):**
 ```c
 {
@@ -24625,8 +23912,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_05.c` at Line 11183
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_05.c`
-
 **Context (approx. Line 11153):**
 ```c
 {
@@ -24694,8 +23979,6 @@ bool func_381(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_06.c` at Line 10798
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_06.c`
-
 **Context (approx. Line 10768):**
 ```c
 {
@@ -24763,8 +24046,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_08.c` at Line 10187
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_08.c`
-
 **Context (approx. Line 10157):**
 ```c
 {
@@ -24832,8 +24113,6 @@ bool func_376(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_09.c` at Line 11735
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_09.c`
-
 **Context (approx. Line 11705):**
 ```c
 {
@@ -24901,8 +24180,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_10.c` at Line 11058
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_10.c`
-
 **Context (approx. Line 11028):**
 ```c
 {
@@ -24970,8 +24247,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_11.c` at Line 11730
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_11.c`
-
 **Context (approx. Line 11700):**
 ```c
 {
@@ -25039,8 +24314,6 @@ bool func_378(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_13.c` at Line 10762
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_13.c`
-
 **Context (approx. Line 10732):**
 ```c
 {
@@ -25108,8 +24381,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_14.c` at Line 10728
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_14.c`
-
 **Context (approx. Line 10698):**
 ```c
 {
@@ -25177,8 +24448,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_bll_15.c` at Line 10648
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_bll_15.c`
-
 **Context (approx. Line 10618):**
 ```c
 {
@@ -25246,8 +24515,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_chr_01.c` at Line 10755
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_chr_01.c`
-
 **Context (approx. Line 10725):**
 ```c
 {
@@ -25315,8 +24582,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_chr_02.c` at Line 10798
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_chr_02.c`
-
 **Context (approx. Line 10768):**
 ```c
 {
@@ -25384,8 +24649,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_chr_03.c` at Line 10597
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_chr_03.c`
-
 **Context (approx. Line 10567):**
 ```c
 {
@@ -25453,8 +24716,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_cc_chr_05.c` at Line 11718
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_chr_05.c`
-
 **Context (approx. Line 11688):**
 ```c
 {
@@ -25522,8 +24783,6 @@ bool func_377(int iParam0)
 ---
 
 ## Match in `cv_cc_dna_01.c` at Line 9859
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dna_01.c`
-
 **Context (approx. Line 9829):**
 ```c
 {
@@ -25591,8 +24850,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_01.c` at Line 9716
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_01.c`
-
 **Context (approx. Line 9686):**
 ```c
 {
@@ -25660,8 +24917,6 @@ bool func_360(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_02.c` at Line 9768
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_02.c`
-
 **Context (approx. Line 9738):**
 ```c
 {
@@ -25729,8 +24984,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_03.c` at Line 10823
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_03.c`
-
 **Context (approx. Line 10793):**
 ```c
 {
@@ -25798,8 +25051,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_04.c` at Line 10830
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_04.c`
-
 **Context (approx. Line 10800):**
 ```c
 {
@@ -25867,8 +25118,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_05.c` at Line 10958
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_05.c`
-
 **Context (approx. Line 10928):**
 ```c
 {
@@ -25936,8 +25185,6 @@ bool func_380(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_06.c` at Line 10833
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_06.c`
-
 **Context (approx. Line 10803):**
 ```c
 {
@@ -26005,8 +25252,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_07.c` at Line 10787
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_07.c`
-
 **Context (approx. Line 10757):**
 ```c
 {
@@ -26074,8 +25319,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_08.c` at Line 12480
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_08.c`
-
 **Context (approx. Line 12450):**
 ```c
 {
@@ -26143,8 +25386,6 @@ bool func_446(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_09.c` at Line 10845
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_09.c`
-
 **Context (approx. Line 10815):**
 ```c
 {
@@ -26212,8 +25453,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_10.c` at Line 12030
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_10.c`
-
 **Context (approx. Line 12000):**
 ```c
 {
@@ -26281,8 +25520,6 @@ bool func_384(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_11.c` at Line 10706
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_11.c`
-
 **Context (approx. Line 10676):**
 ```c
 {
@@ -26350,8 +25587,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_dnh_12.c` at Line 11108
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnh_12.c`
-
 **Context (approx. Line 11078):**
 ```c
 {
@@ -26419,8 +25654,6 @@ bool func_379(int iParam0)
 ---
 
 ## Match in `cv_cc_dnj_01.c` at Line 10583
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnj_01.c`
-
 **Context (approx. Line 10553):**
 ```c
 {
@@ -26488,8 +25721,6 @@ bool func_360(int iParam0)
 ---
 
 ## Match in `cv_cc_dnj_02.c` at Line 10798
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnj_02.c`
-
 **Context (approx. Line 10768):**
 ```c
 {
@@ -26557,8 +25788,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_dnj_03.c` at Line 10749
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnj_03.c`
-
 **Context (approx. Line 10719):**
 ```c
 {
@@ -26626,8 +25855,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_dnj_04.c` at Line 10907
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnj_04.c`
-
 **Context (approx. Line 10877):**
 ```c
 {
@@ -26695,8 +25922,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_cc_dnj_05.c` at Line 10883
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnj_05.c`
-
 **Context (approx. Line 10853):**
 ```c
 {
@@ -26764,8 +25989,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_cc_dnj_06.c` at Line 11679
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnj_06.c`
-
 **Context (approx. Line 11649):**
 ```c
 {
@@ -26833,8 +26056,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_dnj_07.c` at Line 12270
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnj_07.c`
-
 **Context (approx. Line 12240):**
 ```c
 {
@@ -26902,8 +26123,6 @@ bool func_430(int iParam0)
 ---
 
 ## Match in `cv_cc_dnk_01.c` at Line 11572
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnk_01.c`
-
 **Context (approx. Line 11542):**
 ```c
 {
@@ -26971,8 +26190,6 @@ bool func_396(int iParam0)
 ---
 
 ## Match in `cv_cc_dnk_02.c` at Line 10830
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnk_02.c`
-
 **Context (approx. Line 10800):**
 ```c
 {
@@ -27040,8 +26257,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_dnk_03.c` at Line 10657
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnk_03.c`
-
 **Context (approx. Line 10627):**
 ```c
 {
@@ -27109,8 +26324,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_dnk_04.c` at Line 10819
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnk_04.c`
-
 **Context (approx. Line 10789):**
 ```c
 {
@@ -27178,8 +26391,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_dnl_01.c` at Line 10947
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnl_01.c`
-
 **Context (approx. Line 10917):**
 ```c
 {
@@ -27247,8 +26458,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_cc_dnl_02.c` at Line 10654
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnl_02.c`
-
 **Context (approx. Line 10624):**
 ```c
 {
@@ -27316,8 +26525,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_dnm_01.c` at Line 11727
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnm_01.c`
-
 **Context (approx. Line 11697):**
 ```c
 {
@@ -27385,8 +26592,6 @@ bool func_377(int iParam0)
 ---
 
 ## Match in `cv_cc_dnm_02.c` at Line 11436
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnm_02.c`
-
 **Context (approx. Line 11406):**
 ```c
 {
@@ -27454,8 +26659,6 @@ bool func_432(int iParam0)
 ---
 
 ## Match in `cv_cc_dnm_03.c` at Line 10694
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnm_03.c`
-
 **Context (approx. Line 10664):**
 ```c
 {
@@ -27523,8 +26726,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_dnv_02.c` at Line 10855
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dnv_02.c`
-
 **Context (approx. Line 10825):**
 ```c
 {
@@ -27592,8 +26793,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_dog_01.c` at Line 14003
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dog_01.c`
-
 **Context (approx. Line 13973):**
 ```c
 {
@@ -27661,8 +26860,6 @@ bool func_424(int iParam0)
 ---
 
 ## Match in `cv_cc_dog_04.c` at Line 11437
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dog_04.c`
-
 **Context (approx. Line 11407):**
 ```c
 {
@@ -27730,8 +26927,6 @@ bool func_392(int iParam0)
 ---
 
 ## Match in `cv_cc_dog_05.c` at Line 10956
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dog_05.c`
-
 **Context (approx. Line 10926):**
 ```c
 {
@@ -27799,8 +26994,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_dog_06.c` at Line 10642
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dog_06.c`
-
 **Context (approx. Line 10612):**
 ```c
 {
@@ -27868,8 +27061,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_dog_08.c` at Line 11396
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dog_08.c`
-
 **Context (approx. Line 11366):**
 ```c
 {
@@ -27937,8 +27128,6 @@ bool func_392(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_03.c` at Line 9986
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_03.c`
-
 **Context (approx. Line 9956):**
 ```c
 {
@@ -28006,8 +27195,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_04.c` at Line 11346
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_04.c`
-
 **Context (approx. Line 11316):**
 ```c
 {
@@ -28075,8 +27262,6 @@ bool func_388(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_10.c` at Line 10825
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_10.c`
-
 **Context (approx. Line 10795):**
 ```c
 {
@@ -28144,8 +27329,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_14.c` at Line 10215
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_14.c`
-
 **Context (approx. Line 10185):**
 ```c
 {
@@ -28213,8 +27396,6 @@ bool func_378(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_15.c` at Line 10923
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_15.c`
-
 **Context (approx. Line 10893):**
 ```c
 {
@@ -28282,8 +27463,6 @@ bool func_375(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_17.c` at Line 10792
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_17.c`
-
 **Context (approx. Line 10762):**
 ```c
 {
@@ -28351,8 +27530,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_18.c` at Line 11065
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_18.c`
-
 **Context (approx. Line 11035):**
 ```c
 {
@@ -28420,8 +27597,6 @@ bool func_380(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_19.c` at Line 10744
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_19.c`
-
 **Context (approx. Line 10714):**
 ```c
 {
@@ -28489,8 +27664,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_21.c` at Line 10705
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_21.c`
-
 **Context (approx. Line 10675):**
 ```c
 {
@@ -28558,8 +27731,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_22.c` at Line 10764
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_22.c`
-
 **Context (approx. Line 10734):**
 ```c
 {
@@ -28627,8 +27798,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_23.c` at Line 10994
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_23.c`
-
 **Context (approx. Line 10964):**
 ```c
 {
@@ -28696,8 +27865,6 @@ bool func_380(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_24.c` at Line 10718
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_24.c`
-
 **Context (approx. Line 10688):**
 ```c
 {
@@ -28765,8 +27932,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_25.c` at Line 10832
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_25.c`
-
 **Context (approx. Line 10802):**
 ```c
 {
@@ -28834,8 +27999,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_28.c` at Line 10689
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_28.c`
-
 **Context (approx. Line 10659):**
 ```c
 {
@@ -28903,8 +28066,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_29.c` at Line 10676
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_29.c`
-
 **Context (approx. Line 10646):**
 ```c
 {
@@ -28972,8 +28133,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_30.c` at Line 12242
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_30.c`
-
 **Context (approx. Line 12212):**
 ```c
 {
@@ -29041,8 +28200,6 @@ bool func_396(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_31.c` at Line 11967
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_31.c`
-
 **Context (approx. Line 11937):**
 ```c
 {
@@ -29110,8 +28267,6 @@ bool func_384(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_32.c` at Line 12306
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_32.c`
-
 **Context (approx. Line 12276):**
 ```c
 {
@@ -29179,8 +28334,6 @@ bool func_442(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_33.c` at Line 11948
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_33.c`
-
 **Context (approx. Line 11918):**
 ```c
 {
@@ -29248,8 +28401,6 @@ bool func_423(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_34.c` at Line 10772
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_34.c`
-
 **Context (approx. Line 10742):**
 ```c
 {
@@ -29317,8 +28468,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_dtc_shared.c` at Line 12353
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_dtc_shared.c`
-
 **Context (approx. Line 12323):**
 ```c
 {
@@ -29386,8 +28535,6 @@ bool func_385(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_01.c` at Line 10130
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_01.c`
-
 **Context (approx. Line 10100):**
 ```c
 {
@@ -29455,8 +28602,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_03.c` at Line 11076
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_03.c`
-
 **Context (approx. Line 11046):**
 ```c
 {
@@ -29524,8 +28669,6 @@ bool func_378(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_04.c` at Line 10767
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_04.c`
-
 **Context (approx. Line 10737):**
 ```c
 {
@@ -29593,8 +28736,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_06.c` at Line 10759
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_06.c`
-
 **Context (approx. Line 10729):**
 ```c
 {
@@ -29662,8 +28803,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_07.c` at Line 10819
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_07.c`
-
 **Context (approx. Line 10789):**
 ```c
 {
@@ -29731,8 +28870,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_08.c` at Line 10791
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_08.c`
-
 **Context (approx. Line 10761):**
 ```c
 {
@@ -29800,8 +28937,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_09.c` at Line 10836
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_09.c`
-
 **Context (approx. Line 10806):**
 ```c
 {
@@ -29869,8 +29004,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_11.c` at Line 10760
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_11.c`
-
 **Context (approx. Line 10730):**
 ```c
 {
@@ -29938,8 +29071,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_12.c` at Line 10870
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_12.c`
-
 **Context (approx. Line 10840):**
 ```c
 {
@@ -30007,8 +29138,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_13.c` at Line 10819
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_13.c`
-
 **Context (approx. Line 10789):**
 ```c
 {
@@ -30076,8 +29205,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_14.c` at Line 11379
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_14.c`
-
 **Context (approx. Line 11349):**
 ```c
 }
@@ -30145,8 +29272,6 @@ bool func_387(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_15.c` at Line 10730
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_15.c`
-
 **Context (approx. Line 10700):**
 ```c
 {
@@ -30214,8 +29339,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_16.c` at Line 10752
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_16.c`
-
 **Context (approx. Line 10722):**
 ```c
 {
@@ -30283,8 +29406,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_17.c` at Line 10744
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_17.c`
-
 **Context (approx. Line 10714):**
 ```c
 {
@@ -30352,8 +29473,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_18.c` at Line 11966
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_18.c`
-
 **Context (approx. Line 11936):**
 ```c
 {
@@ -30421,8 +29540,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `cv_cc_hsh_19.c` at Line 10616
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_hsh_19.c`
-
 **Context (approx. Line 10586):**
 ```c
 {
@@ -30490,8 +29607,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_01.c` at Line 10798
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_01.c`
-
 **Context (approx. Line 10768):**
 ```c
 {
@@ -30559,8 +29674,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_02.c` at Line 10829
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_02.c`
-
 **Context (approx. Line 10799):**
 ```c
 {
@@ -30628,8 +29741,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_03.c` at Line 10879
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_03.c`
-
 **Context (approx. Line 10849):**
 ```c
 {
@@ -30697,8 +29808,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_04.c` at Line 10843
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_04.c`
-
 **Context (approx. Line 10813):**
 ```c
 {
@@ -30766,8 +29875,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_05.c` at Line 9751
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_05.c`
-
 **Context (approx. Line 9721):**
 ```c
 {
@@ -30835,8 +29942,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_07.c` at Line 10822
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_07.c`
-
 **Context (approx. Line 10792):**
 ```c
 {
@@ -30904,8 +30009,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_08.c` at Line 11728
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_08.c`
-
 **Context (approx. Line 11698):**
 ```c
 {
@@ -30973,8 +30076,6 @@ bool func_402(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_09.c` at Line 10725
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_09.c`
-
 **Context (approx. Line 10695):**
 ```c
 {
@@ -31042,8 +30143,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_10.c` at Line 10970
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_10.c`
-
 **Context (approx. Line 10940):**
 ```c
 {
@@ -31111,8 +30210,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_jav_11.c` at Line 10619
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jav_11.c`
-
 **Context (approx. Line 10589):**
 ```c
 {
@@ -31180,8 +30277,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_jck_01.c` at Line 10796
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jck_01.c`
-
 **Context (approx. Line 10766):**
 ```c
 {
@@ -31249,8 +30344,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_jck_02.c` at Line 11643
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jck_02.c`
-
 **Context (approx. Line 11613):**
 ```c
 {
@@ -31318,8 +30411,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_jck_03.c` at Line 10810
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jck_03.c`
-
 **Context (approx. Line 10780):**
 ```c
 {
@@ -31387,8 +30478,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_cc_jck_04.c` at Line 11640
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jck_04.c`
-
 **Context (approx. Line 11610):**
 ```c
 {
@@ -31456,8 +30545,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_jck_05.c` at Line 10781
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jck_05.c`
-
 **Context (approx. Line 10751):**
 ```c
 {
@@ -31525,8 +30612,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_jck_par_01.c` at Line 10743
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jck_par_01.c`
-
 **Context (approx. Line 10713):**
 ```c
 {
@@ -31594,8 +30679,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_01.c` at Line 11106
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_01.c`
-
 **Context (approx. Line 11076):**
 ```c
 {
@@ -31663,8 +30746,6 @@ bool func_389(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_02.c` at Line 11672
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_02.c`
-
 **Context (approx. Line 11642):**
 ```c
 {
@@ -31732,8 +30813,6 @@ bool func_436(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_03.c` at Line 10619
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_03.c`
-
 **Context (approx. Line 10589):**
 ```c
 {
@@ -31801,8 +30880,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_04.c` at Line 10693
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_04.c`
-
 **Context (approx. Line 10663):**
 ```c
 {
@@ -31870,8 +30947,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_05.c` at Line 11736
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_05.c`
-
 **Context (approx. Line 11706):**
 ```c
 {
@@ -31939,8 +31014,6 @@ bool func_381(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_06.c` at Line 11445
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_06.c`
-
 **Context (approx. Line 11415):**
 ```c
 {
@@ -32008,8 +31081,6 @@ bool func_393(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_07.c` at Line 9894
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_07.c`
-
 **Context (approx. Line 9864):**
 ```c
 {
@@ -32077,8 +31148,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_08.c` at Line 10640
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_08.c`
-
 **Context (approx. Line 10610):**
 ```c
 {
@@ -32146,8 +31215,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_09.c` at Line 11141
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_09.c`
-
 **Context (approx. Line 11111):**
 ```c
 {
@@ -32215,8 +31282,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `cv_cc_jhn_10.c` at Line 10778
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_jhn_10.c`
-
 **Context (approx. Line 10748):**
 ```c
 {
@@ -32284,8 +31349,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_01.c` at Line 11713
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_01.c`
-
 **Context (approx. Line 11683):**
 ```c
 {
@@ -32353,8 +31416,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_02.c` at Line 9855
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_02.c`
-
 **Context (approx. Line 9825):**
 ```c
 {
@@ -32422,8 +31483,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_03.c` at Line 9855
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_03.c`
-
 **Context (approx. Line 9825):**
 ```c
 {
@@ -32491,8 +31550,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_04.c` at Line 10790
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_04.c`
-
 **Context (approx. Line 10760):**
 ```c
 {
@@ -32560,8 +31617,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_05.c` at Line 10243
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_05.c`
-
 **Context (approx. Line 10213):**
 ```c
 {
@@ -32629,8 +31684,6 @@ bool func_377(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_06.c` at Line 12060
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_06.c`
-
 **Context (approx. Line 12030):**
 ```c
 {
@@ -32698,8 +31751,6 @@ bool func_387(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_07.c` at Line 10800
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_07.c`
-
 **Context (approx. Line 10770):**
 ```c
 {
@@ -32767,8 +31818,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_08.c` at Line 11524
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_08.c`
-
 **Context (approx. Line 11494):**
 ```c
 {
@@ -32836,8 +31885,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_09.c` at Line 11156
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_09.c`
-
 **Context (approx. Line 11126):**
 ```c
 {
@@ -32905,8 +31952,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_10.c` at Line 10681
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_10.c`
-
 **Context (approx. Line 10651):**
 ```c
 {
@@ -32974,8 +32019,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_11.c` at Line 11142
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_11.c`
-
 **Context (approx. Line 11112):**
 ```c
 {
@@ -33043,8 +32086,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_12.c` at Line 10596
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_12.c`
-
 **Context (approx. Line 10566):**
 ```c
 {
@@ -33112,8 +32153,6 @@ bool func_360(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_13.c` at Line 12285
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_13.c`
-
 **Context (approx. Line 12255):**
 ```c
 {
@@ -33181,8 +32220,6 @@ bool func_398(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_par_02.c` at Line 10680
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_par_02.c`
-
 **Context (approx. Line 10650):**
 ```c
 {
@@ -33250,8 +32287,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_kar_par_03.c` at Line 10583
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kar_par_03.c`
-
 **Context (approx. Line 10553):**
 ```c
 {
@@ -33319,8 +32354,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_01.c` at Line 11242
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_01.c`
-
 **Context (approx. Line 11212):**
 ```c
 {
@@ -33388,8 +32421,6 @@ bool func_422(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_04.c` at Line 11010
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_04.c`
-
 **Context (approx. Line 10980):**
 ```c
 {
@@ -33457,8 +32488,6 @@ bool func_380(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_05.c` at Line 11037
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_05.c`
-
 **Context (approx. Line 11007):**
 ```c
 {
@@ -33526,8 +32555,6 @@ bool func_381(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_07.c` at Line 11339
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_07.c`
-
 **Context (approx. Line 11309):**
 ```c
 {
@@ -33595,8 +32622,6 @@ bool func_389(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_08.c` at Line 11185
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_08.c`
-
 **Context (approx. Line 11155):**
 ```c
 {
@@ -33664,8 +32689,6 @@ bool func_384(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_09.c` at Line 12173
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_09.c`
-
 **Context (approx. Line 12143):**
 ```c
 {
@@ -33733,8 +32756,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_10.c` at Line 10732
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_10.c`
-
 **Context (approx. Line 10702):**
 ```c
 {
@@ -33802,8 +32823,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_11.c` at Line 10758
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_11.c`
-
 **Context (approx. Line 10728):**
 ```c
 {
@@ -33871,8 +32890,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_12.c` at Line 10640
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_12.c`
-
 **Context (approx. Line 10610):**
 ```c
 {
@@ -33940,8 +32957,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_13.c` at Line 10640
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_13.c`
-
 **Context (approx. Line 10610):**
 ```c
 {
@@ -34009,8 +33024,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_14.c` at Line 10751
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_14.c`
-
 **Context (approx. Line 10721):**
 ```c
 {
@@ -34078,8 +33091,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_kie_15.c` at Line 11007
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_kie_15.c`
-
 **Context (approx. Line 10977):**
 ```c
 {
@@ -34147,8 +33158,6 @@ bool func_375(int iParam0)
 ---
 
 ## Match in `cv_cc_len_01.c` at Line 10852
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_len_01.c`
-
 **Context (approx. Line 10822):**
 ```c
 {
@@ -34216,8 +33225,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_len_02.c` at Line 9832
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_len_02.c`
-
 **Context (approx. Line 9802):**
 ```c
 {
@@ -34285,8 +33292,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_len_03.c` at Line 9841
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_len_03.c`
-
 **Context (approx. Line 9811):**
 ```c
 {
@@ -34354,8 +33359,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_len_04.c` at Line 10647
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_len_04.c`
-
 **Context (approx. Line 10617):**
 ```c
 {
@@ -34423,8 +33426,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_len_05.c` at Line 11743
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_len_05.c`
-
 **Context (approx. Line 11713):**
 ```c
 {
@@ -34492,8 +33493,6 @@ bool func_377(int iParam0)
 ---
 
 ## Match in `cv_cc_len_06.c` at Line 10688
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_len_06.c`
-
 **Context (approx. Line 10658):**
 ```c
 {
@@ -34561,8 +33560,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_len_07.c` at Line 10858
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_len_07.c`
-
 **Context (approx. Line 10828):**
 ```c
 {
@@ -34630,8 +33627,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_len_08.c` at Line 11500
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_len_08.c`
-
 **Context (approx. Line 11470):**
 ```c
 {
@@ -34699,8 +33694,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_lnsnm_01.c` at Line 10632
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_lnsnm_01.c`
-
 **Context (approx. Line 10602):**
 ```c
 {
@@ -34768,8 +33761,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_02.c` at Line 11647
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_02.c`
-
 **Context (approx. Line 11617):**
 ```c
 {
@@ -34837,8 +33828,6 @@ bool func_402(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_03.c` at Line 10764
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_03.c`
-
 **Context (approx. Line 10734):**
 ```c
 {
@@ -34906,8 +33895,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_05.c` at Line 10838
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_05.c`
-
 **Context (approx. Line 10808):**
 ```c
 {
@@ -34975,8 +33962,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_06.c` at Line 10761
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_06.c`
-
 **Context (approx. Line 10731):**
 ```c
 {
@@ -35044,8 +34029,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_07.c` at Line 10628
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_07.c`
-
 **Context (approx. Line 10598):**
 ```c
 {
@@ -35113,8 +34096,6 @@ bool func_394(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_08.c` at Line 9885
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_08.c`
-
 **Context (approx. Line 9855):**
 ```c
 {
@@ -35182,8 +34163,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_10.c` at Line 11359
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_10.c`
-
 **Context (approx. Line 11329):**
 ```c
 {
@@ -35251,8 +34230,6 @@ bool func_390(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_11.c` at Line 10583
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_11.c`
-
 **Context (approx. Line 10553):**
 ```c
 {
@@ -35320,8 +34297,6 @@ bool func_360(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_12.c` at Line 12427
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_12.c`
-
 **Context (approx. Line 12397):**
 ```c
 {
@@ -35389,8 +34364,6 @@ bool func_402(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_13.c` at Line 9855
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_13.c`
-
 **Context (approx. Line 9825):**
 ```c
 {
@@ -35458,8 +34431,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_15.c` at Line 10591
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_15.c`
-
 **Context (approx. Line 10561):**
 ```c
 {
@@ -35527,8 +34498,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_16.c` at Line 11923
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_16.c`
-
 **Context (approx. Line 11893):**
 ```c
 {
@@ -35596,8 +34565,6 @@ bool func_409(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_17.c` at Line 11681
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_17.c`
-
 **Context (approx. Line 11651):**
 ```c
 {
@@ -35665,8 +34632,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_18.c` at Line 11595
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_18.c`
-
 **Context (approx. Line 11565):**
 ```c
 {
@@ -35734,8 +34699,6 @@ bool func_398(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_19.c` at Line 10615
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_19.c`
-
 **Context (approx. Line 10585):**
 ```c
 {
@@ -35803,8 +34766,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_20.c` at Line 11718
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_20.c`
-
 **Context (approx. Line 11688):**
 ```c
 {
@@ -35872,8 +34833,6 @@ bool func_375(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_21.c` at Line 11127
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_21.c`
-
 **Context (approx. Line 11097):**
 ```c
 {
@@ -35941,8 +34900,6 @@ bool func_378(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_22.c` at Line 11385
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_22.c`
-
 **Context (approx. Line 11355):**
 ```c
 {
@@ -36010,8 +34967,6 @@ bool func_391(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_24.c` at Line 10574
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_24.c`
-
 **Context (approx. Line 10544):**
 ```c
 {
@@ -36079,8 +35034,6 @@ bool func_359(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_25.c` at Line 10524
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_25.c`
-
 **Context (approx. Line 10494):**
 ```c
 {
@@ -36148,8 +35101,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_26.c` at Line 12462
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_26.c`
-
 **Context (approx. Line 12432):**
 ```c
 {
@@ -36217,8 +35168,6 @@ bool func_401(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_27.c` at Line 11552
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_27.c`
-
 **Context (approx. Line 11522):**
 ```c
 {
@@ -36286,8 +35235,6 @@ bool func_397(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_28.c` at Line 11606
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_28.c`
-
 **Context (approx. Line 11576):**
 ```c
 {
@@ -36355,8 +35302,6 @@ bool func_401(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_29.c` at Line 10649
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_29.c`
-
 **Context (approx. Line 10619):**
 ```c
 {
@@ -36424,8 +35369,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_30.c` at Line 10617
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_30.c`
-
 **Context (approx. Line 10587):**
 ```c
 {
@@ -36493,8 +35436,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_31.c` at Line 10789
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_31.c`
-
 **Context (approx. Line 10759):**
 ```c
 {
@@ -36562,8 +35503,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_32.c` at Line 10596
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_32.c`
-
 **Context (approx. Line 10566):**
 ```c
 {
@@ -36631,8 +35570,6 @@ bool func_361(int iParam0)
 ---
 
 ## Match in `cv_cc_mch_33.c` at Line 11455
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mch_33.c`
-
 **Context (approx. Line 11425):**
 ```c
 {
@@ -36700,8 +35637,6 @@ bool func_395(int iParam0)
 ---
 
 ## Match in `cv_cc_mll_01.c` at Line 10899
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mll_01.c`
-
 **Context (approx. Line 10869):**
 ```c
 {
@@ -36769,8 +35704,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_mll_02.c` at Line 10800
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mll_02.c`
-
 **Context (approx. Line 10770):**
 ```c
 {
@@ -36838,8 +35771,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_mll_04.c` at Line 11085
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mll_04.c`
-
 **Context (approx. Line 11055):**
 ```c
 {
@@ -36907,8 +35838,6 @@ bool func_379(int iParam0)
 ---
 
 ## Match in `cv_cc_mll_05.c` at Line 12189
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mll_05.c`
-
 **Context (approx. Line 12159):**
 ```c
 {
@@ -36976,8 +35905,6 @@ bool func_427(int iParam0)
 ---
 
 ## Match in `cv_cc_mll_06.c` at Line 10621
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mll_06.c`
-
 **Context (approx. Line 10591):**
 ```c
 {
@@ -37045,8 +35972,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_mll_07.c` at Line 9921
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mll_07.c`
-
 **Context (approx. Line 9891):**
 ```c
 {
@@ -37114,8 +36039,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_mll_08.c` at Line 9868
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mll_08.c`
-
 **Context (approx. Line 9838):**
 ```c
 {
@@ -37183,8 +36106,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_mll_09.c` at Line 10772
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mll_09.c`
-
 **Context (approx. Line 10742):**
 ```c
 {
@@ -37252,8 +36173,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_01.c` at Line 10812
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_01.c`
-
 **Context (approx. Line 10782):**
 ```c
 {
@@ -37321,8 +36240,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_02.c` at Line 11786
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_02.c`
-
 **Context (approx. Line 11756):**
 ```c
 {
@@ -37390,8 +36307,6 @@ bool func_386(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_03.c` at Line 10734
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_03.c`
-
 **Context (approx. Line 10704):**
 ```c
 {
@@ -37459,8 +36374,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_04.c` at Line 10821
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_04.c`
-
 **Context (approx. Line 10791):**
 ```c
 {
@@ -37528,8 +36441,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_05.c` at Line 9939
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_05.c`
-
 **Context (approx. Line 9909):**
 ```c
 {
@@ -37597,8 +36508,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_06.c` at Line 11487
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_06.c`
-
 **Context (approx. Line 11457):**
 ```c
 {
@@ -37666,8 +36575,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_07.c` at Line 10654
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_07.c`
-
 **Context (approx. Line 10624):**
 ```c
 {
@@ -37735,8 +36642,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_08.c` at Line 10864
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_08.c`
-
 **Context (approx. Line 10834):**
 ```c
 {
@@ -37804,8 +36709,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_09.c` at Line 11096
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_09.c`
-
 **Context (approx. Line 11066):**
 ```c
 {
@@ -37873,8 +36776,6 @@ bool func_377(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_10.c` at Line 10832
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_10.c`
-
 **Context (approx. Line 10802):**
 ```c
 {
@@ -37942,8 +36843,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_11.c` at Line 10826
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_11.c`
-
 **Context (approx. Line 10796):**
 ```c
 {
@@ -38011,8 +36910,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_mrb_12.c` at Line 11873
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_mrb_12.c`
-
 **Context (approx. Line 11843):**
 ```c
 {
@@ -38080,8 +36977,6 @@ bool func_381(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_01.c` at Line 10790
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_01.c`
-
 **Context (approx. Line 10760):**
 ```c
 {
@@ -38149,8 +37044,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_02.c` at Line 10789
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_02.c`
-
 **Context (approx. Line 10759):**
 ```c
 {
@@ -38218,8 +37111,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_03.c` at Line 11707
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_03.c`
-
 **Context (approx. Line 11677):**
 ```c
 {
@@ -38287,8 +37178,6 @@ bool func_376(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_04.c` at Line 10878
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_04.c`
-
 **Context (approx. Line 10848):**
 ```c
 {
@@ -38356,8 +37245,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_05.c` at Line 11692
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_05.c`
-
 **Context (approx. Line 11662):**
 ```c
 {
@@ -38425,8 +37312,6 @@ bool func_375(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_13.c` at Line 11755
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_13.c`
-
 **Context (approx. Line 11725):**
 ```c
 {
@@ -38494,8 +37379,6 @@ bool func_380(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_14.c` at Line 10791
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_14.c`
-
 **Context (approx. Line 10761):**
 ```c
 {
@@ -38563,8 +37446,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_15.c` at Line 11438
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_15.c`
-
 **Context (approx. Line 11408):**
 ```c
 {
@@ -38632,8 +37513,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_16.c` at Line 11813
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_16.c`
-
 **Context (approx. Line 11783):**
 ```c
 {
@@ -38701,8 +37580,6 @@ bool func_377(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_17.c` at Line 9840
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_17.c`
-
 **Context (approx. Line 9810):**
 ```c
 {
@@ -38770,8 +37647,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_callover.c` at Line 11142
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_callover.c`
-
 **Context (approx. Line 11112):**
 ```c
 {
@@ -38839,8 +37714,6 @@ bool func_378(int iParam0)
 ---
 
 ## Match in `cv_cc_prs_par_01.c` at Line 9729
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_prs_par_01.c`
-
 **Context (approx. Line 9699):**
 ```c
 {
@@ -38908,8 +37781,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_sad_01.c` at Line 10708
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sad_01.c`
-
 **Context (approx. Line 10678):**
 ```c
 {
@@ -38977,8 +37848,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_sad_02.c` at Line 9736
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sad_02.c`
-
 **Context (approx. Line 9706):**
 ```c
 {
@@ -39046,8 +37915,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_sad_03.c` at Line 9720
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sad_03.c`
-
 **Context (approx. Line 9690):**
 ```c
 {
@@ -39115,8 +37982,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_01.c` at Line 10760
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_01.c`
-
 **Context (approx. Line 10730):**
 ```c
 {
@@ -39184,8 +38049,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_02.c` at Line 11130
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_02.c`
-
 **Context (approx. Line 11100):**
 ```c
 {
@@ -39253,8 +38116,6 @@ bool func_381(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_03.c` at Line 10542
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_03.c`
-
 **Context (approx. Line 10512):**
 ```c
 {
@@ -39322,8 +38183,6 @@ bool func_359(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_04.c` at Line 10759
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_04.c`
-
 **Context (approx. Line 10729):**
 ```c
 {
@@ -39391,8 +38250,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_05.c` at Line 10769
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_05.c`
-
 **Context (approx. Line 10739):**
 ```c
 {
@@ -39460,8 +38317,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_06.c` at Line 10555
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_06.c`
-
 **Context (approx. Line 10525):**
 ```c
 {
@@ -39529,8 +38384,6 @@ bool func_361(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_07.c` at Line 9754
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_07.c`
-
 **Context (approx. Line 9724):**
 ```c
 {
@@ -39598,8 +38451,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_08.c` at Line 10783
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_08.c`
-
 **Context (approx. Line 10753):**
 ```c
 {
@@ -39667,8 +38518,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_09.c` at Line 11030
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_09.c`
-
 **Context (approx. Line 11000):**
 ```c
 {
@@ -39736,8 +38585,6 @@ bool func_379(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_10.c` at Line 10695
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_10.c`
-
 **Context (approx. Line 10665):**
 ```c
 {
@@ -39805,8 +38652,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_11.c` at Line 10623
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_11.c`
-
 **Context (approx. Line 10593):**
 ```c
 {
@@ -39874,8 +38719,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_12.c` at Line 11511
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_12.c`
-
 **Context (approx. Line 11481):**
 ```c
 {
@@ -39943,8 +38786,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_13.c` at Line 10779
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_13.c`
-
 **Context (approx. Line 10749):**
 ```c
 {
@@ -40012,8 +38853,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_14.c` at Line 11462
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_14.c`
-
 **Context (approx. Line 11432):**
 ```c
 {
@@ -40081,8 +38920,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_15.c` at Line 11473
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_15.c`
-
 **Context (approx. Line 11443):**
 ```c
 {
@@ -40150,8 +38987,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_16.c` at Line 11974
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_16.c`
-
 **Context (approx. Line 11944):**
 ```c
 {
@@ -40219,8 +39054,6 @@ bool func_384(int iParam0)
 ---
 
 ## Match in `cv_cc_sen_17.c` at Line 10606
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_sen_17.c`
-
 **Context (approx. Line 10576):**
 ```c
 {
@@ -40288,8 +39121,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_cc_snk_par_01.c` at Line 10720
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_snk_par_01.c`
-
 **Context (approx. Line 10690):**
 ```c
 {
@@ -40357,8 +39188,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_snk_par_02.c` at Line 16736
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_snk_par_02.c`
-
 **Context (approx. Line 16706):**
 ```c
 {
@@ -40426,8 +39255,6 @@ bool func_521(int iParam0)
 ---
 
 ## Match in `cv_cc_snk_par_03.c` at Line 10653
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_snk_par_03.c`
-
 **Context (approx. Line 10623):**
 ```c
 {
@@ -40495,8 +39322,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_ssnunc_01.c` at Line 10840
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssnunc_01.c`
-
 **Context (approx. Line 10810):**
 ```c
 {
@@ -40564,8 +39389,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_01.c` at Line 11681
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_01.c`
-
 **Context (approx. Line 11651):**
 ```c
 {
@@ -40633,8 +39456,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_02.c` at Line 12038
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_02.c`
-
 **Context (approx. Line 12008):**
 ```c
 {
@@ -40702,8 +39523,6 @@ bool func_386(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_03.c` at Line 10759
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_03.c`
-
 **Context (approx. Line 10729):**
 ```c
 {
@@ -40771,8 +39590,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_04.c` at Line 11627
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_04.c`
-
 **Context (approx. Line 11597):**
 ```c
 {
@@ -40840,8 +39657,6 @@ bool func_404(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_05.c` at Line 10842
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_05.c`
-
 **Context (approx. Line 10812):**
 ```c
 {
@@ -40909,8 +39724,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_07.c` at Line 10783
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_07.c`
-
 **Context (approx. Line 10753):**
 ```c
 {
@@ -40978,8 +39791,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_08.c` at Line 10645
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_08.c`
-
 **Context (approx. Line 10615):**
 ```c
 {
@@ -41047,8 +39858,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_10.c` at Line 12258
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_10.c`
-
 **Context (approx. Line 12228):**
 ```c
 {
@@ -41116,8 +39925,6 @@ bool func_403(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_11.c` at Line 11515
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_11.c`
-
 **Context (approx. Line 11485):**
 ```c
 {
@@ -41185,8 +39992,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_12.c` at Line 10537
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_12.c`
-
 **Context (approx. Line 10507):**
 ```c
 {
@@ -41254,8 +40059,6 @@ bool func_360(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_13.c` at Line 10910
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_13.c`
-
 **Context (approx. Line 10880):**
 ```c
 {
@@ -41323,8 +40126,6 @@ bool func_378(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_14.c` at Line 11766
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_14.c`
-
 **Context (approx. Line 11736):**
 ```c
 {
@@ -41392,8 +40193,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `cv_cc_ssn_16.c` at Line 11110
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_ssn_16.c`
-
 **Context (approx. Line 11080):**
 ```c
 {
@@ -41461,8 +40260,6 @@ bool func_380(int iParam0)
 ---
 
 ## Match in `cv_cc_str_02.c` at Line 10783
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_str_02.c`
-
 **Context (approx. Line 10753):**
 ```c
 {
@@ -41530,8 +40327,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_str_03.c` at Line 12325
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_str_03.c`
-
 **Context (approx. Line 12295):**
 ```c
 {
@@ -41599,8 +40394,6 @@ bool func_399(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_06.c` at Line 9830
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_06.c`
-
 **Context (approx. Line 9800):**
 ```c
 {
@@ -41668,8 +40461,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_07.c` at Line 10769
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_07.c`
-
 **Context (approx. Line 10739):**
 ```c
 {
@@ -41737,8 +40528,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_08.c` at Line 11144
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_08.c`
-
 **Context (approx. Line 11114):**
 ```c
 {
@@ -41806,8 +40595,6 @@ bool func_379(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_09.c` at Line 11403
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_09.c`
-
 **Context (approx. Line 11373):**
 ```c
 {
@@ -41875,8 +40662,6 @@ bool func_392(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_10.c` at Line 10656
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_10.c`
-
 **Context (approx. Line 10626):**
 ```c
 {
@@ -41944,8 +40729,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_11.c` at Line 11531
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_11.c`
-
 **Context (approx. Line 11501):**
 ```c
 {
@@ -42013,8 +40796,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_12.c` at Line 10719
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_12.c`
-
 **Context (approx. Line 10689):**
 ```c
 {
@@ -42082,8 +40863,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_13.c` at Line 10665
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_13.c`
-
 **Context (approx. Line 10635):**
 ```c
 {
@@ -42151,8 +40930,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_14.c` at Line 10579
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_14.c`
-
 **Context (approx. Line 10549):**
 ```c
 {
@@ -42220,8 +40997,6 @@ bool func_361(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_15.c` at Line 10662
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_15.c`
-
 **Context (approx. Line 10632):**
 ```c
 {
@@ -42289,8 +41064,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_16.c` at Line 10870
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_16.c`
-
 **Context (approx. Line 10840):**
 ```c
 {
@@ -42358,8 +41131,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_17.c` at Line 10628
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_17.c`
-
 **Context (approx. Line 10598):**
 ```c
 {
@@ -42427,8 +41198,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_19.c` at Line 9794
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_19.c`
-
 **Context (approx. Line 9764):**
 ```c
 {
@@ -42496,8 +41265,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_21.c` at Line 10779
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_21.c`
-
 **Context (approx. Line 10749):**
 ```c
 {
@@ -42565,8 +41332,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_swn_22.c` at Line 10848
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_swn_22.c`
-
 **Context (approx. Line 10818):**
 ```c
 {
@@ -42634,8 +41399,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_cc_tll_01.c` at Line 10863
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_tll_01.c`
-
 **Context (approx. Line 10833):**
 ```c
 {
@@ -42703,8 +41466,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_tll_02.c` at Line 10864
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_tll_02.c`
-
 **Context (approx. Line 10834):**
 ```c
 {
@@ -42772,8 +41533,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_tll_03.c` at Line 10821
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_tll_03.c`
-
 **Context (approx. Line 10791):**
 ```c
 {
@@ -42841,8 +41600,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_tll_04.c` at Line 10883
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_tll_04.c`
-
 **Context (approx. Line 10853):**
 ```c
 {
@@ -42910,8 +41667,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_cc_tll_05.c` at Line 11673
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_tll_05.c`
-
 **Context (approx. Line 11643):**
 ```c
 {
@@ -42979,8 +41734,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_cc_tll_06.c` at Line 10913
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_tll_06.c`
-
 **Context (approx. Line 10883):**
 ```c
 {
@@ -43048,8 +41801,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_trl_01.c` at Line 10639
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_trl_01.c`
-
 **Context (approx. Line 10609):**
 ```c
 {
@@ -43117,8 +41868,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_trl_03.c` at Line 10669
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_trl_03.c`
-
 **Context (approx. Line 10639):**
 ```c
 {
@@ -43186,8 +41935,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_unc_01.c` at Line 10757
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_unc_01.c`
-
 **Context (approx. Line 10727):**
 ```c
 {
@@ -43255,8 +42002,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_unc_02.c` at Line 10832
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_unc_02.c`
-
 **Context (approx. Line 10802):**
 ```c
 {
@@ -43324,8 +42069,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_cc_unc_03.c` at Line 11545
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_unc_03.c`
-
 **Context (approx. Line 11515):**
 ```c
 {
@@ -43393,8 +42136,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_cc_unc_04.c` at Line 10649
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_unc_04.c`
-
 **Context (approx. Line 10619):**
 ```c
 {
@@ -43462,8 +42203,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cc_unc_05.c` at Line 9748
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_unc_05.c`
-
 **Context (approx. Line 9718):**
 ```c
 {
@@ -43531,8 +42270,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_cc_unc_06.c` at Line 10612
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_unc_06.c`
-
 **Context (approx. Line 10582):**
 ```c
 {
@@ -43600,8 +42337,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_cc_unc_07.c` at Line 11321
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_unc_07.c`
-
 **Context (approx. Line 11291):**
 ```c
 {
@@ -43669,8 +42404,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_cc_unc_08.c` at Line 10684
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cc_unc_08.c`
-
 **Context (approx. Line 10654):**
 ```c
 {
@@ -43738,8 +42471,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_cf_am_01.c` at Line 11211
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cf_am_01.c`
-
 **Context (approx. Line 11181):**
 ```c
 {
@@ -43807,8 +42538,6 @@ bool func_386(int iParam0)
 ---
 
 ## Match in `cv_cf_shared.c` at Line 15852
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_cf_shared.c`
-
 **Context (approx. Line 15822):**
 ```c
 {
@@ -43876,8 +42605,6 @@ bool func_437(int iParam0)
 ---
 
 ## Match in `cv_end_abi_01.c` at Line 10799
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_abi_01.c`
-
 **Context (approx. Line 10769):**
 ```c
 {
@@ -43945,8 +42672,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_end_abi_02.c` at Line 10790
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_abi_02.c`
-
 **Context (approx. Line 10760):**
 ```c
 {
@@ -44014,8 +42739,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_end_abi_04.c` at Line 10799
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_abi_04.c`
-
 **Context (approx. Line 10769):**
 ```c
 {
@@ -44083,8 +42806,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_end_abi_05.c` at Line 10732
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_abi_05.c`
-
 **Context (approx. Line 10702):**
 ```c
 {
@@ -44152,8 +42873,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_end_abi_06.c` at Line 11540
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_abi_06.c`
-
 **Context (approx. Line 11510):**
 ```c
 {
@@ -44221,8 +42940,6 @@ bool func_402(int iParam0)
 ---
 
 ## Match in `cv_end_abi_07.c` at Line 10782
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_abi_07.c`
-
 **Context (approx. Line 10752):**
 ```c
 {
@@ -44290,8 +43007,6 @@ bool func_370(int iParam0)
 ---
 
 ## Match in `cv_end_abi_slp_shared.c` at Line 12581
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_abi_slp_shared.c`
-
 **Context (approx. Line 12551):**
 ```c
 {
@@ -44359,8 +43074,6 @@ bool func_428(int iParam0)
 ---
 
 ## Match in `cv_end_anc_01.c` at Line 11785
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_anc_01.c`
-
 **Context (approx. Line 11755):**
 ```c
 {
@@ -44428,8 +43141,6 @@ bool func_379(int iParam0)
 ---
 
 ## Match in `cv_end_anj_01.c` at Line 11146
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_anj_01.c`
-
 **Context (approx. Line 11116):**
 ```c
 {
@@ -44497,8 +43208,6 @@ bool func_380(int iParam0)
 ---
 
 ## Match in `cv_end_anj_02.c` at Line 11236
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_anj_02.c`
-
 **Context (approx. Line 11206):**
 ```c
 {
@@ -44566,8 +43275,6 @@ bool func_390(int iParam0)
 ---
 
 ## Match in `cv_end_anj_03.c` at Line 10196
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_anj_03.c`
-
 **Context (approx. Line 10166):**
 ```c
 {
@@ -44635,8 +43342,6 @@ bool func_381(int iParam0)
 ---
 
 ## Match in `cv_end_anj_04.c` at Line 10174
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_anj_04.c`
-
 **Context (approx. Line 10144):**
 ```c
 {
@@ -44704,8 +43409,6 @@ bool func_375(int iParam0)
 ---
 
 ## Match in `cv_end_anu_01.c` at Line 10806
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_anu_01.c`
-
 **Context (approx. Line 10776):**
 ```c
 {
@@ -44773,8 +43476,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_end_chr_01.c` at Line 9828
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_chr_01.c`
-
 **Context (approx. Line 9798):**
 ```c
 {
@@ -44842,8 +43543,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_end_chr_03.c` at Line 10827
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_chr_03.c`
-
 **Context (approx. Line 10797):**
 ```c
 {
@@ -44911,8 +43610,6 @@ bool func_375(int iParam0)
 ---
 
 ## Match in `cv_end_chr_05.c` at Line 11446
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_chr_05.c`
-
 **Context (approx. Line 11416):**
 ```c
 {
@@ -44980,8 +43677,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_end_cnj_01.c` at Line 9891
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_cnj_01.c`
-
 **Context (approx. Line 9861):**
 ```c
 {
@@ -45049,8 +43744,6 @@ bool func_366(int iParam0)
 ---
 
 ## Match in `cv_end_cnu_01.c` at Line 10665
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_cnu_01.c`
-
 **Context (approx. Line 10635):**
 ```c
 {
@@ -45118,8 +43811,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_end_cnu_02.c` at Line 10665
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_cnu_02.c`
-
 **Context (approx. Line 10635):**
 ```c
 {
@@ -45187,8 +43878,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_end_cnu_03.c` at Line 10849
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_cnu_03.c`
-
 **Context (approx. Line 10819):**
 ```c
 {
@@ -45256,8 +43945,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_end_cnu_04.c` at Line 10581
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_cnu_04.c`
-
 **Context (approx. Line 10551):**
 ```c
 {
@@ -45325,8 +44012,6 @@ bool func_362(int iParam0)
 ---
 
 ## Match in `cv_end_cnu_05.c` at Line 10635
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_cnu_05.c`
-
 **Context (approx. Line 10605):**
 ```c
 {
@@ -45394,8 +44079,6 @@ bool func_363(int iParam0)
 ---
 
 ## Match in `cv_end_jck_01.c` at Line 9939
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_jck_01.c`
-
 **Context (approx. Line 9909):**
 ```c
 {
@@ -45463,8 +44146,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_end_jck_03.c` at Line 9884
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_jck_03.c`
-
 **Context (approx. Line 9854):**
 ```c
 {
@@ -45532,8 +44213,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_end_jck_04.c` at Line 10714
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_jck_04.c`
-
 **Context (approx. Line 10684):**
 ```c
 {
@@ -45601,8 +44280,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_end_jck_05.c` at Line 10802
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_jck_05.c`
-
 **Context (approx. Line 10772):**
 ```c
 {
@@ -45670,8 +44347,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_end_jck_06.c` at Line 9918
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_jck_06.c`
-
 **Context (approx. Line 9888):**
 ```c
 {
@@ -45739,8 +44414,6 @@ bool func_367(int iParam0)
 ---
 
 ## Match in `cv_end_unc_01.c` at Line 10804
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_unc_01.c`
-
 **Context (approx. Line 10774):**
 ```c
 {
@@ -45808,8 +44481,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_end_unc_02.c` at Line 9985
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_unc_02.c`
-
 **Context (approx. Line 9955):**
 ```c
 {
@@ -45877,8 +44548,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_end_unc_04.c` at Line 11078
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_unc_04.c`
-
 **Context (approx. Line 11048):**
 ```c
 {
@@ -45946,8 +44615,6 @@ bool func_382(int iParam0)
 ---
 
 ## Match in `cv_end_unc_06.c` at Line 9921
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_unc_06.c`
-
 **Context (approx. Line 9891):**
 ```c
 {
@@ -46015,8 +44682,6 @@ bool func_368(int iParam0)
 ---
 
 ## Match in `cv_end_unc_07.c` at Line 9953
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_unc_07.c`
-
 **Context (approx. Line 9923):**
 ```c
 {
@@ -46084,8 +44749,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_end_unj_01.c` at Line 10850
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_end_unj_01.c`
-
 **Context (approx. Line 10820):**
 ```c
 {
@@ -46153,8 +44816,6 @@ bool func_372(int iParam0)
 ---
 
 ## Match in `cv_itm_abi_01.c` at Line 12654
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_abi_01.c`
-
 **Context (approx. Line 12624):**
 ```c
 {
@@ -46222,8 +44883,6 @@ bool func_429(int iParam0)
 ---
 
 ## Match in `cv_itm_bll_01.c` at Line 12429
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_bll_01.c`
-
 **Context (approx. Line 12399):**
 ```c
 {
@@ -46291,8 +44950,6 @@ bool func_421(int iParam0)
 ---
 
 ## Match in `cv_itm_chr_01.c` at Line 12548
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_chr_01.c`
-
 **Context (approx. Line 12518):**
 ```c
 {
@@ -46360,8 +45017,6 @@ bool func_424(int iParam0)
 ---
 
 ## Match in `cv_itm_chr_02.c` at Line 12147
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_chr_02.c`
-
 **Context (approx. Line 12117):**
 ```c
 {
@@ -46429,8 +45084,6 @@ bool func_411(int iParam0)
 ---
 
 ## Match in `cv_itm_chr_03.c` at Line 12047
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_chr_03.c`
-
 **Context (approx. Line 12017):**
 ```c
 {
@@ -46498,8 +45151,6 @@ bool func_410(int iParam0)
 ---
 
 ## Match in `cv_itm_dtc_01.c` at Line 21376
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_dtc_01.c`
-
 **Context (approx. Line 21346):**
 ```c
 {
@@ -46567,8 +45218,6 @@ bool func_648(int iParam0)
 ---
 
 ## Match in `cv_itm_hsh_01.c` at Line 12042
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_hsh_01.c`
-
 **Context (approx. Line 12012):**
 ```c
 {
@@ -46636,8 +45285,6 @@ bool func_409(int iParam0)
 ---
 
 ## Match in `cv_itm_jav_01.c` at Line 12052
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_jav_01.c`
-
 **Context (approx. Line 12022):**
 ```c
 {
@@ -46705,8 +45352,6 @@ bool func_409(int iParam0)
 ---
 
 ## Match in `cv_itm_kar_01.c` at Line 10712
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_kar_01.c`
-
 **Context (approx. Line 10682):**
 ```c
 {
@@ -46774,8 +45419,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_itm_kie_01.c` at Line 12124
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_kie_01.c`
-
 **Context (approx. Line 12094):**
 ```c
 {
@@ -46843,8 +45486,6 @@ bool func_415(int iParam0)
 ---
 
 ## Match in `cv_itm_mrb_02.c` at Line 11166
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_mrb_02.c`
-
 **Context (approx. Line 11136):**
 ```c
 {
@@ -46912,8 +45553,6 @@ bool func_408(int iParam0)
 ---
 
 ## Match in `cv_itm_prs_01.c` at Line 13019
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_prs_01.c`
-
 **Context (approx. Line 12989):**
 ```c
 {
@@ -46981,8 +45620,6 @@ bool func_419(int iParam0)
 ---
 
 ## Match in `cv_itm_sen_01.c` at Line 11332
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_itm_sen_01.c`
-
 **Context (approx. Line 11302):**
 ```c
 {
@@ -47050,8 +45687,6 @@ bool func_410(int iParam0)
 ---
 
 ## Match in `cv_mus_shared.c` at Line 13081
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_mus_shared.c`
-
 **Context (approx. Line 13051):**
 ```c
 {
@@ -47119,8 +45754,6 @@ bool func_424(int iParam0)
 ---
 
 ## Match in `cv_mus_swn_01.c` at Line 12317
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_mus_swn_01.c`
-
 **Context (approx. Line 12287):**
 ```c
 if (!STREAMING::IS_MODEL_VALID(iVar1))
@@ -47188,8 +45821,6 @@ bool func_446(int iParam0)
 ---
 
 ## Match in `cv_sph_dtc_bvh_01.c` at Line 10632
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_sph_dtc_bvh_01.c`
-
 **Context (approx. Line 10602):**
 ```c
 {
@@ -47257,8 +45888,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `cv_sph_dtc_clm_01.c` at Line 11229
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_sph_dtc_clm_01.c`
-
 **Context (approx. Line 11199):**
 ```c
 {
@@ -47326,8 +45955,6 @@ bool func_386(int iParam0)
 ---
 
 ## Match in `cv_sph_dtc_sdb_01.c` at Line 11533
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_sph_dtc_sdb_01.c`
-
 **Context (approx. Line 11503):**
 ```c
 {
@@ -47395,8 +46022,6 @@ bool func_369(int iParam0)
 ---
 
 ## Match in `cv_sph_prs_low_food_01.c` at Line 10990
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_sph_prs_low_food_01.c`
-
 **Context (approx. Line 10960):**
 ```c
 {
@@ -47464,8 +46089,6 @@ bool func_377(int iParam0)
 ---
 
 ## Match in `cv_sph_sen_hso_01.c` at Line 11354
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_sph_sen_hso_01.c`
-
 **Context (approx. Line 11324):**
 ```c
 {
@@ -47533,8 +46156,6 @@ bool func_390(int iParam0)
 ---
 
 ## Match in `cv_sph_ssn_low_food_01.c` at Line 10655
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_sph_ssn_low_food_01.c`
-
 **Context (approx. Line 10625):**
 ```c
 {
@@ -47602,8 +46223,6 @@ bool func_365(int iParam0)
 ---
 
 ## Match in `cv_wnt_dtc_downes01.c` at Line 11771
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wnt_dtc_downes01.c`
-
 **Context (approx. Line 11741):**
 ```c
 if (!STREAMING::IS_MODEL_VALID(iVar1))
@@ -47671,8 +46290,6 @@ bool func_440(int iParam0)
 ---
 
 ## Match in `cv_wnt_dtc_hso_01.c` at Line 11331
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wnt_dtc_hso_01.c`
-
 **Context (approx. Line 11301):**
 ```c
 {
@@ -47740,8 +46357,6 @@ bool func_430(int iParam0)
 ---
 
 ## Match in `cv_wnt_shared.c` at Line 16024
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wnt_shared.c`
-
 **Context (approx. Line 15994):**
 ```c
 if (!STREAMING::IS_MODEL_VALID(iVar1))
@@ -47809,8 +46424,6 @@ bool func_545(int iParam0)
 ---
 
 ## Match in `cv_wnt_str_04.c` at Line 11412
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wnt_str_04.c`
-
 **Context (approx. Line 11382):**
 ```c
 if (!STREAMING::IS_MODEL_VALID(iVar1))
@@ -47878,8 +46491,6 @@ bool func_430(int iParam0)
 ---
 
 ## Match in `cv_wnt_swn_18.c` at Line 21523
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wnt_swn_18.c`
-
 **Context (approx. Line 21493):**
 ```c
 if (!STREAMING::IS_MODEL_VALID(iVar1))
@@ -47947,8 +46558,6 @@ bool func_685(int iParam0)
 ---
 
 ## Match in `cv_wrk_bll_01.c` at Line 10830
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wrk_bll_01.c`
-
 **Context (approx. Line 10800):**
 ```c
 {
@@ -48016,8 +46625,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_wrk_bll_02.c` at Line 11296
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wrk_bll_02.c`
-
 **Context (approx. Line 11266):**
 ```c
 {
@@ -48085,8 +46692,6 @@ bool func_386(int iParam0)
 ---
 
 ## Match in `cv_wrk_hsh_01.c` at Line 11545
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wrk_hsh_01.c`
-
 **Context (approx. Line 11515):**
 ```c
 {
@@ -48154,8 +46759,6 @@ bool func_373(int iParam0)
 ---
 
 ## Match in `cv_wrk_hsh_02.c` at Line 10801
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wrk_hsh_02.c`
-
 **Context (approx. Line 10771):**
 ```c
 {
@@ -48223,8 +46826,6 @@ bool func_371(int iParam0)
 ---
 
 ## Match in `cv_wrk_jav_01.c` at Line 11052
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wrk_jav_01.c`
-
 **Context (approx. Line 11022):**
 ```c
 {
@@ -48292,8 +46893,6 @@ bool func_380(int iParam0)
 ---
 
 ## Match in `cv_wrk_mch_01.c` at Line 10967
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wrk_mch_01.c`
-
 **Context (approx. Line 10937):**
 ```c
 {
@@ -48361,8 +46960,6 @@ bool func_374(int iParam0)
 ---
 
 ## Match in `cv_wrk_mch_02.c` at Line 11538
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wrk_mch_02.c`
-
 **Context (approx. Line 11508):**
 ```c
 {
@@ -48430,8 +47027,6 @@ bool func_401(int iParam0)
 ---
 
 ## Match in `cv_wrk_swn_01.c` at Line 10605
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\cv_wrk_swn_01.c`
-
 **Context (approx. Line 10575):**
 ```c
 {
@@ -48499,8 +47094,6 @@ bool func_364(int iParam0)
 ---
 
 ## Match in `def_comp_brain.c` at Line 16221
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\def_comp_brain.c`
-
 **Context (approx. Line 16191):**
 ```c
 void func_529(int iParam0)
@@ -48567,8 +47160,6 @@ bool func_530(int iParam0)
 ---
 
 ## Match in `discoverable_easel.c` at Line 9037
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\discoverable_easel.c`
-
 **Context (approx. Line 9007):**
 ```c
 }
@@ -48636,8 +47227,6 @@ bool func_234(int iParam0)
 ---
 
 ## Match in `discoverable_generic_corpse.c` at Line 30123
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\discoverable_generic_corpse.c`
-
 **Context (approx. Line 30093):**
 ```c
 var uVar0;
@@ -48705,8 +47294,6 @@ bool func_754(int iParam0)
 ---
 
 ## Match in `discoverable_generic_location.c` at Line 18509
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\discoverable_generic_location.c`
-
 **Context (approx. Line 18479):**
 ```c
 }
@@ -48774,8 +47361,6 @@ bool func_375(int iParam0)
 ---
 
 ## Match in `discoverable_generic_ped.c` at Line 29331
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\discoverable_generic_ped.c`
-
 **Context (approx. Line 29301):**
 ```c
 }
@@ -48843,8 +47428,6 @@ bool func_699(int iParam0)
 ---
 
 ## Match in `discoverable_hermit_woman.c` at Line 13899
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\discoverable_hermit_woman.c`
-
 **Context (approx. Line 13869):**
 ```c
 }
@@ -48912,8 +47495,6 @@ bool func_358(int iParam0)
 ---
 
 ## Match in `discoverable_tree_house.c` at Line 8721
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\discoverable_tree_house.c`
-
 **Context (approx. Line 8691):**
 ```c
 *iParam2 = joaat("ACH_BEAR");
@@ -48981,8 +47562,6 @@ bool func_211(int iParam0)
 ---
 
 ## Match in `dominoesintro_invite.c` at Line 24511
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\dominoesintro_invite.c`
-
 **Context (approx. Line 24481):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -49050,8 +47629,6 @@ bool func_833(int iParam0)
 ---
 
 ## Match in `dominoes_launch_sp.c` at Line 10625
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\dominoes_launch_sp.c`
-
 **Context (approx. Line 10595):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -49119,8 +47696,6 @@ bool func_230(int iParam0)
 ---
 
 ## Match in `event_area_appleseed_stg1.c` at Line 34485
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\event_area_appleseed_stg1.c`
-
 **Context (approx. Line 34455):**
 ```c
 {
@@ -49188,8 +47763,6 @@ bool func_1137(int iParam0)
 ---
 
 ## Match in `event_area_appleseed_stg2.c` at Line 32172
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\event_area_appleseed_stg2.c`
-
 **Context (approx. Line 32142):**
 ```c
 {
@@ -49257,8 +47830,6 @@ bool func_1049(int iParam0)
 ---
 
 ## Match in `event_area_appleseed_stg3.c` at Line 35200
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\event_area_appleseed_stg3.c`
-
 **Context (approx. Line 35170):**
 ```c
 {
@@ -49326,8 +47897,6 @@ bool func_1087(int iParam0)
 ---
 
 ## Match in `event_area_appleseed_stg4.c` at Line 30069
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\event_area_appleseed_stg4.c`
-
 **Context (approx. Line 30039):**
 ```c
 {
@@ -49395,8 +47964,6 @@ bool func_993(int iParam0)
 ---
 
 ## Match in `event_area_appleseed_stg5.c` at Line 29599
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\event_area_appleseed_stg5.c`
-
 **Context (approx. Line 29569):**
 ```c
 {
@@ -49464,8 +48031,6 @@ bool func_980(int iParam0)
 ---
 
 ## Match in `event_area_castorspond.c` at Line 27936
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\event_area_castorspond.c`
-
 **Context (approx. Line 27906):**
 ```c
 }
@@ -49533,8 +48098,6 @@ bool func_931(int iParam0)
 ---
 
 ## Match in `event_area_centralunion_stg1.c` at Line 44453
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\event_area_centralunion_stg1.c`
-
 **Context (approx. Line 44423):**
 ```c
 func_1695(0);
@@ -49602,8 +48165,6 @@ bool func_1305(int iParam0)
 ---
 
 ## Match in `event_area_centralunion_stg2.c` at Line 45019
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\event_area_centralunion_stg2.c`
-
 **Context (approx. Line 44989):**
 ```c
 func_1743(0);
@@ -49671,8 +48232,6 @@ bool func_1306(int iParam0)
 ---
 
 ## Match in `event_area_centralunion_stg3.c` at Line 37670
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\event_area_centralunion_stg3.c`
-
 **Context (approx. Line 37640):**
 ```c
 func_1412(0);
@@ -49740,8 +48299,6 @@ bool func_1135(int iParam0)
 ---
 
 ## Match in `feud1.c` at Line 100210
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\feud1.c`
-
 **Context (approx. Line 100180):**
 ```c
 case -1670940721:
@@ -49809,8 +48366,6 @@ bool func_2626(bool bParam0)
 ---
 
 ## Match in `fillet_launch_sp.c` at Line 4273
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fillet_launch_sp.c`
-
 **Context (approx. Line 4243):**
 ```c
 case 0:
@@ -49878,8 +48433,6 @@ bool func_137(bool bParam0)
 ---
 
 ## Match in `fillet_sp.c` at Line 21579
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fillet_sp.c`
-
 **Context (approx. Line 21549):**
 ```c
 Var0 = -2;
@@ -49947,8 +48500,6 @@ bool func_776(bool bParam0)
 ---
 
 ## Match in `finale1.c` at Line 105432
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\finale1.c`
-
 **Context (approx. Line 105402):**
 ```c
 return 14;
@@ -50016,8 +48567,6 @@ bool func_2843(bool bParam0)
 ---
 
 ## Match in `finale1_intro.c` at Line 10087
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\finale1_intro.c`
-
 **Context (approx. Line 10057):**
 ```c
 }
@@ -50085,8 +48634,6 @@ bool func_449(bool bParam0)
 ---
 
 ## Match in `finale2.c` at Line 94220
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\finale2.c`
-
 **Context (approx. Line 94190):**
 ```c
 bool func_2649(int iParam0, int iParam1, var uParam2)
@@ -50153,8 +48700,6 @@ bool func_2651(bool bParam0)
 ---
 
 ## Match in `finale2_intro.c` at Line 28921
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\finale2_intro.c`
-
 **Context (approx. Line 28891):**
 ```c
 return 416;
@@ -50222,8 +48767,6 @@ bool func_1038(bool bParam0)
 ---
 
 ## Match in `finale3.c` at Line 82000
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\finale3.c`
-
 **Context (approx. Line 81970):**
 ```c
 case 94:
@@ -50291,8 +48834,6 @@ bool func_2429(bool bParam0)
 ---
 
 ## Match in `fishing01_invite.c` at Line 27754
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fishing01_invite.c`
-
 **Context (approx. Line 27724):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -50360,8 +48901,6 @@ bool func_973(bool bParam0)
 ---
 
 ## Match in `fishing02_invite.c` at Line 27831
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fishing02_invite.c`
-
 **Context (approx. Line 27801):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -50429,8 +48968,6 @@ bool func_973(bool bParam0)
 ---
 
 ## Match in `fishing03_invite.c` at Line 24024
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fishing03_invite.c`
-
 **Context (approx. Line 23994):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -50498,8 +49035,6 @@ bool func_815(bool bParam0)
 ---
 
 ## Match in `fishing_core.c` at Line 28299
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fishing_core.c`
-
 **Context (approx. Line 28269):**
 ```c
 {
@@ -50567,8 +49102,6 @@ bool func_959(bool bParam0)
 ---
 
 ## Match in `fivefingerfilletintro_invite.c` at Line 24131
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fivefingerfilletintro_invite.c`
-
 **Context (approx. Line 24101):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -50636,8 +49169,6 @@ bool func_819(bool bParam0)
 ---
 
 ## Match in `fivefingerfillet_02_invite.c` at Line 24059
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fivefingerfillet_02_invite.c`
-
 **Context (approx. Line 24029):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -50705,8 +49236,6 @@ bool func_816(bool bParam0)
 ---
 
 ## Match in `fussar1.c` at Line 91882
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fussar1.c`
-
 **Context (approx. Line 91852):**
 ```c
 if ((((((((iVar0 == joaat("WORLD_PLAYER_SLEEP_GROUND") || iVar0 == joaat("PROP_PLAYER_SLEEP_A_FRAME_TENT_PLAYER_CAMPS")) || iVar0 == joaat("WORLD_HUMAN_SLEEP_GROUND_ARM")) || iVar0 == joaat("WORLD_HUMAN_SLEEP_GROUND_PILLOW")) || iVar0 == joaat("WORLD_ANIMAL_DOG_SLEEPING")) || iVar0 == joaat("PROP_HUMAN_SLEEP_BED_PILLOW")) || iVar0 == joaat("PROP_PLAYER_PRPTY_SAVE_GAME")) || iVar0 == joaat("PROP_HUMAN_SLEEP_BED_PILLOW_LEFT")) || iVar0 == joaat("PROP_HUMAN_SLEEP_BED_PILLOW_RIGHT"))
@@ -50774,8 +49303,6 @@ bool func_2553(bool bParam0)
 ---
 
 ## Match in `fussar2.c` at Line 86037
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fussar2.c`
-
 **Context (approx. Line 86007):**
 ```c
 uParam0->f_814 = { Var0 };
@@ -50842,8 +49369,6 @@ bool func_2503(bool bParam0)
 ---
 
 ## Match in `fussar2_intro.c` at Line 15569
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\fussar2_intro.c`
-
 **Context (approx. Line 15539):**
 ```c
 {
@@ -50911,8 +49436,6 @@ bool func_663(bool bParam0)
 ---
 
 ## Match in `gang1.c` at Line 86150
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\gang1.c`
-
 **Context (approx. Line 86120):**
 ```c
 {
@@ -50980,8 +49503,6 @@ bool func_2483(bool bParam0)
 ---
 
 ## Match in `gang1_intro.c` at Line 17243
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\gang1_intro.c`
-
 **Context (approx. Line 17213):**
 ```c
 POPULATION::_0xB56D41A694E42E86(uParam0->f_1633[iVar0 /*15*/].f_12, 0, 0, 0, -1, -1, 8);
@@ -51049,8 +49570,6 @@ bool func_715(bool bParam0)
 ---
 
 ## Match in `gang2.c` at Line 77849
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\gang2.c`
-
 **Context (approx. Line 77819):**
 ```c
 else if (iParam0 == 3)
@@ -51118,8 +49637,6 @@ bool func_2104(bool bParam0)
 ---
 
 ## Match in `gang2_intro.c` at Line 11410
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\gang2_intro.c`
-
 **Context (approx. Line 11380):**
 ```c
 {
@@ -51187,8 +49704,6 @@ bool func_504(bool bParam0)
 ---
 
 ## Match in `gang3.c` at Line 99044
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\gang3.c`
-
 **Context (approx. Line 99014):**
 ```c
 uParam0->f_814 = { Var0 };
@@ -51255,8 +49770,6 @@ bool func_2904(bool bParam0)
 ---
 
 ## Match in `gang_enc_bandito_shack.c` at Line 15033
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\gang_enc_bandito_shack.c`
-
 **Context (approx. Line 15003):**
 ```c
 return 17;
@@ -51324,8 +49837,6 @@ bool func_382(bool bParam0)
 ---
 
 ## Match in `gang_enc_lemoyne_church.c` at Line 3834
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\gang_enc_lemoyne_church.c`
-
 **Context (approx. Line 3804):**
 ```c
 {
@@ -51393,8 +49904,6 @@ bool func_173(bool bParam0)
 ---
 
 ## Match in `generic_activity_invite.c` at Line 23950
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\generic_activity_invite.c`
-
 **Context (approx. Line 23920):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -51462,8 +49971,6 @@ bool func_813(bool bParam0)
 ---
 
 ## Match in `generic_show_mc.c` at Line 13490
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\generic_show_mc.c`
-
 **Context (approx. Line 13460):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -51531,8 +50038,6 @@ bool func_324(bool bParam0)
 ---
 
 ## Match in `grays1.c` at Line 90899
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\grays1.c`
-
 **Context (approx. Line 90869):**
 ```c
 func_2649(iParam0);
@@ -51600,8 +50105,6 @@ bool func_2482(bool bParam0)
 ---
 
 ## Match in `grays1_intro.c` at Line 16150
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\grays1_intro.c`
-
 **Context (approx. Line 16120):**
 ```c
 }
@@ -51669,8 +50172,6 @@ bool func_674(bool bParam0)
 ---
 
 ## Match in `grays1_outro.c` at Line 7808
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\grays1_outro.c`
-
 **Context (approx. Line 7778):**
 ```c
 WEAPON::_ADD_AMMO_TO_PED_BY_TYPE(Global_35, iParam0, iParam1, iParam2);
@@ -51738,8 +50239,6 @@ bool func_215(bool bParam0)
 ---
 
 ## Match in `grays2.c` at Line 87013
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\grays2.c`
-
 **Context (approx. Line 86983):**
 ```c
 func_2464(uParam0, 0f, 0f, 0f);
@@ -51807,8 +50306,6 @@ bool func_2472(bool bParam0)
 ---
 
 ## Match in `grays2_intro.c` at Line 13167
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\grays2_intro.c`
-
 **Context (approx. Line 13137):**
 ```c
 {
@@ -51876,8 +50373,6 @@ bool func_602(bool bParam0)
 ---
 
 ## Match in `grays3.c` at Line 85082
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\grays3.c`
-
 **Context (approx. Line 85052):**
 ```c
 {
@@ -51945,8 +50440,6 @@ bool func_2375(bool bParam0)
 ---
 
 ## Match in `grays3_intro.c` at Line 20414
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\grays3_intro.c`
-
 **Context (approx. Line 20384):**
 ```c
 }
@@ -52014,8 +50507,6 @@ bool func_814(bool bParam0)
 ---
 
 ## Match in `grizzlieseast_population.c` at Line 1024
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\grizzlieseast_population.c`
-
 **Context (approx. Line 994):**
 ```c
 }
@@ -52083,8 +50574,6 @@ bool func_56(bool bParam0)
 ---
 
 ## Match in `grizzlieswest_population.c` at Line 1777
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\grizzlieswest_population.c`
-
 **Context (approx. Line 1747):**
 ```c
 }
@@ -52152,8 +50641,6 @@ bool func_52(bool bParam0)
 ---
 
 ## Match in `guama2.c` at Line 84533
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\guama2.c`
-
 **Context (approx. Line 84503):**
 ```c
 uParam0->f_814 = { Var0 };
@@ -52220,8 +50707,6 @@ bool func_2481(bool bParam0)
 ---
 
 ## Match in `guama2_intro.c` at Line 17514
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\guama2_intro.c`
-
 **Context (approx. Line 17484):**
 ```c
 POPULATION::_0xB56D41A694E42E86(uParam0->f_1633[iVar0 /*15*/].f_12, 0, 0, 0, -1, -1, 8);
@@ -52289,8 +50774,6 @@ bool func_715(bool bParam0)
 ---
 
 ## Match in `guama3.c` at Line 93013
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\guama3.c`
-
 **Context (approx. Line 92983):**
 ```c
 }
@@ -52358,8 +50841,6 @@ bool func_2414(bool bParam0)
 ---
 
 ## Match in `guarma3_intro.c` at Line 13813
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\guarma3_intro.c`
-
 **Context (approx. Line 13783):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -52427,8 +50908,6 @@ bool func_611(bool bParam0)
 ---
 
 ## Match in `hanging_carcass.c` at Line 1440
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hanging_carcass.c`
-
 **Context (approx. Line 1410):**
 ```c
 if (Global_40.f_11095.f_35 <= -320 || Global_40.f_11095.f_35 >= 320)
@@ -52496,8 +50975,6 @@ bool func_47(bool bParam0)
 ---
 
 ## Match in `hideout_beaverhollow.c` at Line 18930
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_beaverhollow.c`
-
 **Context (approx. Line 18900):**
 ```c
 {
@@ -52565,8 +51042,6 @@ bool func_623(bool bParam0)
 ---
 
 ## Match in `hideout_fortmercer.c` at Line 13984
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_fortmercer.c`
-
 **Context (approx. Line 13954):**
 ```c
 if (Global_1946054.f_857 <= 0)
@@ -52634,8 +51109,6 @@ bool func_471(bool bParam0)
 ---
 
 ## Match in `hideout_gaptoothbreach.c` at Line 14516
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_gaptoothbreach.c`
-
 **Context (approx. Line 14486):**
 ```c
 if (Global_1946054.f_857 <= 0)
@@ -52703,8 +51176,6 @@ bool func_469(bool bParam0)
 ---
 
 ## Match in `hideout_hangingdogranch.c` at Line 15501
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_hangingdogranch.c`
-
 **Context (approx. Line 15471):**
 ```c
 {
@@ -52772,8 +51243,6 @@ bool func_515(bool bParam0)
 ---
 
 ## Match in `hideout_hangingdogranch_es.c` at Line 16247
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_hangingdogranch_es.c`
-
 **Context (approx. Line 16217):**
 ```c
 {
@@ -52841,8 +51310,6 @@ bool func_538(bool bParam0)
 ---
 
 ## Match in `hideout_shadybelle.c` at Line 23611
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_shadybelle.c`
-
 **Context (approx. Line 23581):**
 ```c
 }
@@ -52910,8 +51377,6 @@ bool func_769(bool bParam0)
 ---
 
 ## Match in `hideout_sixpointcabin.c` at Line 13583
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_sixpointcabin.c`
-
 **Context (approx. Line 13553):**
 ```c
 else if (iParam0 == 96)
@@ -52979,8 +51444,6 @@ bool func_500(bool bParam0)
 ---
 
 ## Match in `hideout_solomonsfolly.c` at Line 13892
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_solomonsfolly.c`
-
 **Context (approx. Line 13862):**
 ```c
 if (Global_1946054.f_857 <= 0)
@@ -53048,8 +51511,6 @@ bool func_465(bool bParam0)
 ---
 
 ## Match in `hideout_thieveslanding.c` at Line 18133
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_thieveslanding.c`
-
 **Context (approx. Line 18103):**
 ```c
 func_727(Global_35, joaat("CLOTHING_ITEM_NECKWEAR_NONE"), 0, 1742327865, 0, 1, 0, 0, 1, 0);
@@ -53117,8 +51578,6 @@ bool func_530(bool bParam0)
 ---
 
 ## Match in `hideout_twinrocks.c` at Line 15811
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hideout_twinrocks.c`
-
 **Context (approx. Line 15781):**
 ```c
 func_728(Global_35, joaat("CLOTHING_ITEM_NECKWEAR_NONE"), 0, 1742327865, 0, 1, 0, 0, 1, 0);
@@ -53186,8 +51645,6 @@ bool func_518(bool bParam0)
 ---
 
 ## Match in `homeinvasion.c` at Line 115190
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\homeinvasion.c`
-
 **Context (approx. Line 115160):**
 ```c
 STATS::_0xBD861AE8A5181ED7(&Var0, iParam0);
@@ -53255,8 +51712,6 @@ bool func_3803(bool bParam0)
 ---
 
 ## Match in `homerobjavier_invite.c` at Line 27582
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\homerobjavier_invite.c`
-
 **Context (approx. Line 27552):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -53324,8 +51779,6 @@ bool func_973(bool bParam0)
 ---
 
 ## Match in `hunting02_invite.c` at Line 27995
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting02_invite.c`
-
 **Context (approx. Line 27965):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -53393,8 +51846,6 @@ bool func_981(bool bParam0)
 ---
 
 ## Match in `hunting06_invite.c` at Line 24574
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting06_invite.c`
-
 **Context (approx. Line 24544):**
 ```c
 MISC::CLEAR_BIT(&Global_1347701, iParam0);
@@ -53462,8 +51913,6 @@ bool func_847(bool bParam0)
 ---
 
 ## Match in `hunting1.c` at Line 86402
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting1.c`
-
 **Context (approx. Line 86372):**
 ```c
 {
@@ -53531,8 +51980,6 @@ bool func_2412(bool bParam0)
 ---
 
 ## Match in `hunting1_intro.c` at Line 17933
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting1_intro.c`
-
 **Context (approx. Line 17903):**
 ```c
 {
@@ -53600,8 +52047,6 @@ bool func_759(bool bParam0)
 ---
 
 ## Match in `hunting_zone_bear_legendary.c` at Line 7062
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_bear_legendary.c`
-
 **Context (approx. Line 7032):**
 ```c
 int func_206(int iParam0)
@@ -53669,8 +52114,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_beaver.c` at Line 7119
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_beaver.c`
-
 **Context (approx. Line 7089):**
 ```c
 int func_206(int iParam0)
@@ -53738,8 +52181,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_big_horn_ram.c` at Line 7122
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_big_horn_ram.c`
-
 **Context (approx. Line 7092):**
 ```c
 int func_206(int iParam0)
@@ -53807,8 +52248,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_bison.c` at Line 7122
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_bison.c`
-
 **Context (approx. Line 7092):**
 ```c
 int func_206(int iParam0)
@@ -53876,8 +52315,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_boar.c` at Line 7122
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_boar.c`
-
 **Context (approx. Line 7092):**
 ```c
 int func_206(int iParam0)
@@ -53945,8 +52382,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_buck.c` at Line 7122
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_buck.c`
-
 **Context (approx. Line 7092):**
 ```c
 int func_206(int iParam0)
@@ -54014,8 +52449,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_buffalo_tatanka.c` at Line 7121
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_buffalo_tatanka.c`
-
 **Context (approx. Line 7091):**
 ```c
 int func_206(int iParam0)
@@ -54083,8 +52516,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_bullgator.c` at Line 7135
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_bullgator.c`
-
 **Context (approx. Line 7105):**
 ```c
 int func_207(int iParam0)
@@ -54152,8 +52583,6 @@ bool func_208(bool bParam0)
 ---
 
 ## Match in `hunting_zone_cougar.c` at Line 7137
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_cougar.c`
-
 **Context (approx. Line 7107):**
 ```c
 int func_206(int iParam0)
@@ -54221,8 +52650,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_coyote.c` at Line 7139
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_coyote.c`
-
 **Context (approx. Line 7109):**
 ```c
 int func_206(int iParam0)
@@ -54290,8 +52717,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_elk.c` at Line 7123
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_elk.c`
-
 **Context (approx. Line 7093):**
 ```c
 int func_206(int iParam0)
@@ -54359,8 +52784,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_fox.c` at Line 7121
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_fox.c`
-
 **Context (approx. Line 7091):**
 ```c
 int func_206(int iParam0)
@@ -54428,8 +52851,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_moose.c` at Line 7122
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_moose.c`
-
 **Context (approx. Line 7092):**
 ```c
 int func_206(int iParam0)
@@ -54497,8 +52918,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_panther_legendary.c` at Line 7141
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_panther_legendary.c`
-
 **Context (approx. Line 7111):**
 ```c
 int func_206(int iParam0)
@@ -54566,8 +52985,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_pronghorn.c` at Line 7137
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_pronghorn.c`
-
 **Context (approx. Line 7107):**
 ```c
 int func_206(int iParam0)
@@ -54635,8 +53052,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `hunting_zone_wolf.c` at Line 7122
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\hunting_zone_wolf.c`
-
 **Context (approx. Line 7092):**
 ```c
 int func_206(int iParam0)
@@ -54704,8 +53119,6 @@ bool func_207(bool bParam0)
 ---
 
 ## Match in `industry1.c` at Line 99386
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\industry1.c`
-
 **Context (approx. Line 99356):**
 ```c
 fVar0 = BUILTIN::VMAG(vParam0);
@@ -54772,8 +53185,6 @@ bool func_2661(bool bParam0)
 ---
 
 ## Match in `industry3.c` at Line 104441
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\industry3.c`
-
 **Context (approx. Line 104411):**
 ```c
 {
@@ -54841,8 +53252,6 @@ bool func_2941(bool bParam0)
 ---
 
 ## Match in `laramie1.c` at Line 73428
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\laramie1.c`
-
 **Context (approx. Line 73398):**
 ```c
 if (!ENTITY::DOES_ENTITY_EXIST(iParam2))
@@ -54910,8 +53319,6 @@ bool func_2059(bool bParam0)
 ---
 
 ## Match in `laramie1_intro.c` at Line 10296
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\laramie1_intro.c`
-
 **Context (approx. Line 10266):**
 ```c
 }
@@ -54979,8 +53386,6 @@ bool func_467(bool bParam0)
 ---
 
 ## Match in `law_arrest.c` at Line 25010
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\law_arrest.c`
-
 **Context (approx. Line 24980):**
 ```c
 bool func_955(bool bParam0, var uParam1)
@@ -55048,8 +53453,6 @@ bool func_956(bool bParam0)
 ---
 
 ## Match in `law_guama.c` at Line 2155
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\law_guama.c`
-
 **Context (approx. Line 2125):**
 ```c
 int func_95(int iParam0)
@@ -55116,8 +53519,6 @@ bool func_96(bool bParam0)
 ---
 
 ## Match in `loanshark_catfish.c` at Line 46588
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\loanshark_catfish.c`
-
 **Context (approx. Line 46558):**
 ```c
 {
@@ -55185,8 +53586,6 @@ bool func_1562(bool bParam0)
 ---
 
 ## Match in `loanshark_horsechase1.c` at Line 42656
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\loanshark_horsechase1.c`
-
 **Context (approx. Line 42626):**
 ```c
 {
@@ -55254,8 +53653,6 @@ bool func_1399(bool bParam0)
 ---
 
 ## Match in `loanshark_hunter.c` at Line 51371
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\loanshark_hunter.c`
-
 **Context (approx. Line 51341):**
 ```c
 struct<5> /*40*/ sVar0;
@@ -55323,8 +53720,6 @@ bool func_1770(bool bParam0)
 ---
 
 ## Match in `loanshark_miner1.c` at Line 48151
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\loanshark_miner1.c`
-
 **Context (approx. Line 48121):**
 ```c
 }
@@ -55392,8 +53787,6 @@ bool func_1584(bool bParam0)
 ---
 
 ## Match in `loanshark_miner2.c` at Line 48311
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\loanshark_miner2.c`
-
 **Context (approx. Line 48281):**
 ```c
 HUD::_DISPLAY_HUD_COMPONENT(121713391);
@@ -55461,8 +53854,6 @@ bool func_1591(bool bParam0)
 ---
 
 ## Match in `loanshark_sellhorse1.c` at Line 42790
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\loanshark_sellhorse1.c`
-
 **Context (approx. Line 42760):**
 ```c
 {
@@ -55530,8 +53921,6 @@ bool func_1384(bool bParam0)
 ---
 
 ## Match in `loanshark_soldier.c` at Line 51421
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\loanshark_soldier.c`
-
 **Context (approx. Line 51391):**
 ```c
 int iVar0;
@@ -55599,8 +53988,6 @@ bool func_1762(bool bParam0)
 ---
 
 ## Match in `loanshark_undertaker.c` at Line 51500
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\loanshark_undertaker.c`
-
 **Context (approx. Line 51470):**
 ```c
 {
@@ -55668,8 +54055,6 @@ bool func_1769(bool bParam0)
 ---
 
 ## Match in `loanshark_womancry.c` at Line 49637
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\loanshark_womancry.c`
-
 **Context (approx. Line 49607):**
 ```c
 {
@@ -55737,8 +54122,6 @@ bool func_1754(bool bParam0)
 ---
 
 ## Match in `marston1.c` at Line 83345
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston1.c`
-
 **Context (approx. Line 83315):**
 ```c
 iParam3 = 1;
@@ -55806,8 +54189,6 @@ bool func_2375(bool bParam0)
 ---
 
 ## Match in `marston2.c` at Line 88937
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston2.c`
-
 **Context (approx. Line 88907):**
 ```c
 int iVar0;
@@ -55875,8 +54256,6 @@ bool func_2542(bool bParam0)
 ---
 
 ## Match in `marston2_intro.c` at Line 14851
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston2_intro.c`
-
 **Context (approx. Line 14821):**
 ```c
 case 8:
@@ -55944,8 +54323,6 @@ bool func_658(bool bParam0)
 ---
 
 ## Match in `marston4.c` at Line 88761
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston4.c`
-
 **Context (approx. Line 88731):**
 ```c
 iVar0 = func_1127(0);
@@ -56012,8 +54389,6 @@ bool func_2504(bool bParam0)
 ---
 
 ## Match in `marston5_1.c` at Line 82474
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston5_1.c`
-
 **Context (approx. Line 82444):**
 ```c
 bool func_2464(int iParam0, int iParam1, var uParam2)
@@ -56080,8 +54455,6 @@ bool func_2466(bool bParam0)
 ---
 
 ## Match in `marston5_2.c` at Line 79591
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston5_2.c`
-
 **Context (approx. Line 79561):**
 ```c
 }
@@ -56149,8 +54522,6 @@ bool func_2304(bool bParam0)
 ---
 
 ## Match in `marston5_3.c` at Line 70700
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston5_3.c`
-
 **Context (approx. Line 70670):**
 ```c
 case 13:
@@ -56218,8 +54589,6 @@ bool func_1904(bool bParam0)
 ---
 
 ## Match in `marston5_3_intro.c` at Line 19908
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston5_3_intro.c`
-
 **Context (approx. Line 19878):**
 ```c
 }
@@ -56287,8 +54656,6 @@ bool func_801(bool bParam0)
 ---
 
 ## Match in `marston6.c` at Line 93133
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston6.c`
-
 **Context (approx. Line 93103):**
 ```c
 {
@@ -56356,8 +54723,6 @@ bool func_2731(bool bParam0)
 ---
 
 ## Match in `marston7.c` at Line 89155
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston7.c`
-
 **Context (approx. Line 89125):**
 ```c
 uParam0->f_814 = { Var0 };
@@ -56424,8 +54789,6 @@ bool func_2672(bool bParam0)
 ---
 
 ## Match in `marston7_intro.c` at Line 19280
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston7_intro.c`
-
 **Context (approx. Line 19250):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -56493,8 +54856,6 @@ bool func_754(bool bParam0)
 ---
 
 ## Match in `marston8.c` at Line 77409
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston8.c`
-
 **Context (approx. Line 77379):**
 ```c
 Vector3 func_2070(int iParam0)
@@ -56562,8 +54923,6 @@ bool func_2071(bool bParam0)
 ---
 
 ## Match in `marston8_intro.c` at Line 26806
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\marston8_intro.c`
-
 **Context (approx. Line 26776):**
 ```c
 bool func_984()
@@ -56630,8 +54989,6 @@ bool func_986(bool bParam0)
 ---
 
 ## Match in `mary1.c` at Line 83118
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mary1.c`
-
 **Context (approx. Line 83088):**
 ```c
 iVar14 = func_2608(uVar3[iVar15], iVar2);
@@ -56699,8 +55056,6 @@ bool func_2338(bool bParam0)
 ---
 
 ## Match in `mary1_intro.c` at Line 13962
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mary1_intro.c`
-
 **Context (approx. Line 13932):**
 ```c
 {
@@ -56768,8 +55123,6 @@ bool func_580(bool bParam0)
 ---
 
 ## Match in `mary3.c` at Line 73500
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mary3.c`
-
 **Context (approx. Line 73470):**
 ```c
 case 9:
@@ -56837,8 +55190,6 @@ bool func_1852(bool bParam0)
 ---
 
 ## Match in `mary3_intro.c` at Line 15623
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mary3_intro.c`
-
 **Context (approx. Line 15593):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -56906,8 +55257,6 @@ bool func_657(bool bParam0)
 ---
 
 ## Match in `milking_cow_launch.c` at Line 1591
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\milking_cow_launch.c`
-
 **Context (approx. Line 1561):**
 ```c
 if (!func_61(iParam0))
@@ -56975,8 +55324,6 @@ bool func_66(bool bParam0)
 ---
 
 ## Match in `mob1.c` at Line 89134
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob1.c`
-
 **Context (approx. Line 89104):**
 ```c
 break;
@@ -57044,8 +55391,6 @@ bool func_2440(bool bParam0)
 ---
 
 ## Match in `mob1_intro.c` at Line 17393
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob1_intro.c`
-
 **Context (approx. Line 17363):**
 ```c
 }
@@ -57113,8 +55458,6 @@ bool func_718(bool bParam0)
 ---
 
 ## Match in `mob2.c` at Line 95248
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob2.c`
-
 **Context (approx. Line 95218):**
 ```c
 int iVar0;
@@ -57182,8 +55525,6 @@ bool func_2651(bool bParam0)
 ---
 
 ## Match in `mob2_intro.c` at Line 18189
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob2_intro.c`
-
 **Context (approx. Line 18159):**
 ```c
 {
@@ -57251,8 +55592,6 @@ bool func_705(bool bParam0)
 ---
 
 ## Match in `mob3.c` at Line 90338
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob3.c`
-
 **Context (approx. Line 90308):**
 ```c
 }
@@ -57320,8 +55659,6 @@ bool func_2555(bool bParam0)
 ---
 
 ## Match in `mob3_intro.c` at Line 21305
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob3_intro.c`
-
 **Context (approx. Line 21275):**
 ```c
 {
@@ -57389,8 +55726,6 @@ bool func_806(bool bParam0)
 ---
 
 ## Match in `mob4.c` at Line 88770
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob4.c`
-
 **Context (approx. Line 88740):**
 ```c
 func_2873(iParam0, uParam1, 1);
@@ -57458,8 +55793,6 @@ bool func_2685(bool bParam0)
 ---
 
 ## Match in `mob4_outro.c` at Line 2388
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob4_outro.c`
-
 **Context (approx. Line 2358):**
 ```c
 Global_1357549.f_1675[iVar0 /*5*/].f_1 = -1;
@@ -57527,8 +55860,6 @@ bool func_112(bool bParam0)
 ---
 
 ## Match in `mob5.c` at Line 90877
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob5.c`
-
 **Context (approx. Line 90847):**
 ```c
 bool func_2575(int iParam0, int iParam1, var uParam2)
@@ -57595,8 +55926,6 @@ bool func_2577(bool bParam0)
 ---
 
 ## Match in `mob5_intro.c` at Line 11884
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mob5_intro.c`
-
 **Context (approx. Line 11854):**
 ```c
 {
@@ -57664,8 +55993,6 @@ bool func_502(bool bParam0)
 ---
 
 ## Match in `mudtown1.c` at Line 91100
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown1.c`
-
 **Context (approx. Line 91070):**
 ```c
 iVar0 = 0;
@@ -57733,8 +56060,6 @@ bool func_2658(bool bParam0)
 ---
 
 ## Match in `mudtown1_intro.c` at Line 22653
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown1_intro.c`
-
 **Context (approx. Line 22623):**
 ```c
 if (Global_1223212.f_1[iVar0 /*9*/] == iParam0)
@@ -57802,8 +56127,6 @@ bool func_881(bool bParam0)
 ---
 
 ## Match in `mudtown2.c` at Line 85385
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown2.c`
-
 **Context (approx. Line 85355):**
 ```c
 bool func_2432(int iParam0, int iParam1, var uParam2)
@@ -57870,8 +56193,6 @@ bool func_2434(bool bParam0)
 ---
 
 ## Match in `mudtown2_intro.c` at Line 23161
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown2_intro.c`
-
 **Context (approx. Line 23131):**
 ```c
 }
@@ -57939,8 +56260,6 @@ bool func_877(bool bParam0)
 ---
 
 ## Match in `mudtown3.c` at Line 98765
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown3.c`
-
 **Context (approx. Line 98735):**
 ```c
 }
@@ -58008,8 +56327,6 @@ bool func_2842(bool bParam0)
 ---
 
 ## Match in `mudtown3b.c` at Line 90137
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown3b.c`
-
 **Context (approx. Line 90107):**
 ```c
 }
@@ -58077,8 +56394,6 @@ bool func_2772(bool bParam0)
 ---
 
 ## Match in `mudtown3_outro.c` at Line 4123
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown3_outro.c`
-
 **Context (approx. Line 4093):**
 ```c
 func_259(0);
@@ -58146,8 +56461,6 @@ bool func_152(bool bParam0)
 ---
 
 ## Match in `mudtown4.c` at Line 116032
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown4.c`
-
 **Context (approx. Line 116002):**
 ```c
 if (iParam1 == 0 || iParam1 == 1)
@@ -58215,8 +56528,6 @@ bool func_2934(bool bParam0)
 ---
 
 ## Match in `mudtown4_intro.c` at Line 19473
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown4_intro.c`
-
 **Context (approx. Line 19443):**
 ```c
 case 5:
@@ -58284,8 +56595,6 @@ bool func_771(bool bParam0)
 ---
 
 ## Match in `mudtown5.c` at Line 89237
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown5.c`
-
 **Context (approx. Line 89207):**
 ```c
 if (bParam6)
@@ -58353,8 +56662,6 @@ bool func_2292(bool bParam0)
 ---
 
 ## Match in `mudtown5_intro.c` at Line 26629
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\mudtown5_intro.c`
-
 **Context (approx. Line 26599):**
 ```c
 }
@@ -58422,8 +56729,6 @@ bool func_1032(bool bParam0)
 ---
 
 ## Match in `native1.c` at Line 94193
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native1.c`
-
 **Context (approx. Line 94163):**
 ```c
 void func_2662(int iParam0, vector3 vParam1, vector3 vParam4, vector3 vParam7, int iParam10, int iParam11, int iParam12, int iParam13, int iParam14, int iParam15)
@@ -58491,8 +56796,6 @@ bool func_2663(bool bParam0)
 ---
 
 ## Match in `native1_intro.c` at Line 17072
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native1_intro.c`
-
 **Context (approx. Line 17042):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -58560,8 +56863,6 @@ bool func_750(bool bParam0)
 ---
 
 ## Match in `native1_outro.c` at Line 1448
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native1_outro.c`
-
 **Context (approx. Line 1418):**
 ```c
 Global_1357549.f_1675[iVar0 /*5*/].f_1 = -1;
@@ -58629,8 +56930,6 @@ bool func_75(bool bParam0)
 ---
 
 ## Match in `native2.c` at Line 88868
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native2.c`
-
 **Context (approx. Line 88838):**
 ```c
 return joaat("BLIP_REGION_CARAVAN");
@@ -58698,8 +56997,6 @@ bool func_2522(bool bParam0)
 ---
 
 ## Match in `native2_intro.c` at Line 18863
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native2_intro.c`
-
 **Context (approx. Line 18833):**
 ```c
 }
@@ -58767,8 +57064,6 @@ bool func_764(bool bParam0)
 ---
 
 ## Match in `native3.c` at Line 106009
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native3.c`
-
 **Context (approx. Line 105979):**
 ```c
 case -1670940721:
@@ -58836,8 +57131,6 @@ bool func_2483(bool bParam0)
 ---
 
 ## Match in `native_son1.c` at Line 86062
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native_son1.c`
-
 **Context (approx. Line 86032):**
 ```c
 vParam0.f_1 = (vParam0.y / fVar0);
@@ -58905,8 +57198,6 @@ bool func_2395(bool bParam0)
 ---
 
 ## Match in `native_son2.c` at Line 92569
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native_son2.c`
-
 **Context (approx. Line 92539):**
 ```c
 }
@@ -58974,8 +57265,6 @@ bool func_2823(bool bParam0)
 ---
 
 ## Match in `native_son2_intro.c` at Line 18763
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native_son2_intro.c`
-
 **Context (approx. Line 18733):**
 ```c
 {
@@ -59043,8 +57332,6 @@ bool func_735(bool bParam0)
 ---
 
 ## Match in `native_son3.c` at Line 106433
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native_son3.c`
-
 **Context (approx. Line 106403):**
 ```c
 break;
@@ -59112,8 +57399,6 @@ bool func_2941(bool bParam0)
 ---
 
 ## Match in `native_son3_intro.c` at Line 17991
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\native_son3_intro.c`
-
 **Context (approx. Line 17961):**
 ```c
 {
@@ -59181,8 +57466,6 @@ bool func_699(bool bParam0)
 ---
 
 ## Match in `odriscolls1.c` at Line 98990
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\odriscolls1.c`
-
 **Context (approx. Line 98960):**
 ```c
 else if (NETSHOPPING::_CASHINVENTORY_TRANSACTION_FIRE_AND_FORGET_ITEM(iParam0, &iVar0, uParam1, 17))
@@ -59250,8 +57533,6 @@ bool func_2568(bool bParam0)
 ---
 
 ## Match in `odriscolls1_intro.c` at Line 29468
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\odriscolls1_intro.c`
-
 **Context (approx. Line 29438):**
 ```c
 }
@@ -59319,8 +57600,6 @@ bool func_1057(bool bParam0)
 ---
 
 ## Match in `odriscolls3.c` at Line 95475
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\odriscolls3.c`
-
 **Context (approx. Line 95445):**
 ```c
 case -1670940721:
@@ -59388,8 +57667,6 @@ bool func_2651(bool bParam0)
 ---
 
 ## Match in `odriscolls4.c` at Line 89472
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\odriscolls4.c`
-
 **Context (approx. Line 89442):**
 ```c
 bool func_2479(var uParam0, bool bParam1, int iParam2)
@@ -59456,8 +57733,6 @@ bool func_2480(bool bParam0)
 ---
 
 ## Match in `odriscolls4_intro.c` at Line 12139
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\odriscolls4_intro.c`
-
 **Context (approx. Line 12109):**
 ```c
 {
@@ -59525,8 +57800,6 @@ bool func_508(bool bParam0)
 ---
 
 ## Match in `odriscolls5.c` at Line 94063
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\odriscolls5.c`
-
 **Context (approx. Line 94033):**
 ```c
 {
@@ -59594,8 +57867,6 @@ bool func_2722(bool bParam0)
 ---
 
 ## Match in `player_horse.c` at Line 30396
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\player_horse.c`
-
 **Context (approx. Line 30366):**
 ```c
 int func_1079(int iParam0)
@@ -59663,8 +57934,6 @@ bool func_1080(bool bParam0)
 ---
 
 ## Match in `poker_launch_sp.c` at Line 10947
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\poker_launch_sp.c`
-
 **Context (approx. Line 10917):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -59732,8 +58001,6 @@ bool func_258(bool bParam0)
 ---
 
 ## Match in `poker_sp.c` at Line 50129
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\poker_sp.c`
-
 **Context (approx. Line 50099):**
 ```c
 case 0:
@@ -59801,8 +58068,6 @@ bool func_1673(bool bParam0)
 ---
 
 ## Match in `pre_sean1_law.c` at Line 2503
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\pre_sean1_law.c`
-
 **Context (approx. Line 2473):**
 ```c
 if (!func_120())
@@ -59870,8 +58135,6 @@ bool func_69(bool bParam0)
 ---
 
 ## Match in `rcm_abigail11.c` at Line 67555
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_abigail11.c`
-
 **Context (approx. Line 67525):**
 ```c
 if (func_708(func_459()) < 5)
@@ -59939,8 +58202,6 @@ bool func_2160(bool bParam0)
 ---
 
 ## Match in `rcm_abigail22.c` at Line 40907
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_abigail22.c`
-
 **Context (approx. Line 40877):**
 ```c
 {
@@ -60008,8 +58269,6 @@ bool func_1350(bool bParam0)
 ---
 
 ## Match in `rcm_abigail31.c` at Line 56906
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_abigail31.c`
-
 **Context (approx. Line 56876):**
 ```c
 }
@@ -60077,8 +58336,6 @@ bool func_1765(bool bParam0)
 ---
 
 ## Match in `rcm_beau_and_penelope10.c` at Line 38415
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_beau_and_penelope10.c`
-
 **Context (approx. Line 38385):**
 ```c
 }
@@ -60146,8 +58403,6 @@ bool func_1291(bool bParam0)
 ---
 
 ## Match in `rcm_beau_and_penelope11.c` at Line 62816
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_beau_and_penelope11.c`
-
 **Context (approx. Line 62786):**
 ```c
 if (func_874(func_390()) < 5)
@@ -60215,8 +58470,6 @@ bool func_2048(bool bParam0)
 ---
 
 ## Match in `rcm_beau_and_penelope12.c` at Line 54192
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_beau_and_penelope12.c`
-
 **Context (approx. Line 54162):**
 ```c
 int func_1723()
@@ -60284,8 +58537,6 @@ bool func_1724(bool bParam0)
 ---
 
 ## Match in `rcm_beau_and_penelope20.c` at Line 48450
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_beau_and_penelope20.c`
-
 **Context (approx. Line 48420):**
 ```c
 if (func_721(func_301()) < 5)
@@ -60353,8 +58604,6 @@ bool func_1555(bool bParam0)
 ---
 
 ## Match in `rcm_beau_and_penelope21.c` at Line 54007
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_beau_and_penelope21.c`
-
 **Context (approx. Line 53977):**
 ```c
 {
@@ -60422,8 +58671,6 @@ bool func_1703(bool bParam0)
 ---
 
 ## Match in `rcm_beechers11.c` at Line 52555
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_beechers11.c`
-
 **Context (approx. Line 52525):**
 ```c
 if (func_833(func_329()) < 5)
@@ -60491,8 +58738,6 @@ bool func_1740(bool bParam0)
 ---
 
 ## Match in `rcm_beechers12.c` at Line 51039
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_beechers12.c`
-
 **Context (approx. Line 51009):**
 ```c
 }
@@ -60560,8 +58805,6 @@ bool func_1676(bool bParam0)
 ---
 
 ## Match in `rcm_beechers21.c` at Line 52123
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_beechers21.c`
-
 **Context (approx. Line 52093):**
 ```c
 if (func_837(func_335()) < 5)
@@ -60629,8 +58872,6 @@ bool func_1671(bool bParam0)
 ---
 
 ## Match in `rcm_bh_bandito_mine.c` at Line 50899
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_bandito_mine.c`
-
 **Context (approx. Line 50869):**
 ```c
 }
@@ -60698,8 +58939,6 @@ bool func_1633(bool bParam0)
 ---
 
 ## Match in `rcm_bh_bandito_shack.c` at Line 48932
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_bandito_shack.c`
-
 **Context (approx. Line 48902):**
 ```c
 uParam0->f_30[0 /*14*/].f_5 = { vVar3 };
@@ -60767,8 +59006,6 @@ bool func_1588(bool bParam0)
 ---
 
 ## Match in `rcm_bh_blackwater_hunt.c` at Line 63416
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_blackwater_hunt.c`
-
 **Context (approx. Line 63386):**
 ```c
 if (func_314(func_351()) < 5)
@@ -60836,8 +59073,6 @@ bool func_2019(bool bParam0)
 ---
 
 ## Match in `rcm_bh_camp_return.c` at Line 52153
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_camp_return.c`
-
 **Context (approx. Line 52123):**
 ```c
 }
@@ -60905,8 +59140,6 @@ bool func_1694(bool bParam0)
 ---
 
 ## Match in `rcm_bh_laramie_sleeping.c` at Line 62972
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_laramie_sleeping.c`
-
 **Context (approx. Line 62942):**
 ```c
 if (func_920(func_353()) < 5)
@@ -60974,8 +59207,6 @@ bool func_1989(bool bParam0)
 ---
 
 ## Match in `rcm_bh_sd_saloon.c` at Line 60932
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_sd_saloon.c`
-
 **Context (approx. Line 60902):**
 ```c
 if (func_931(func_339()) < 5)
@@ -61043,8 +59274,6 @@ bool func_1969(bool bParam0)
 ---
 
 ## Match in `rcm_bh_shack_escape.c` at Line 45096
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_shack_escape.c`
-
 **Context (approx. Line 45066):**
 ```c
 return true;
@@ -61112,8 +59341,6 @@ bool func_1512(bool bParam0)
 ---
 
 ## Match in `rcm_bh_skinner_brother.c` at Line 61395
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_skinner_brother.c`
-
 **Context (approx. Line 61365):**
 ```c
 if (func_899(func_346()) < 5)
@@ -61181,8 +59408,6 @@ bool func_1973(bool bParam0)
 ---
 
 ## Match in `rcm_bh_skinner_search.c` at Line 48522
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_skinner_search.c`
-
 **Context (approx. Line 48492):**
 ```c
 int iVar0;
@@ -61250,8 +59475,6 @@ bool func_1572(bool bParam0)
 ---
 
 ## Match in `rcm_bh_wife_and_lover.c` at Line 45030
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bh_wife_and_lover.c`
-
 **Context (approx. Line 45000):**
 ```c
 case 9:
@@ -61319,8 +59542,6 @@ bool func_1507(bool bParam0)
 ---
 
 ## Match in `rcm_bounty_duel1.c` at Line 49204
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bounty_duel1.c`
-
 **Context (approx. Line 49174):**
 ```c
 }
@@ -61388,8 +59609,6 @@ bool func_1623(bool bParam0)
 ---
 
 ## Match in `rcm_bounty_exconfed1.c` at Line 61615
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bounty_exconfed1.c`
-
 **Context (approx. Line 61585):**
 ```c
 if (func_900(func_347()) < 5)
@@ -61457,8 +59676,6 @@ bool func_1982(bool bParam0)
 ---
 
 ## Match in `rcm_bounty_rancher1.c` at Line 64051
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_bounty_rancher1.c`
-
 **Context (approx. Line 64021):**
 ```c
 if (func_959(func_358()) < 5)
@@ -61526,8 +59743,6 @@ bool func_2064(bool bParam0)
 ---
 
 ## Match in `rcm_braithwaites01.c` at Line 51726
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_braithwaites01.c`
-
 **Context (approx. Line 51696):**
 ```c
 if (func_798(func_342()) < 5)
@@ -61595,8 +59810,6 @@ bool func_1658(bool bParam0)
 ---
 
 ## Match in `rcm_calderon1.c` at Line 63186
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_calderon1.c`
-
 **Context (approx. Line 63156):**
 ```c
 if (func_1046(func_390()) < 5)
@@ -61664,8 +59877,6 @@ bool func_2009(bool bParam0)
 ---
 
 ## Match in `rcm_calderon2.c` at Line 53118
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_calderon2.c`
-
 **Context (approx. Line 53088):**
 ```c
 return 0;
@@ -61733,8 +59944,6 @@ bool func_1736(bool bParam0)
 ---
 
 ## Match in `rcm_calderon21.c` at Line 52819
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_calderon21.c`
-
 **Context (approx. Line 52789):**
 ```c
 if (func_796(func_306()) < 5)
@@ -61802,8 +60011,6 @@ bool func_1737(bool bParam0)
 ---
 
 ## Match in `rcm_calderon22.c` at Line 41312
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_calderon22.c`
-
 **Context (approx. Line 41282):**
 ```c
 if (ENTITY::IS_ENTITY_DEAD(iParam1))
@@ -61871,8 +60078,6 @@ bool func_1378(bool bParam0)
 ---
 
 ## Match in `rcm_callaway1.c` at Line 56237
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_callaway1.c`
-
 **Context (approx. Line 56207):**
 ```c
 if (func_943(func_328()) < 5)
@@ -61940,8 +60145,6 @@ bool func_1870(bool bParam0)
 ---
 
 ## Match in `rcm_callaway12.c` at Line 51098
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_callaway12.c`
-
 **Context (approx. Line 51068):**
 ```c
 if (func_769(func_298()) < 5)
@@ -62009,8 +60212,6 @@ bool func_1659(bool bParam0)
 ---
 
 ## Match in `rcm_callaway2.c` at Line 54507
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_callaway2.c`
-
 **Context (approx. Line 54477):**
 ```c
 if (func_851(func_322()) < 5)
@@ -62078,8 +60279,6 @@ bool func_1780(bool bParam0)
 ---
 
 ## Match in `rcm_callaway3.c` at Line 64120
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_callaway3.c`
-
 **Context (approx. Line 64090):**
 ```c
 if (func_542(func_383()) < 5)
@@ -62147,8 +60346,6 @@ bool func_2068(bool bParam0)
 ---
 
 ## Match in `rcm_chain_gang1.c` at Line 53132
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_chain_gang1.c`
-
 **Context (approx. Line 53102):**
 ```c
 if (func_804(func_324()) < 5)
@@ -62216,8 +60413,6 @@ bool func_1760(bool bParam0)
 ---
 
 ## Match in `rcm_chain_gang2.c` at Line 56394
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_chain_gang2.c`
-
 **Context (approx. Line 56364):**
 ```c
 if (func_919(func_306()) < 5)
@@ -62285,8 +60480,6 @@ bool func_1862(bool bParam0)
 ---
 
 ## Match in `rcm_chain_gang3.c` at Line 56713
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_chain_gang3.c`
-
 **Context (approx. Line 56683):**
 ```c
 if (func_916(func_359()) < 5)
@@ -62354,8 +60547,6 @@ bool func_1850(bool bParam0)
 ---
 
 ## Match in `rcm_chain_gang4.c` at Line 51020
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_chain_gang4.c`
-
 **Context (approx. Line 50990):**
 ```c
 if (func_781(func_326()) < 5)
@@ -62423,8 +60614,6 @@ bool func_1636(bool bParam0)
 ---
 
 ## Match in `rcm_chain_gang5.c` at Line 40884
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_chain_gang5.c`
-
 **Context (approx. Line 40854):**
 ```c
 {
@@ -62492,8 +60681,6 @@ bool func_1359(bool bParam0)
 ---
 
 ## Match in `rcm_chain_gang6.c` at Line 54145
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_chain_gang6.c`
-
 **Context (approx. Line 54115):**
 ```c
 if (func_843(func_320()) < 5)
@@ -62561,8 +60748,6 @@ bool func_1773(bool bParam0)
 ---
 
 ## Match in `rcm_chain_gang7.c` at Line 51682
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_chain_gang7.c`
-
 **Context (approx. Line 51652):**
 ```c
 if (func_812(func_315()) < 5)
@@ -62630,8 +60815,6 @@ bool func_1650(bool bParam0)
 ---
 
 ## Match in `rcm_coach_robbery1.c` at Line 67940
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_coach_robbery1.c`
-
 **Context (approx. Line 67910):**
 ```c
 if (func_835(func_418()) < 5)
@@ -62699,8 +60882,6 @@ bool func_2144(bool bParam0)
 ---
 
 ## Match in `rcm_collect_cigarette_cards1.c` at Line 54295
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_cigarette_cards1.c`
-
 **Context (approx. Line 54265):**
 ```c
 if (func_888(func_334()) < 5)
@@ -62768,8 +60949,6 @@ bool func_1789(bool bParam0)
 ---
 
 ## Match in `rcm_collect_dinosaur_bones11.c` at Line 53372
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_dinosaur_bones11.c`
-
 **Context (approx. Line 53342):**
 ```c
 if (func_841(func_333()) < 5)
@@ -62837,8 +61016,6 @@ bool func_1738(bool bParam0)
 ---
 
 ## Match in `rcm_collect_dinosaur_bones12.c` at Line 53097
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_dinosaur_bones12.c`
-
 **Context (approx. Line 53067):**
 ```c
 if (func_790(func_315()) < 5)
@@ -62906,8 +61083,6 @@ bool func_1718(bool bParam0)
 ---
 
 ## Match in `rcm_collect_exotics1.c` at Line 51229
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_exotics1.c`
-
 **Context (approx. Line 51199):**
 ```c
 if (func_779(func_317()) < 5)
@@ -62975,8 +61150,6 @@ bool func_1658(bool bParam0)
 ---
 
 ## Match in `rcm_collect_exotics2.c` at Line 52918
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_exotics2.c`
-
 **Context (approx. Line 52888):**
 ```c
 if (func_780(func_319()) < 5)
@@ -63044,8 +61217,6 @@ bool func_1707(bool bParam0)
 ---
 
 ## Match in `rcm_collect_exotics3.c` at Line 52937
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_exotics3.c`
-
 **Context (approx. Line 52907):**
 ```c
 if (func_779(func_319()) < 5)
@@ -63113,8 +61284,6 @@ bool func_1708(bool bParam0)
 ---
 
 ## Match in `rcm_collect_exotics4.c` at Line 52942
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_exotics4.c`
-
 **Context (approx. Line 52912):**
 ```c
 if (func_783(func_324()) < 5)
@@ -63182,8 +61351,6 @@ bool func_1708(bool bParam0)
 ---
 
 ## Match in `rcm_collect_exotics5.c` at Line 52614
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_exotics5.c`
-
 **Context (approx. Line 52584):**
 ```c
 if (func_778(func_321()) < 5)
@@ -63251,8 +61418,6 @@ bool func_1700(bool bParam0)
 ---
 
 ## Match in `rcm_collect_exotics6.c` at Line 52048
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_exotics6.c`
-
 **Context (approx. Line 52018):**
 ```c
 if (func_857(func_323()) < 5)
@@ -63320,8 +61485,6 @@ bool func_1690(bool bParam0)
 ---
 
 ## Match in `rcm_collect_rare_fish1.c` at Line 55025
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_rare_fish1.c`
-
 **Context (approx. Line 54995):**
 ```c
 if (func_870(func_317()) < 5)
@@ -63389,8 +61552,6 @@ bool func_1825(bool bParam0)
 ---
 
 ## Match in `rcm_collect_rare_fish2.c` at Line 44950
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_rare_fish2.c`
-
 **Context (approx. Line 44920):**
 ```c
 }
@@ -63458,8 +61619,6 @@ bool func_1444(bool bParam0)
 ---
 
 ## Match in `rcm_collect_rock_faces1.c` at Line 54276
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_rock_faces1.c`
-
 **Context (approx. Line 54246):**
 ```c
 if (func_885(func_333()) < 5)
@@ -63527,8 +61686,6 @@ bool func_1785(bool bParam0)
 ---
 
 ## Match in `rcm_collect_rock_faces2.c` at Line 50023
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_rock_faces2.c`
-
 **Context (approx. Line 49993):**
 ```c
 if (func_779(func_323()) < 5)
@@ -63596,8 +61753,6 @@ bool func_1639(bool bParam0)
 ---
 
 ## Match in `rcm_collect_taxidermy1.c` at Line 51904
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_taxidermy1.c`
-
 **Context (approx. Line 51874):**
 ```c
 if (func_868(func_325()) < 5)
@@ -63665,8 +61820,6 @@ bool func_1719(bool bParam0)
 ---
 
 ## Match in `rcm_collect_taxidermy2.c` at Line 52194
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_collect_taxidermy2.c`
-
 **Context (approx. Line 52164):**
 ```c
 if (func_790(func_325()) < 5)
@@ -63734,8 +61887,6 @@ bool func_1684(bool bParam0)
 ---
 
 ## Match in `rcm_crackpot1.c` at Line 47113
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_crackpot1.c`
-
 **Context (approx. Line 47083):**
 ```c
 bool func_1544(struct<2> /*16*/ sParam0, var uParam2, struct<2> /*16*/ sParam3, Vector3 vParam5, struct<2> /*16*/ sParam6, var uParam8)
@@ -63802,8 +61953,6 @@ bool func_1547(bool bParam0)
 ---
 
 ## Match in `rcm_crackpot2.c` at Line 55267
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_crackpot2.c`
-
 **Context (approx. Line 55237):**
 ```c
 if (func_780(func_390()) < 5)
@@ -63871,8 +62020,6 @@ bool func_1798(bool bParam0)
 ---
 
 ## Match in `rcm_crackpot3.c` at Line 46759
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_crackpot3.c`
-
 **Context (approx. Line 46729):**
 ```c
 if (func_738(func_307()) < 5)
@@ -63940,8 +62087,6 @@ bool func_1512(bool bParam0)
 ---
 
 ## Match in `rcm_crawley1.c` at Line 49999
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_crawley1.c`
-
 **Context (approx. Line 49969):**
 ```c
 bool func_1624(var uParam0, int iParam1, int iParam2)
@@ -64009,8 +62154,6 @@ bool func_1626(bool bParam0)
 ---
 
 ## Match in `rcm_creole1.c` at Line 42668
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_creole1.c`
-
 **Context (approx. Line 42638):**
 ```c
 }
@@ -64078,8 +62221,6 @@ bool func_1375(bool bParam0)
 ---
 
 ## Match in `rcm_doctors_opinion1.c` at Line 45201
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_doctors_opinion1.c`
-
 **Context (approx. Line 45171):**
 ```c
 {
@@ -64147,8 +62288,6 @@ bool func_1509(bool bParam0)
 ---
 
 ## Match in `rcm_down1.c` at Line 53952
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_down1.c`
-
 **Context (approx. Line 53922):**
 ```c
 if (func_862(func_319()) < 5)
@@ -64216,8 +62355,6 @@ bool func_1774(bool bParam0)
 ---
 
 ## Match in `rcm_down1_2.c` at Line 48494
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_down1_2.c`
-
 **Context (approx. Line 48464):**
 ```c
 if (func_714(func_299()) < 5)
@@ -64285,8 +62422,6 @@ bool func_1549(bool bParam0)
 ---
 
 ## Match in `rcm_down2.c` at Line 55925
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_down2.c`
-
 **Context (approx. Line 55895):**
 ```c
 if (func_883(func_339()) < 5)
@@ -64354,8 +62489,6 @@ bool func_1799(bool bParam0)
 ---
 
 ## Match in `rcm_down3.c` at Line 60133
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_down3.c`
-
 **Context (approx. Line 60103):**
 ```c
 if (func_895(func_345()) < 5)
@@ -64423,8 +62556,6 @@ bool func_1932(bool bParam0)
 ---
 
 ## Match in `rcm_dusters21.c` at Line 63058
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_dusters21.c`
-
 **Context (approx. Line 63028):**
 ```c
 }
@@ -64492,8 +62623,6 @@ bool func_1768(bool bParam0)
 ---
 
 ## Match in `rcm_dusters61.c` at Line 57858
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_dusters61.c`
-
 **Context (approx. Line 57828):**
 ```c
 if (func_814(func_324()) < 5)
@@ -64561,8 +62690,6 @@ bool func_1832(bool bParam0)
 ---
 
 ## Match in `rcm_dusters62.c` at Line 50440
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_dusters62.c`
-
 **Context (approx. Line 50410):**
 ```c
 func_1925(iParam0);
@@ -64630,8 +62757,6 @@ bool func_1555(bool bParam0)
 ---
 
 ## Match in `rcm_dutch11.c` at Line 62840
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_dutch11.c`
-
 **Context (approx. Line 62810):**
 ```c
 POPULATION::_0xB56D41A694E42E86(uParam0->f_1529[iVar0 /*15*/].f_12, 0, 0, 0, -1, -1, 8);
@@ -64699,8 +62824,6 @@ bool func_1959(bool bParam0)
 ---
 
 ## Match in `rcm_dutch21.c` at Line 52131
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_dutch21.c`
-
 **Context (approx. Line 52101):**
 ```c
 func_2002(iParam0);
@@ -64768,8 +62891,6 @@ bool func_1588(bool bParam0)
 ---
 
 ## Match in `rcm_dutch31.c` at Line 65858
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_dutch31.c`
-
 **Context (approx. Line 65828):**
 ```c
 {
@@ -64837,8 +62958,6 @@ bool func_1782(bool bParam0)
 ---
 
 ## Match in `rcm_edith_down21.c` at Line 41680
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_edith_down21.c`
-
 **Context (approx. Line 41650):**
 ```c
 }
@@ -64906,8 +63025,6 @@ bool func_1428(bool bParam0)
 ---
 
 ## Match in `rcm_edith_down22.c` at Line 55444
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_edith_down22.c`
-
 **Context (approx. Line 55414):**
 ```c
 if (func_861(func_347()) < 5)
@@ -64975,8 +63092,6 @@ bool func_1793(bool bParam0)
 ---
 
 ## Match in `rcm_evelyn_miller1.c` at Line 52027
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_evelyn_miller1.c`
-
 **Context (approx. Line 51997):**
 ```c
 if (func_795(func_309()) < 5)
@@ -65044,8 +63159,6 @@ bool func_1686(bool bParam0)
 ---
 
 ## Match in `rcm_evelyn_miller2.c` at Line 44462
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_evelyn_miller2.c`
-
 **Context (approx. Line 44432):**
 ```c
 {
@@ -65113,8 +63226,6 @@ bool func_1483(bool bParam0)
 ---
 
 ## Match in `rcm_evelyn_miller3.c` at Line 37259
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_evelyn_miller3.c`
-
 **Context (approx. Line 37229):**
 ```c
 case 9:
@@ -65182,8 +63293,6 @@ bool func_1275(bool bParam0)
 ---
 
 ## Match in `rcm_evelyn_miller4.c` at Line 41294
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_evelyn_miller4.c`
-
 **Context (approx. Line 41264):**
 ```c
 }
@@ -65251,8 +63360,6 @@ bool func_1357(bool bParam0)
 ---
 
 ## Match in `rcm_evelyn_miller5.c` at Line 44784
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_evelyn_miller5.c`
-
 **Context (approx. Line 44754):**
 ```c
 {
@@ -65320,8 +63427,6 @@ bool func_1477(bool bParam0)
 ---
 
 ## Match in `rcm_exconfed11.c` at Line 73797
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_exconfed11.c`
-
 **Context (approx. Line 73767):**
 ```c
 if (func_1176(func_402()) < 5)
@@ -65389,8 +63494,6 @@ bool func_2292(bool bParam0)
 ---
 
 ## Match in `rcm_for_my_art1.c` at Line 55588
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_for_my_art1.c`
-
 **Context (approx. Line 55558):**
 ```c
 if (func_866(func_315()) < 5)
@@ -65458,8 +63561,6 @@ bool func_1845(bool bParam0)
 ---
 
 ## Match in `rcm_for_my_art2.c` at Line 56320
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_for_my_art2.c`
-
 **Context (approx. Line 56290):**
 ```c
 if (func_896(func_357()) < 5)
@@ -65527,8 +63628,6 @@ bool func_1847(bool bParam0)
 ---
 
 ## Match in `rcm_for_my_art3.c` at Line 56530
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_for_my_art3.c`
-
 **Context (approx. Line 56500):**
 ```c
 if (func_939(func_395()) < 5)
@@ -65596,8 +63695,6 @@ bool func_1853(bool bParam0)
 ---
 
 ## Match in `rcm_for_my_art4.c` at Line 56557
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_for_my_art4.c`
-
 **Context (approx. Line 56527):**
 ```c
 if (func_911(func_361()) < 5)
@@ -65665,8 +63762,6 @@ bool func_1812(bool bParam0)
 ---
 
 ## Match in `rcm_fundraiser.c` at Line 55398
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_fundraiser.c`
-
 **Context (approx. Line 55368):**
 ```c
 if (func_828(func_273()) < 5)
@@ -65734,8 +63829,6 @@ bool func_1790(bool bParam0)
 ---
 
 ## Match in `rcm_gang01.c` at Line 52099
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_gang01.c`
-
 **Context (approx. Line 52069):**
 ```c
 if (func_746(func_304()) < 5)
@@ -65803,8 +63896,6 @@ bool func_1670(bool bParam0)
 ---
 
 ## Match in `rcm_gang02.c` at Line 58564
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_gang02.c`
-
 **Context (approx. Line 58534):**
 ```c
 {
@@ -65872,8 +63963,6 @@ bool func_1917(bool bParam0)
 ---
 
 ## Match in `rcm_gunslinger1_1.c` at Line 54018
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_gunslinger1_1.c`
-
 **Context (approx. Line 53988):**
 ```c
 if (func_791(func_311()) < 5)
@@ -65941,8 +64030,6 @@ bool func_1770(bool bParam0)
 ---
 
 ## Match in `rcm_gunslinger1_2.c` at Line 59508
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_gunslinger1_2.c`
-
 **Context (approx. Line 59478):**
 ```c
 if (func_956(func_361()) < 5)
@@ -66010,8 +64097,6 @@ bool func_1955(bool bParam0)
 ---
 
 ## Match in `rcm_gunslinger2_1.c` at Line 58820
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_gunslinger2_1.c`
-
 **Context (approx. Line 58790):**
 ```c
 if (func_934(func_363()) < 5)
@@ -66079,8 +64164,6 @@ bool func_1939(bool bParam0)
 ---
 
 ## Match in `rcm_gunslinger3_1.c` at Line 48438
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_gunslinger3_1.c`
-
 **Context (approx. Line 48408):**
 ```c
 {
@@ -66148,8 +64231,6 @@ bool func_1632(bool bParam0)
 ---
 
 ## Match in `rcm_gunslinger5_1.c` at Line 42997
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_gunslinger5_1.c`
-
 **Context (approx. Line 42967):**
 ```c
 while (iVar0 < 27)
@@ -66217,8 +64298,6 @@ bool func_1492(bool bParam0)
 ---
 
 ## Match in `rcm_herbalist_camp.c` at Line 58286
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_herbalist_camp.c`
-
 **Context (approx. Line 58256):**
 ```c
 if (func_807(func_325()) < 5)
@@ -66286,8 +64365,6 @@ bool func_1908(bool bParam0)
 ---
 
 ## Match in `rcm_here_kitty_kitty1.c` at Line 52093
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_here_kitty_kitty1.c`
-
 **Context (approx. Line 52063):**
 ```c
 if (func_800(func_318()) < 5)
@@ -66355,8 +64432,6 @@ bool func_1682(bool bParam0)
 ---
 
 ## Match in `rcm_here_kitty_kitty2.c` at Line 53575
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_here_kitty_kitty2.c`
-
 **Context (approx. Line 53545):**
 ```c
 if (func_871(func_348()) < 5)
@@ -66424,8 +64499,6 @@ bool func_1754(bool bParam0)
 ---
 
 ## Match in `rcm_here_kitty_kitty3.c` at Line 46020
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_here_kitty_kitty3.c`
-
 **Context (approx. Line 45990):**
 ```c
 }
@@ -66493,8 +64566,6 @@ bool func_1514(bool bParam0)
 ---
 
 ## Match in `rcm_here_kitty_kitty4.c` at Line 57604
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_here_kitty_kitty4.c`
-
 **Context (approx. Line 57574):**
 ```c
 if (func_925(func_341()) < 5)
@@ -66562,8 +64633,6 @@ bool func_1850(bool bParam0)
 ---
 
 ## Match in `rcm_here_kitty_kitty5.c` at Line 52906
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_here_kitty_kitty5.c`
-
 **Context (approx. Line 52876):**
 ```c
 if (func_852(func_324()) < 5)
@@ -66631,8 +64700,6 @@ bool func_1719(bool bParam0)
 ---
 
 ## Match in `rcm_homerob00.c` at Line 56879
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_homerob00.c`
-
 **Context (approx. Line 56849):**
 ```c
 if (AUDIO::_0xFE5C6177064BD390(1))
@@ -66700,8 +64767,6 @@ bool func_1998(bool bParam0)
 ---
 
 ## Match in `rcm_homerob01.c` at Line 57781
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_homerob01.c`
-
 **Context (approx. Line 57751):**
 ```c
 if (func_917(func_377()) < 5)
@@ -66769,8 +64834,6 @@ bool func_1928(bool bParam0)
 ---
 
 ## Match in `rcm_jack2.c` at Line 47992
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_jack2.c`
-
 **Context (approx. Line 47962):**
 ```c
 {
@@ -66838,8 +64901,6 @@ bool func_1583(bool bParam0)
 ---
 
 ## Match in `rcm_mary01.c` at Line 53744
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mary01.c`
-
 **Context (approx. Line 53714):**
 ```c
 if (func_796(func_310()) < 5)
@@ -66907,8 +64968,6 @@ bool func_1724(bool bParam0)
 ---
 
 ## Match in `rcm_mary02.c` at Line 47646
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mary02.c`
-
 **Context (approx. Line 47616):**
 ```c
 if (func_754(func_309()) < 5)
@@ -66976,8 +65035,6 @@ bool func_1544(bool bParam0)
 ---
 
 ## Match in `rcm_mary31.c` at Line 48292
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mary31.c`
-
 **Context (approx. Line 48262):**
 ```c
 if (func_726(func_302()) < 5)
@@ -67045,8 +65102,6 @@ bool func_1563(bool bParam0)
 ---
 
 ## Match in `rcm_marybeth1.c` at Line 54237
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_marybeth1.c`
-
 **Context (approx. Line 54207):**
 ```c
 if (func_819(func_313()) < 5)
@@ -67114,8 +65169,6 @@ bool func_1760(bool bParam0)
 ---
 
 ## Match in `rcm_mason1.c` at Line 58147
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mason1.c`
-
 **Context (approx. Line 58117):**
 ```c
 if (func_936(func_346()) < 5)
@@ -67183,8 +65236,6 @@ bool func_1898(bool bParam0)
 ---
 
 ## Match in `rcm_mason2.c` at Line 57289
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mason2.c`
-
 **Context (approx. Line 57259):**
 ```c
 if (func_911(func_354()) < 5)
@@ -67252,8 +65303,6 @@ bool func_1859(bool bParam0)
 ---
 
 ## Match in `rcm_mason3.c` at Line 66841
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mason3.c`
-
 **Context (approx. Line 66811):**
 ```c
 if (func_1046(func_379()) < 5)
@@ -67321,8 +65370,6 @@ bool func_2093(bool bParam0)
 ---
 
 ## Match in `rcm_mason4.c` at Line 57809
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mason4.c`
-
 **Context (approx. Line 57779):**
 ```c
 if (func_930(func_369()) < 5)
@@ -67390,8 +65437,6 @@ bool func_1826(bool bParam0)
 ---
 
 ## Match in `rcm_mason5.c` at Line 52487
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mason5.c`
-
 **Context (approx. Line 52457):**
 ```c
 if (func_795(func_300()) < 5)
@@ -67459,8 +65504,6 @@ bool func_1723(bool bParam0)
 ---
 
 ## Match in `rcm_mob01.c` at Line 51887
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mob01.c`
-
 **Context (approx. Line 51857):**
 ```c
 if (func_844(func_333()) < 5)
@@ -67528,8 +65571,6 @@ bool func_1710(bool bParam0)
 ---
 
 ## Match in `rcm_mob02.c` at Line 51319
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mob02.c`
-
 **Context (approx. Line 51289):**
 ```c
 if (func_821(func_327()) < 5)
@@ -67597,8 +65638,6 @@ bool func_1682(bool bParam0)
 ---
 
 ## Match in `rcm_monroe11.c` at Line 62534
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_monroe11.c`
-
 **Context (approx. Line 62504):**
 ```c
 if (func_639(func_378()) < 5)
@@ -67666,8 +65705,6 @@ bool func_2005(bool bParam0)
 ---
 
 ## Match in `rcm_mr_mayor1.c` at Line 56279
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mr_mayor1.c`
-
 **Context (approx. Line 56249):**
 ```c
 if (func_705(func_382()) < 5)
@@ -67735,8 +65772,6 @@ bool func_1856(bool bParam0)
 ---
 
 ## Match in `rcm_mr_mayor2.c` at Line 54897
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mr_mayor2.c`
-
 **Context (approx. Line 54867):**
 ```c
 if (func_904(func_378()) < 5)
@@ -67804,8 +65839,6 @@ bool func_1809(bool bParam0)
 ---
 
 ## Match in `rcm_mr_mayor3.c` at Line 57190
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mr_mayor3.c`
-
 **Context (approx. Line 57160):**
 ```c
 if (func_735(func_381()) < 5)
@@ -67873,8 +65906,6 @@ bool func_1882(bool bParam0)
 ---
 
 ## Match in `rcm_mudtown3_1.c` at Line 52154
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mudtown3_1.c`
-
 **Context (approx. Line 52124):**
 ```c
 if (func_745(func_308()) < 5)
@@ -67942,8 +65973,6 @@ bool func_1664(bool bParam0)
 ---
 
 ## Match in `rcm_mudtown3_2.c` at Line 52721
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mudtown3_2.c`
-
 **Context (approx. Line 52691):**
 ```c
 if (func_836(func_355()) < 5)
@@ -68011,8 +66040,6 @@ bool func_1686(bool bParam0)
 ---
 
 ## Match in `rcm_mudtown3_3.c` at Line 54349
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_mudtown3_3.c`
-
 **Context (approx. Line 54319):**
 ```c
 if (func_742(func_304()) < 5)
@@ -68080,8 +66107,6 @@ bool func_1700(bool bParam0)
 ---
 
 ## Match in `rcm_native1.c` at Line 52229
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_native1.c`
-
 **Context (approx. Line 52199):**
 ```c
 if (func_769(func_305()) < 5)
@@ -68149,8 +66174,6 @@ bool func_1685(bool bParam0)
 ---
 
 ## Match in `rcm_native2.c` at Line 62628
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_native2.c`
-
 **Context (approx. Line 62598):**
 ```c
 if (func_1016(func_412()) < 5)
@@ -68218,8 +66241,6 @@ bool func_2005(bool bParam0)
 ---
 
 ## Match in `rcm_oh_brother1.c` at Line 57852
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_oh_brother1.c`
-
 **Context (approx. Line 57822):**
 ```c
 if (func_856(func_348()) < 5)
@@ -68287,8 +66308,6 @@ bool func_1827(bool bParam0)
 ---
 
 ## Match in `rcm_oh_brother2.c` at Line 53488
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_oh_brother2.c`
-
 **Context (approx. Line 53458):**
 ```c
 if (func_836(func_332()) < 5)
@@ -68356,8 +66375,6 @@ bool func_1732(bool bParam0)
 ---
 
 ## Match in `rcm_oh_brother3.c` at Line 52897
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_oh_brother3.c`
-
 **Context (approx. Line 52867):**
 ```c
 if (func_840(func_337()) < 5)
@@ -68425,8 +66442,6 @@ bool func_1730(bool bParam0)
 ---
 
 ## Match in `rcm_pearson1.c` at Line 65636
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_pearson1.c`
-
 **Context (approx. Line 65606):**
 ```c
 }
@@ -68494,8 +66509,6 @@ bool func_1997(bool bParam0)
 ---
 
 ## Match in `rcm_poisoned_well1.c` at Line 52707
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_poisoned_well1.c`
-
 **Context (approx. Line 52677):**
 ```c
 if (func_853(func_344()) < 5)
@@ -68563,8 +66576,6 @@ bool func_1735(bool bParam0)
 ---
 
 ## Match in `rcm_poisoned_well2.c` at Line 38738
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_poisoned_well2.c`
-
 **Context (approx. Line 38708):**
 ```c
 case 9:
@@ -68632,8 +66643,6 @@ bool func_1350(bool bParam0)
 ---
 
 ## Match in `rcm_poisoned_well3.c` at Line 48318
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_poisoned_well3.c`
-
 **Context (approx. Line 48288):**
 ```c
 if (func_730(func_309()) < 5)
@@ -68701,8 +66710,6 @@ bool func_1566(bool bParam0)
 ---
 
 ## Match in `rcm_poisoned_well4.c` at Line 48988
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_poisoned_well4.c`
-
 **Context (approx. Line 48958):**
 ```c
 if (func_747(func_308()) < 5)
@@ -68770,8 +66777,6 @@ bool func_1581(bool bParam0)
 ---
 
 ## Match in `rcm_poisoned_well5.c` at Line 56703
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_poisoned_well5.c`
-
 **Context (approx. Line 56673):**
 ```c
 if (func_960(func_371()) < 5)
@@ -68839,8 +66844,6 @@ bool func_1849(bool bParam0)
 ---
 
 ## Match in `rcm_rains_fall1.c` at Line 37280
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_rains_fall1.c`
-
 **Context (approx. Line 37250):**
 ```c
 case 9:
@@ -68908,8 +66911,6 @@ bool func_1273(bool bParam0)
 ---
 
 ## Match in `rcm_ride_the_lightning1.c` at Line 49439
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_ride_the_lightning1.c`
-
 **Context (approx. Line 49409):**
 ```c
 if (func_752(func_306()) < 5)
@@ -68977,8 +66978,6 @@ bool func_1623(bool bParam0)
 ---
 
 ## Match in `rcm_ride_the_lightning2.c` at Line 46304
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_ride_the_lightning2.c`
-
 **Context (approx. Line 46274):**
 ```c
 if (func_725(func_299()) < 5)
@@ -69046,8 +67045,6 @@ bool func_1491(bool bParam0)
 ---
 
 ## Match in `rcm_ride_the_lightning3.c` at Line 51464
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_ride_the_lightning3.c`
-
 **Context (approx. Line 51434):**
 ```c
 if (func_855(func_352()) < 5)
@@ -69115,8 +67112,6 @@ bool func_1697(bool bParam0)
 ---
 
 ## Match in `rcm_ride_the_lightning4.c` at Line 51814
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_ride_the_lightning4.c`
-
 **Context (approx. Line 51784):**
 ```c
 if (func_798(func_333()) < 5)
@@ -69184,8 +67179,6 @@ bool func_1689(bool bParam0)
 ---
 
 ## Match in `rcm_ride_the_lightning5.c` at Line 51965
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_ride_the_lightning5.c`
-
 **Context (approx. Line 51935):**
 ```c
 if (func_834(func_308()) < 5)
@@ -69253,8 +67246,6 @@ bool func_1689(bool bParam0)
 ---
 
 ## Match in `rcm_ride_the_lightning6.c` at Line 44119
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_ride_the_lightning6.c`
-
 **Context (approx. Line 44089):**
 ```c
 {
@@ -69322,8 +67313,6 @@ bool func_1433(bool bParam0)
 ---
 
 ## Match in `rcm_ride_the_lightning7.c` at Line 47632
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_ride_the_lightning7.c`
-
 **Context (approx. Line 47602):**
 ```c
 if (func_755(func_309()) < 5)
@@ -69391,8 +67380,6 @@ bool func_1542(bool bParam0)
 ---
 
 ## Match in `rcm_sadie11.c` at Line 72545
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_sadie11.c`
-
 **Context (approx. Line 72515):**
 ```c
 if (func_531(func_478()) < 5)
@@ -69460,8 +67447,6 @@ bool func_2269(bool bParam0)
 ---
 
 ## Match in `rcm_serial_killer1.c` at Line 52291
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_serial_killer1.c`
-
 **Context (approx. Line 52261):**
 ```c
 if (func_604(func_379()) < 5)
@@ -69529,8 +67514,6 @@ bool func_1716(bool bParam0)
 ---
 
 ## Match in `rcm_slave_catcher1.c` at Line 52482
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_slave_catcher1.c`
-
 **Context (approx. Line 52452):**
 ```c
 if (func_769(func_318()) < 5)
@@ -69598,8 +67581,6 @@ bool func_1702(bool bParam0)
 ---
 
 ## Match in `rcm_slave_catcher2.c` at Line 52248
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_slave_catcher2.c`
-
 **Context (approx. Line 52218):**
 ```c
 if (func_895(func_381()) < 5)
@@ -69667,8 +67648,6 @@ bool func_1729(bool bParam0)
 ---
 
 ## Match in `rcm_strauss11.c` at Line 54136
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_strauss11.c`
-
 **Context (approx. Line 54106):**
 ```c
 if (func_837(func_310()) < 5)
@@ -69736,8 +67715,6 @@ bool func_1779(bool bParam0)
 ---
 
 ## Match in `rcm_strauss21.c` at Line 56655
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_strauss21.c`
-
 **Context (approx. Line 56625):**
 ```c
 if (func_849(func_313()) < 5)
@@ -69805,8 +67782,6 @@ bool func_1856(bool bParam0)
 ---
 
 ## Match in `rcm_strauss31.c` at Line 57259
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_strauss31.c`
-
 **Context (approx. Line 57229):**
 ```c
 if (func_849(func_310()) < 5)
@@ -69874,8 +67849,6 @@ bool func_1871(bool bParam0)
 ---
 
 ## Match in `rcm_strauss32.c` at Line 50828
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_strauss32.c`
-
 **Context (approx. Line 50798):**
 ```c
 if (func_799(func_297()) < 5)
@@ -69943,8 +67916,6 @@ bool func_1646(bool bParam0)
 ---
 
 ## Match in `rcm_strauss33.c` at Line 31701
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_strauss33.c`
-
 **Context (approx. Line 31671):**
 ```c
 }
@@ -70012,8 +67983,6 @@ bool func_1085(bool bParam0)
 ---
 
 ## Match in `rcm_the_odd_fellows1.c` at Line 55347
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_the_odd_fellows1.c`
-
 **Context (approx. Line 55317):**
 ```c
 if (func_866(func_346()) < 5)
@@ -70081,8 +68050,6 @@ bool func_1836(bool bParam0)
 ---
 
 ## Match in `rcm_the_odd_fellows2.c` at Line 56356
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_the_odd_fellows2.c`
-
 **Context (approx. Line 56326):**
 ```c
 if (func_918(func_366()) < 5)
@@ -70150,8 +68117,6 @@ bool func_1803(bool bParam0)
 ---
 
 ## Match in `rcm_tilly1.c` at Line 51313
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_tilly1.c`
-
 **Context (approx. Line 51283):**
 ```c
 if (func_749(func_311()) < 5)
@@ -70219,8 +68184,6 @@ bool func_1625(bool bParam0)
 ---
 
 ## Match in `rcm_treasure_hunter.c` at Line 55688
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_treasure_hunter.c`
-
 **Context (approx. Line 55658):**
 ```c
 if (func_830(func_313()) < 5)
@@ -70288,8 +68251,6 @@ bool func_1782(bool bParam0)
 ---
 
 ## Match in `rcm_war_veteran1.c` at Line 55474
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_war_veteran1.c`
-
 **Context (approx. Line 55444):**
 ```c
 if (func_889(func_365()) < 5)
@@ -70357,8 +68318,6 @@ bool func_1824(bool bParam0)
 ---
 
 ## Match in `rcm_war_veteran2.c` at Line 57484
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_war_veteran2.c`
-
 **Context (approx. Line 57454):**
 ```c
 if (func_1018(func_399()) < 5)
@@ -70426,8 +68385,6 @@ bool func_1903(bool bParam0)
 ---
 
 ## Match in `rcm_war_veteran3.c` at Line 59214
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_war_veteran3.c`
-
 **Context (approx. Line 59184):**
 ```c
 if (func_942(func_386()) < 5)
@@ -70495,8 +68452,6 @@ bool func_1868(bool bParam0)
 ---
 
 ## Match in `rcm_war_veteran4.c` at Line 50164
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rcm_war_veteran4.c`
-
 **Context (approx. Line 50134):**
 ```c
 else
@@ -70564,8 +68519,6 @@ bool func_1682(bool bParam0)
 ---
 
 ## Match in `region_law_bloodhound.c` at Line 1420
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\region_law_bloodhound.c`
-
 **Context (approx. Line 1390):**
 ```c
 }
@@ -70633,8 +68586,6 @@ bool func_37(bool bParam0)
 ---
 
 ## Match in `region_law_guama_fussar.c` at Line 2364
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\region_law_guama_fussar.c`
-
 **Context (approx. Line 2334):**
 ```c
 }
@@ -70702,8 +68653,6 @@ bool func_75(bool bParam0)
 ---
 
 ## Match in `region_law_patrol_creator.c` at Line 1986
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\region_law_patrol_creator.c`
-
 **Context (approx. Line 1956):**
 ```c
 PED::_SET_PED_OUTFIT_PRESET(bParam0, 0, false);
@@ -70771,8 +68720,6 @@ bool func_77(bool bParam0)
 ---
 
 ## Match in `region_law_rho_law_swarm.c` at Line 1133
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\region_law_rho_law_swarm.c`
-
 **Context (approx. Line 1103):**
 ```c
 fVar0 = BUILTIN::VMAG(vParam0);
@@ -70839,8 +68786,6 @@ bool func_25(bool bParam0)
 ---
 
 ## Match in `region_law_roadblock_creator.c` at Line 2038
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\region_law_roadblock_creator.c`
-
 **Context (approx. Line 2008):**
 ```c
 PED::_SET_PED_OUTFIT_PRESET(bParam0, 0, false);
@@ -70908,8 +68853,6 @@ bool func_74(bool bParam0)
 ---
 
 ## Match in `region_law_town_mob.c` at Line 1077
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\region_law_town_mob.c`
-
 **Context (approx. Line 1047):**
 ```c
 *uParam0 = (*uParam0 || iParam1);
@@ -70977,8 +68920,6 @@ bool func_44(bool bParam0)
 ---
 
 ## Match in `region_law_val_belltower_sniper.c` at Line 648
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\region_law_val_belltower_sniper.c`
-
 **Context (approx. Line 618):**
 ```c
 TASK::_SET_PED_PATH_MAY_ENTER_DEEP_WATER(bParam0, false);
@@ -71046,8 +68987,6 @@ bool func_33(bool bParam0)
 ---
 
 ## Match in `region_law_w_eliz_pinks.c` at Line 2212
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\region_law_w_eliz_pinks.c`
-
 **Context (approx. Line 2182):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -71115,8 +69054,6 @@ bool func_87(bool bParam0)
 ---
 
 ## Match in `region_town_lockdown_generic.c` at Line 1753
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\region_town_lockdown_generic.c`
-
 **Context (approx. Line 1723):**
 ```c
 }
@@ -71184,8 +69121,6 @@ bool func_76(bool bParam0)
 ---
 
 ## Match in `reverend1.c` at Line 72480
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\reverend1.c`
-
 **Context (approx. Line 72450):**
 ```c
 void func_1937(char[4] cParam0, bool bParam1, int iParam2)
@@ -71252,8 +69187,6 @@ bool func_1938(bool bParam0)
 ---
 
 ## Match in `reverend1_intro.c` at Line 24134
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\reverend1_intro.c`
-
 **Context (approx. Line 24104):**
 ```c
 {
@@ -71321,8 +69254,6 @@ bool func_889(bool bParam0)
 ---
 
 ## Match in `rhodes.c` at Line 30279
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rhodes.c`
-
 **Context (approx. Line 30249):**
 ```c
 return 0;
@@ -71390,8 +69321,6 @@ bool func_901(bool bParam0)
 ---
 
 ## Match in `rhodes_donkeys.c` at Line 3070
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\rhodes_donkeys.c`
-
 **Context (approx. Line 3040):**
 ```c
 int func_101(int iParam0)
@@ -71459,8 +69388,6 @@ bool func_102(bool bParam0)
 ---
 
 ## Match in `riobravo_population.c` at Line 833
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\riobravo_population.c`
-
 **Context (approx. Line 803):**
 ```c
 }
@@ -71528,8 +69455,6 @@ bool func_45(bool bParam0)
 ---
 
 ## Match in `roanokeridge_population.c` at Line 1987
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\roanokeridge_population.c`
-
 **Context (approx. Line 1957):**
 ```c
 }
@@ -71597,8 +69522,6 @@ bool func_61(bool bParam0)
 ---
 
 ## Match in `sadie2.c` at Line 77572
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sadie2.c`
-
 **Context (approx. Line 77542):**
 ```c
 Vector3 func_2076(vector3 vParam0, float fParam3)
@@ -71666,8 +69589,6 @@ bool func_2077(bool bParam0)
 ---
 
 ## Match in `sadie2_intro.c` at Line 24678
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sadie2_intro.c`
-
 **Context (approx. Line 24648):**
 ```c
 }
@@ -71735,8 +69656,6 @@ bool func_941(bool bParam0)
 ---
 
 ## Match in `sadie3.c` at Line 92253
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sadie3.c`
-
 **Context (approx. Line 92223):**
 ```c
 {
@@ -71804,8 +69723,6 @@ bool func_2523(bool bParam0)
 ---
 
 ## Match in `sadie3_intro.c` at Line 23788
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sadie3_intro.c`
-
 **Context (approx. Line 23758):**
 ```c
 {
@@ -71873,8 +69790,6 @@ bool func_866(bool bParam0)
 ---
 
 ## Match in `sadie4.c` at Line 79392
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sadie4.c`
-
 **Context (approx. Line 79362):**
 ```c
 int iVar0;
@@ -71942,8 +69857,6 @@ bool func_2279(bool bParam0)
 ---
 
 ## Match in `sadie4_intro.c` at Line 25420
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sadie4_intro.c`
-
 **Context (approx. Line 25390):**
 ```c
 if (INVENTORY::_INVENTORY_IS_GUID_VALID(&Param1))
@@ -72011,8 +69924,6 @@ bool func_888(bool bParam0)
 ---
 
 ## Match in `sadie4_outro.c` at Line 7368
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sadie4_outro.c`
-
 **Context (approx. Line 7338):**
 ```c
 }
@@ -72080,8 +69991,6 @@ bool func_213(bool bParam0)
 ---
 
 ## Match in `sadie5.c` at Line 83848
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sadie5.c`
-
 **Context (approx. Line 83818):**
 ```c
 case -1670940721:
@@ -72149,8 +70058,6 @@ bool func_2364(bool bParam0)
 ---
 
 ## Match in `sadie5_outro.c` at Line 4246
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sadie5_outro.c`
-
 **Context (approx. Line 4216):**
 ```c
 iVar0 = WEAPON::GIVE_WEAPON_TO_PED(iParam0, iVar0, iParam9, bParam2, bParam5, bParam4, bParam11, 0.5f, 1f, joaat("ADD_REASON_DEFAULT"), bVar22, fVar25, false);
@@ -72218,8 +70125,6 @@ bool func_141(bool bParam0)
 ---
 
 ## Match in `saintdenis.c` at Line 16325
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\saintdenis.c`
-
 **Context (approx. Line 16295):**
 ```c
 return 7;
@@ -72287,8 +70192,6 @@ bool func_556(bool bParam0)
 ---
 
 ## Match in `saint_denis1.c` at Line 111284
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\saint_denis1.c`
-
 **Context (approx. Line 111254):**
 ```c
 int iVar0;
@@ -72356,8 +70259,6 @@ bool func_3056(bool bParam0)
 ---
 
 ## Match in `saint_denis1_intro.c` at Line 27038
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\saint_denis1_intro.c`
-
 **Context (approx. Line 27008):**
 ```c
 if (!func_1070(&Var0, &iVar18, &iVar19, 0))
@@ -72425,8 +70326,6 @@ bool func_1057(bool bParam0)
 ---
 
 ## Match in `saloon1.c` at Line 86824
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\saloon1.c`
-
 **Context (approx. Line 86794):**
 ```c
 uParam0->f_1 = -1;
@@ -72494,8 +70393,6 @@ bool func_2538(bool bParam0)
 ---
 
 ## Match in `saloon1_intro.c` at Line 25695
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\saloon1_intro.c`
-
 **Context (approx. Line 25665):**
 ```c
 {
@@ -72563,8 +70460,6 @@ bool func_999(bool bParam0)
 ---
 
 ## Match in `sean1.c` at Line 88940
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sean1.c`
-
 **Context (approx. Line 88910):**
 ```c
 int iVar0;
@@ -72632,8 +70527,6 @@ bool func_2330(bool bParam0)
 ---
 
 ## Match in `sean1_intro.c` at Line 29082
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\sean1_intro.c`
-
 **Context (approx. Line 29052):**
 ```c
 }
@@ -72701,8 +70594,6 @@ bool func_1036(bool bParam0)
 ---
 
 ## Match in `shack_beechersa1.c` at Line 4239
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_beechersa1.c`
-
 **Context (approx. Line 4209):**
 ```c
 VOLUME::_DELETE_VOLUME(iParam0);
@@ -72770,8 +70661,6 @@ bool func_132(bool bParam0)
 ---
 
 ## Match in `shack_beechersb1.c` at Line 4245
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_beechersb1.c`
-
 **Context (approx. Line 4215):**
 ```c
 VOLUME::_DELETE_VOLUME(iParam0);
@@ -72839,8 +70728,6 @@ bool func_132(bool bParam0)
 ---
 
 ## Match in `shack_beechersc1.c` at Line 4246
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_beechersc1.c`
-
 **Context (approx. Line 4216):**
 ```c
 VOLUME::_DELETE_VOLUME(iParam0);
@@ -72908,8 +70795,6 @@ bool func_132(bool bParam0)
 ---
 
 ## Match in `shack_civilwarbride1.c` at Line 4385
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_civilwarbride1.c`
-
 **Context (approx. Line 4355):**
 ```c
 }
@@ -72977,8 +70862,6 @@ bool func_135(bool bParam0)
 ---
 
 ## Match in `shack_deadrival.c` at Line 4436
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_deadrival.c`
-
 **Context (approx. Line 4406):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -73046,8 +70929,6 @@ bool func_138(bool bParam0)
 ---
 
 ## Match in `shack_deadsettler.c` at Line 4346
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_deadsettler.c`
-
 **Context (approx. Line 4316):**
 ```c
 }
@@ -73115,8 +70996,6 @@ bool func_134(bool bParam0)
 ---
 
 ## Match in `shack_frozenexplorers1.c` at Line 3975
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_frozenexplorers1.c`
-
 **Context (approx. Line 3945):**
 ```c
 }
@@ -73184,8 +71063,6 @@ bool func_117(bool bParam0)
 ---
 
 ## Match in `shack_gunfight1.c` at Line 4609
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_gunfight1.c`
-
 **Context (approx. Line 4579):**
 ```c
 }
@@ -73253,8 +71130,6 @@ bool func_141(bool bParam0)
 ---
 
 ## Match in `shack_happyfamily1.c` at Line 4545
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_happyfamily1.c`
-
 **Context (approx. Line 4515):**
 ```c
 }
@@ -73322,8 +71197,6 @@ bool func_144(bool bParam0)
 ---
 
 ## Match in `shack_hungrybear1.c` at Line 7132
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_hungrybear1.c`
-
 **Context (approx. Line 7102):**
 ```c
 {
@@ -73391,8 +71264,6 @@ bool func_249(bool bParam0)
 ---
 
 ## Match in `shack_loonycult1.c` at Line 5643
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_loonycult1.c`
-
 **Context (approx. Line 5613):**
 ```c
 }
@@ -73460,8 +71331,6 @@ bool func_187(bool bParam0)
 ---
 
 ## Match in `shack_lovetriangle1.c` at Line 5275
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_lovetriangle1.c`
-
 **Context (approx. Line 5245):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -73529,8 +71398,6 @@ bool func_168(bool bParam0)
 ---
 
 ## Match in `shack_missinghusband1.c` at Line 6219
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_missinghusband1.c`
-
 **Context (approx. Line 6189):**
 ```c
 {
@@ -73598,8 +71465,6 @@ bool func_209(bool bParam0)
 ---
 
 ## Match in `shack_mountainman1.c` at Line 4204
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_mountainman1.c`
-
 **Context (approx. Line 4174):**
 ```c
 {
@@ -73667,8 +71532,6 @@ bool func_123(bool bParam0)
 ---
 
 ## Match in `shack_ontherun1.c` at Line 9608
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_ontherun1.c`
-
 **Context (approx. Line 9578):**
 ```c
 {
@@ -73736,8 +71599,6 @@ bool func_294(bool bParam0)
 ---
 
 ## Match in `shack_slavepen1.c` at Line 13363
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_slavepen1.c`
-
 **Context (approx. Line 13333):**
 ```c
 }
@@ -73805,8 +71666,6 @@ bool func_342(bool bParam0)
 ---
 
 ## Match in `shack_starvingchildren.c` at Line 4529
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_starvingchildren.c`
-
 **Context (approx. Line 4499):**
 ```c
 }
@@ -73874,8 +71733,6 @@ bool func_145(bool bParam0)
 ---
 
 ## Match in `shack_undergroundrailroad.c` at Line 3993
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shack_undergroundrailroad.c`
-
 **Context (approx. Line 3963):**
 ```c
 }
@@ -73943,8 +71800,6 @@ bool func_117(bool bParam0)
 ---
 
 ## Match in `shoprobberies.c` at Line 50247
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shoprobberies.c`
-
 **Context (approx. Line 50217):**
 ```c
 if (func_797(0))
@@ -74012,8 +71867,6 @@ bool func_1776(bool bParam0)
 ---
 
 ## Match in `shoprobberies_dynamic.c` at Line 9744
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shoprobberies_dynamic.c`
-
 **Context (approx. Line 9714):**
 ```c
 }
@@ -74081,8 +71934,6 @@ bool func_369(bool bParam0)
 ---
 
 ## Match in `shop_horse_shop.c` at Line 79439
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shop_horse_shop.c`
-
 **Context (approx. Line 79409):**
 ```c
 }
@@ -74150,8 +72001,6 @@ bool func_2482(bool bParam0)
 ---
 
 ## Match in `shop_horse_shop_sp.c` at Line 97119
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\shop_horse_shop_sp.c`
-
 **Context (approx. Line 97089):**
 ```c
 }
@@ -74219,8 +72068,6 @@ bool func_3045(bool bParam0)
 ---
 
 ## Match in `short_update.c` at Line 135364
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\short_update.c`
-
 **Context (approx. Line 135334):**
 ```c
 {
@@ -74288,8 +72135,6 @@ bool func_4527(bool bParam0)
 ---
 
 ## Match in `show_movie_magic_lantern.c` at Line 14770
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_movie_magic_lantern.c`
-
 **Context (approx. Line 14740):**
 ```c
 return fParam1;
@@ -74357,8 +72202,6 @@ bool func_333(bool bParam0)
 ---
 
 ## Match in `show_nbx_bigband.c` at Line 14868
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_bigband.c`
-
 **Context (approx. Line 14838):**
 ```c
 return fParam1;
@@ -74426,8 +72269,6 @@ bool func_337(bool bParam0)
 ---
 
 ## Match in `show_nbx_bigband_02.c` at Line 14845
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_bigband_02.c`
-
 **Context (approx. Line 14815):**
 ```c
 return fParam1;
@@ -74495,8 +72336,6 @@ bool func_337(bool bParam0)
 ---
 
 ## Match in `show_nbx_bulletcatch.c` at Line 15925
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_bulletcatch.c`
-
 **Context (approx. Line 15895):**
 ```c
 return fParam1;
@@ -74564,8 +72403,6 @@ bool func_360(bool bParam0)
 ---
 
 ## Match in `show_nbx_cancan.c` at Line 14812
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_cancan.c`
-
 **Context (approx. Line 14782):**
 ```c
 return fParam1;
@@ -74633,8 +72470,6 @@ bool func_336(bool bParam0)
 ---
 
 ## Match in `show_nbx_cancan_02.c` at Line 14811
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_cancan_02.c`
-
 **Context (approx. Line 14781):**
 ```c
 return fParam1;
@@ -74702,8 +72537,6 @@ bool func_335(bool bParam0)
 ---
 
 ## Match in `show_nbx_escapeartist.c` at Line 15037
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_escapeartist.c`
-
 **Context (approx. Line 15007):**
 ```c
 return fParam1;
@@ -74771,8 +72604,6 @@ bool func_343(bool bParam0)
 ---
 
 ## Match in `show_nbx_escapenoose.c` at Line 15475
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_escapenoose.c`
-
 **Context (approx. Line 15445):**
 ```c
 return fParam1;
@@ -74840,8 +72671,6 @@ bool func_347(bool bParam0)
 ---
 
 ## Match in `show_nbx_firebreath_01.c` at Line 15110
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_firebreath_01.c`
-
 **Context (approx. Line 15080):**
 ```c
 return fParam1;
@@ -74909,8 +72738,6 @@ bool func_341(bool bParam0)
 ---
 
 ## Match in `show_nbx_firedance_01.c` at Line 14807
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_firedance_01.c`
-
 **Context (approx. Line 14777):**
 ```c
 return fParam1;
@@ -74978,8 +72805,6 @@ bool func_335(bool bParam0)
 ---
 
 ## Match in `show_nbx_firedance_02.c` at Line 14871
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_firedance_02.c`
-
 **Context (approx. Line 14841):**
 ```c
 return fParam1;
@@ -75047,8 +72872,6 @@ bool func_339(bool bParam0)
 ---
 
 ## Match in `show_nbx_flexfight.c` at Line 16051
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_flexfight.c`
-
 **Context (approx. Line 16021):**
 ```c
 return fParam1;
@@ -75116,8 +72939,6 @@ bool func_368(bool bParam0)
 ---
 
 ## Match in `show_nbx_oddfellows.c` at Line 15099
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_oddfellows.c`
-
 **Context (approx. Line 15069):**
 ```c
 return fParam1;
@@ -75185,8 +73006,6 @@ bool func_342(bool bParam0)
 ---
 
 ## Match in `show_nbx_snakedance_01.c` at Line 14934
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_snakedance_01.c`
-
 **Context (approx. Line 14904):**
 ```c
 return fParam1;
@@ -75254,8 +73073,6 @@ bool func_339(bool bParam0)
 ---
 
 ## Match in `show_nbx_snakedance_02.c` at Line 14940
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_snakedance_02.c`
-
 **Context (approx. Line 14910):**
 ```c
 return fParam1;
@@ -75323,8 +73140,6 @@ bool func_337(bool bParam0)
 ---
 
 ## Match in `show_nbx_strongwoman.c` at Line 14974
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_strongwoman.c`
-
 **Context (approx. Line 14944):**
 ```c
 return fParam1;
@@ -75392,8 +73207,6 @@ bool func_340(bool bParam0)
 ---
 
 ## Match in `show_nbx_sworddance_01.c` at Line 14843
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\show_nbx_sworddance_01.c`
-
 **Context (approx. Line 14813):**
 ```c
 return fParam1;
@@ -75461,8 +73274,6 @@ bool func_341(bool bParam0)
 ---
 
 ## Match in `smuggler2.c` at Line 86869
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\smuggler2.c`
-
 **Context (approx. Line 86839):**
 ```c
 void func_2272(var uParam0, bool bParam1, int iParam2)
@@ -75529,8 +73340,6 @@ bool func_2273(bool bParam0)
 ---
 
 ## Match in `smuggler2_intro.c` at Line 12060
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\smuggler2_intro.c`
-
 **Context (approx. Line 12030):**
 ```c
 case 0:
@@ -75598,8 +73407,6 @@ bool func_552(bool bParam0)
 ---
 
 ## Match in `smuggler2_outro.c` at Line 3576
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\smuggler2_outro.c`
-
 **Context (approx. Line 3546):**
 ```c
 Global_1357549.f_1675[iVar0 /*5*/].f_1 = -1;
@@ -75667,8 +73474,6 @@ bool func_134(bool bParam0)
 ---
 
 ## Match in `spd_agnesdowd1.c` at Line 8182
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_agnesdowd1.c`
-
 **Context (approx. Line 8152):**
 ```c
 return iVar2;
@@ -75736,8 +73541,6 @@ bool func_253(bool bParam0)
 ---
 
 ## Match in `spd_andershelgerson.c` at Line 15202
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_andershelgerson.c`
-
 **Context (approx. Line 15172):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -75805,8 +73608,6 @@ bool func_576(bool bParam0)
 ---
 
 ## Match in `spd_armadillotowncrier.c` at Line 15879
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_armadillotowncrier.c`
-
 **Context (approx. Line 15849):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -75874,8 +73675,6 @@ bool func_584(bool bParam0)
 ---
 
 ## Match in `spd_blandpreacher.c` at Line 11373
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_blandpreacher.c`
-
 **Context (approx. Line 11343):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -75943,8 +73742,6 @@ bool func_484(bool bParam0)
 ---
 
 ## Match in `spd_blindmancassidy1.c` at Line 15173
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_blindmancassidy1.c`
-
 **Context (approx. Line 15143):**
 ```c
 Global_1327479.f_5 = (MISC::GET_GAME_TIMER() + iParam1 * 1000);
@@ -76012,8 +73809,6 @@ bool func_501(bool bParam0)
 ---
 
 ## Match in `spd_bummicky1.c` at Line 11162
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_bummicky1.c`
-
 **Context (approx. Line 11132):**
 ```c
 return iVar2;
@@ -76081,8 +73876,6 @@ bool func_443(bool bParam0)
 ---
 
 ## Match in `spd_bummicky2.c` at Line 11039
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_bummicky2.c`
-
 **Context (approx. Line 11009):**
 ```c
 return iVar2;
@@ -76150,8 +73943,6 @@ bool func_430(bool bParam0)
 ---
 
 ## Match in `spd_bummicky3.c` at Line 11118
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_bummicky3.c`
-
 **Context (approx. Line 11088):**
 ```c
 return iVar2;
@@ -76219,8 +74010,6 @@ bool func_446(bool bParam0)
 ---
 
 ## Match in `spd_bummicky4.c` at Line 10497
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_bummicky4.c`
-
 **Context (approx. Line 10467):**
 ```c
 return iVar2;
@@ -76288,8 +74077,6 @@ bool func_417(bool bParam0)
 ---
 
 ## Match in `spd_bummicky5.c` at Line 10437
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_bummicky5.c`
-
 **Context (approx. Line 10407):**
 ```c
 return iVar2;
@@ -76357,8 +74144,6 @@ bool func_414(bool bParam0)
 ---
 
 ## Match in `spd_bummicky6.c` at Line 10369
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_bummicky6.c`
-
 **Context (approx. Line 10339):**
 ```c
 return iVar2;
@@ -76426,8 +74211,6 @@ bool func_414(bool bParam0)
 ---
 
 ## Match in `spd_bummicky7.c` at Line 10562
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_bummicky7.c`
-
 **Context (approx. Line 10532):**
 ```c
 return iVar2;
@@ -76495,8 +74278,6 @@ bool func_427(bool bParam0)
 ---
 
 ## Match in `spd_chelonianmaster1.c` at Line 13420
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_chelonianmaster1.c`
-
 **Context (approx. Line 13390):**
 ```c
 void func_483(int iParam0, char* sParam1, char* sParam2, char* sParam3, bool bParam4)
@@ -76564,8 +74345,6 @@ bool func_484(bool bParam0)
 ---
 
 ## Match in `spd_civilwarcommando.c` at Line 7956
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_civilwarcommando.c`
-
 **Context (approx. Line 7926):**
 ```c
 Var0.f_3 = iParam2;
@@ -76633,8 +74412,6 @@ bool func_321(bool bParam0)
 ---
 
 ## Match in `spd_crackpotrobot.c` at Line 9477
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_crackpotrobot.c`
-
 **Context (approx. Line 9447):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -76702,8 +74479,6 @@ bool func_395(bool bParam0)
 ---
 
 ## Match in `spd_dorotheawicklow1.c` at Line 10243
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_dorotheawicklow1.c`
-
 **Context (approx. Line 10213):**
 ```c
 return iVar2;
@@ -76771,8 +74546,6 @@ bool func_422(bool bParam0)
 ---
 
 ## Match in `spd_dorotheawicklow2.c` at Line 10268
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_dorotheawicklow2.c`
-
 **Context (approx. Line 10238):**
 ```c
 return iVar2;
@@ -76840,8 +74613,6 @@ bool func_427(bool bParam0)
 ---
 
 ## Match in `spd_endlessstrainer1.c` at Line 11845
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_endlessstrainer1.c`
-
 **Context (approx. Line 11815):**
 ```c
 return iVar2;
@@ -76909,8 +74680,6 @@ bool func_341(bool bParam0)
 ---
 
 ## Match in `spd_eugenicsproponent.c` at Line 15465
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_eugenicsproponent.c`
-
 **Context (approx. Line 15435):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -76978,8 +74747,6 @@ bool func_582(bool bParam0)
 ---
 
 ## Match in `spd_gavin1.c` at Line 13057
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_gavin1.c`
-
 **Context (approx. Line 13027):**
 ```c
 {
@@ -77047,8 +74814,6 @@ bool func_453(bool bParam0)
 ---
 
 ## Match in `spd_gavin2.c` at Line 13036
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_gavin2.c`
-
 **Context (approx. Line 13006):**
 ```c
 {
@@ -77116,8 +74881,6 @@ bool func_450(bool bParam0)
 ---
 
 ## Match in `spd_giant.c` at Line 2191
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_giant.c`
-
 **Context (approx. Line 2161):**
 ```c
 {
@@ -77185,8 +74948,6 @@ bool func_103(bool bParam0)
 ---
 
 ## Match in `spd_giant_birds.c` at Line 497
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_giant_birds.c`
-
 **Context (approx. Line 467):**
 ```c
 PED::_SET_PED_OUTFIT_PRESET(bParam0, 0, false);
@@ -77254,8 +75015,6 @@ bool func_16(bool bParam0)
 ---
 
 ## Match in `spd_grizzledjon1.c` at Line 10687
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_grizzledjon1.c`
-
 **Context (approx. Line 10657):**
 ```c
 return iVar2;
@@ -77323,8 +75082,6 @@ bool func_390(bool bParam0)
 ---
 
 ## Match in `spd_joebutler1.c` at Line 12840
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_joebutler1.c`
-
 **Context (approx. Line 12810):**
 ```c
 int func_487(int iParam0)
@@ -77392,8 +75149,6 @@ bool func_488(bool bParam0)
 ---
 
 ## Match in `spd_joebutler2.c` at Line 10249
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_joebutler2.c`
-
 **Context (approx. Line 10219):**
 ```c
 return iVar2;
@@ -77461,8 +75216,6 @@ bool func_421(bool bParam0)
 ---
 
 ## Match in `spd_joebutler3.c` at Line 11899
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_joebutler3.c`
-
 **Context (approx. Line 11869):**
 ```c
 int func_467(int iParam0)
@@ -77530,8 +75283,6 @@ bool func_468(bool bParam0)
 ---
 
 ## Match in `spd_joebutler4.c` at Line 10248
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_joebutler4.c`
-
 **Context (approx. Line 10218):**
 ```c
 return iVar2;
@@ -77599,8 +75350,6 @@ bool func_422(bool bParam0)
 ---
 
 ## Match in `spd_johnmadman.c` at Line 11949
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_johnmadman.c`
-
 **Context (approx. Line 11919):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -77668,8 +75417,6 @@ bool func_472(bool bParam0)
 ---
 
 ## Match in `spd_lillianpowell1.c` at Line 11430
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_lillianpowell1.c`
-
 **Context (approx. Line 11400):**
 ```c
 return iVar2;
@@ -77737,8 +75484,6 @@ bool func_469(bool bParam0)
 ---
 
 ## Match in `spd_lillianpowell2.c` at Line 11379
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_lillianpowell2.c`
-
 **Context (approx. Line 11349):**
 ```c
 return iVar2;
@@ -77806,8 +75551,6 @@ bool func_469(bool bParam0)
 ---
 
 ## Match in `spd_lillianpowell3.c` at Line 11453
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_lillianpowell3.c`
-
 **Context (approx. Line 11423):**
 ```c
 return iVar2;
@@ -77875,8 +75618,6 @@ bool func_472(bool bParam0)
 ---
 
 ## Match in `spd_lillianpowell4.c` at Line 11441
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_lillianpowell4.c`
-
 **Context (approx. Line 11411):**
 ```c
 return iVar2;
@@ -77944,8 +75685,6 @@ bool func_472(bool bParam0)
 ---
 
 ## Match in `spd_madscientist.c` at Line 14793
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_madscientist.c`
-
 **Context (approx. Line 14763):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -78013,8 +75752,6 @@ bool func_555(bool bParam0)
 ---
 
 ## Match in `spd_mayorofstrawberry1.c` at Line 12993
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_mayorofstrawberry1.c`
-
 **Context (approx. Line 12963):**
 ```c
 {
@@ -78082,8 +75819,6 @@ bool func_535(bool bParam0)
 ---
 
 ## Match in `spd_philosopher1.c` at Line 8836
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_philosopher1.c`
-
 **Context (approx. Line 8806):**
 ```c
 return iVar2;
@@ -78151,8 +75886,6 @@ bool func_344(bool bParam0)
 ---
 
 ## Match in `spd_poorjoe1.c` at Line 9501
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_poorjoe1.c`
-
 **Context (approx. Line 9471):**
 ```c
 return iVar2;
@@ -78220,8 +75953,6 @@ bool func_404(bool bParam0)
 ---
 
 ## Match in `spd_sheriffoftumbleweed.c` at Line 13990
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_sheriffoftumbleweed.c`
-
 **Context (approx. Line 13934):**
 ```c
 }
@@ -78315,8 +76046,6 @@ bool func_534(bool bParam0)
 ---
 
 ## Match in `spd_soothsayer1.c` at Line 10779
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_soothsayer1.c`
-
 **Context (approx. Line 10749):**
 ```c
 return iVar2;
@@ -78384,8 +76113,6 @@ bool func_417(bool bParam0)
 ---
 
 ## Match in `spd_sunworshipper1.c` at Line 11661
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_sunworshipper1.c`
-
 **Context (approx. Line 11631):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -78453,8 +76180,6 @@ bool func_466(bool bParam0)
 ---
 
 ## Match in `spd_swampweirdo1.c` at Line 16256
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_swampweirdo1.c`
-
 **Context (approx. Line 16226):**
 ```c
 {
@@ -78522,8 +76247,6 @@ bool func_603(bool bParam0)
 ---
 
 ## Match in `spd_thomasdowne1.c` at Line 21274
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_thomasdowne1.c`
-
 **Context (approx. Line 21244):**
 ```c
 {
@@ -78591,8 +76314,6 @@ bool func_656(bool bParam0)
 ---
 
 ## Match in `spd_timothydonahue1.c` at Line 18970
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_timothydonahue1.c`
-
 **Context (approx. Line 18940):**
 ```c
 return iVar2;
@@ -78660,8 +76381,6 @@ bool func_596(bool bParam0)
 ---
 
 ## Match in `spd_timothydonahue2.c` at Line 9247
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_timothydonahue2.c`
-
 **Context (approx. Line 9217):**
 ```c
 return iVar2;
@@ -78729,8 +76448,6 @@ bool func_360(bool bParam0)
 ---
 
 ## Match in `spd_tinyhermit1.c` at Line 11682
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_tinyhermit1.c`
-
 **Context (approx. Line 11652):**
 ```c
 return iVar2;
@@ -78798,8 +76515,6 @@ bool func_414(bool bParam0)
 ---
 
 ## Match in `spd_vampire.c` at Line 12034
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\spd_vampire.c`
-
 **Context (approx. Line 12004):**
 ```c
 if (Global_1058888.f_40431.f_1[iVar2 /*2*/] > iParam0)
@@ -78867,8 +76582,6 @@ bool func_494(bool bParam0)
 ---
 
 ## Match in `stage_coach.c` at Line 7289
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\stage_coach.c`
-
 **Context (approx. Line 7259):**
 ```c
 func_267(1);
@@ -78936,8 +76649,6 @@ bool func_268(bool bParam0)
 ---
 
 ## Match in `susan1.c` at Line 73935
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\susan1.c`
-
 **Context (approx. Line 73905):**
 ```c
 *fParam2 = MISC::GET_RANDOM_FLOAT_IN_RANGE(0.125f, 0.125f);
@@ -79005,8 +76716,6 @@ bool func_2057(bool bParam0)
 ---
 
 ## Match in `theatre_ticket_taker.c` at Line 3833
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\theatre_ticket_taker.c`
-
 **Context (approx. Line 3803):**
 ```c
 if (Global_1572887.f_12 == -1)
@@ -79074,8 +76783,6 @@ bool func_146(bool bParam0)
 ---
 
 ## Match in `town_secrets_sd_trelawny.c` at Line 1344
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\town_secrets_sd_trelawny.c`
-
 **Context (approx. Line 1314):**
 ```c
 }
@@ -79143,8 +76850,6 @@ bool func_73(bool bParam0)
 ---
 
 ## Match in `town_secrets_val_moira.c` at Line 1450
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\town_secrets_val_moira.c`
-
 **Context (approx. Line 1420):**
 ```c
 }
@@ -79212,8 +76917,6 @@ bool func_76(bool bParam0)
 ---
 
 ## Match in `train_robbery1.c` at Line 87540
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\train_robbery1.c`
-
 **Context (approx. Line 87510):**
 ```c
 bool func_2365(char* sParam0, char* sParam1, char* sParam2, char* sParam3, char* sParam4, int iParam5)
@@ -79281,8 +76984,6 @@ bool func_2368(bool bParam0)
 ---
 
 ## Match in `train_robbery1_intro.c` at Line 25976
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\train_robbery1_intro.c`
-
 **Context (approx. Line 25946):**
 ```c
 return 74;
@@ -79350,8 +77051,6 @@ bool func_926(bool bParam0)
 ---
 
 ## Match in `train_robbery2.c` at Line 83878
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\train_robbery2.c`
-
 **Context (approx. Line 83848):**
 ```c
 func_2138(iParam0);
@@ -79419,8 +77118,6 @@ bool func_2286(bool bParam0)
 ---
 
 ## Match in `train_robbery2_intro.c` at Line 27159
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\train_robbery2_intro.c`
-
 **Context (approx. Line 27129):**
 ```c
 {
@@ -79488,8 +77185,6 @@ bool func_1011(bool bParam0)
 ---
 
 ## Match in `train_robbery4.c` at Line 98653
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\train_robbery4.c`
-
 **Context (approx. Line 98623):**
 ```c
 if (ENTITY::DOES_ENTITY_EXIST(bVar0) && func_442(bVar0, 0))
@@ -79557,8 +77252,6 @@ bool func_2521(bool bParam0)
 ---
 
 ## Match in `train_robbery4_intro.c` at Line 19995
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\train_robbery4_intro.c`
-
 **Context (approx. Line 19965):**
 ```c
 if (ENTITY::DOES_ENTITY_EXIST(bVar0) && func_265(bVar0, 0))
@@ -79626,8 +77319,6 @@ bool func_838(bool bParam0)
 ---
 
 ## Match in `treasure_hunter.c` at Line 14515
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\treasure_hunter.c`
-
 **Context (approx. Line 14485):**
 ```c
 if (iParam0 < 0)
@@ -79695,8 +77386,6 @@ bool func_448(bool bParam0)
 ---
 
 ## Match in `trelawny1.c` at Line 94453
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\trelawny1.c`
-
 **Context (approx. Line 94423):**
 ```c
 break;
@@ -79764,8 +77453,6 @@ bool func_2728(bool bParam0)
 ---
 
 ## Match in `trelawny1_intro.c` at Line 20604
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\trelawny1_intro.c`
-
 **Context (approx. Line 20574):**
 ```c
 if (bVar0)
@@ -79833,8 +77520,6 @@ bool func_791(bool bParam0)
 ---
 
 ## Match in `utopia1.c` at Line 95904
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\utopia1.c`
-
 **Context (approx. Line 95874):**
 ```c
 else if (iParam0 == 96)
@@ -79902,8 +77587,6 @@ bool func_2664(bool bParam0)
 ---
 
 ## Match in `utopia1_intro.c` at Line 17120
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\utopia1_intro.c`
-
 **Context (approx. Line 17090):**
 ```c
 if (!ENTITY::DOES_ENTITY_EXIST(iParam2))
@@ -79971,8 +77654,6 @@ bool func_664(bool bParam0)
 ---
 
 ## Match in `utopia2.c` at Line 97275
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\utopia2.c`
-
 **Context (approx. Line 97245):**
 ```c
 }
@@ -80040,8 +77721,6 @@ bool func_2611(bool bParam0)
 ---
 
 ## Match in `utopia2_intro.c` at Line 28096
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\utopia2_intro.c`
-
 **Context (approx. Line 28066):**
 ```c
 {
@@ -80109,8 +77788,6 @@ bool func_1040(bool bParam0)
 ---
 
 ## Match in `valentine.c` at Line 17882
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\valentine.c`
-
 **Context (approx. Line 17852):**
 ```c
 int iVar0;
@@ -80178,8 +77855,6 @@ bool func_647(bool bParam0)
 ---
 
 ## Match in `vanhorntradingpost.c` at Line 11529
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\vanhorntradingpost.c`
-
 **Context (approx. Line 11499):**
 ```c
 case 69:
@@ -80247,8 +77922,6 @@ bool func_389(bool bParam0)
 ---
 
 ## Match in `winter1.c` at Line 97439
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\winter1.c`
-
 **Context (approx. Line 97409):**
 ```c
 func_2742(uParam0, 0f, 0f, 0f);
@@ -80316,8 +77989,6 @@ bool func_2750(bool bParam0)
 ---
 
 ## Match in `winter2.c` at Line 88351
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\winter2.c`
-
 **Context (approx. Line 88321):**
 ```c
 case 0:
@@ -80385,8 +78056,6 @@ bool func_2329(bool bParam0)
 ---
 
 ## Match in `winter4.c` at Line 105423
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\winter4.c`
-
 **Context (approx. Line 105393):**
 ```c
 {
@@ -80454,8 +78123,6 @@ bool func_2915(bool bParam0)
 ---
 
 ## Match in `winter4_intro.c` at Line 22377
-**Path:** `C:\Users\Puneet Mishra\Downloads\RDR3-Decompiled-Scripts-main\RDR3-Decompiled-Scripts-main\1436\script_rel\winter4_intro.c`
-
 **Context (approx. Line 22347):**
 ```c
 int func_867()
